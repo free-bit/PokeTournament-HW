@@ -1,7 +1,7 @@
 # PokeTournament-HW
 
 Concepts: <br />
-OOP, Memory Management, File Operations<br />
+OOP, Inheritance, Polymorphism, (Pure) Abstract Class, Memory Management, File Operations<br />
 <br />
 Usage: <br />
 make clean <br />
