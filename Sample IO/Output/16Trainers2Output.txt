@@ -1,0 +1,4075 @@
+Started Round: 0 vs 15
+	Brook vs Jesse: ElectriCity
+			Magneton(600) hit Exeggutor(800) 50(+)
+			Exeggutor(750) is electrified!!
+			Exeggutor(680) hit Magneton(600) 40(/)
+			Magneton(560) is rooted!!!!
+			Magneton(510) hit Exeggutor(680) 50(+)
+			Exeggutor(630) is electrified!!
+			Exeggutor(560) hit Magneton(510) 40(/)
+			Magneton(470) is rooted!!!!
+			Magneton(420) hit Exeggutor(560) 50(+)
+			Exeggutor(510) is electrified!!
+			Exeggutor(440) hit Magneton(420) 40(/)
+			Magneton(380) is rooted!!!!
+			Magneton(330) hit Exeggutor(440) 50(+)
+			Exeggutor(390) is electrified!!
+			Exeggutor(320) hit Magneton(330) 40(/)
+			Magneton(290) is rooted!!!!
+			Magneton(240) hit Exeggutor(320) 50(+)
+			Exeggutor(270) is electrified!!
+			Exeggutor(200) hit Magneton(240) 40(/)
+			Magneton(200) is rooted!!!!
+			Magneton(150) hit Exeggutor(200) 50(+)
+			Exeggutor(150) is electrified!!
+			Exeggutor(80) hit Magneton(150) 40(/)
+			Magneton(110) is rooted!!!!
+			Magneton(60) hit Exeggutor(80) 50(+)
+			Exeggutor(30) is electrified!!
+		WinnerP:Magneton
+			Flareon(600) hit Magneton(110) 60(/)
+			Magneton(50) is burning!!
+			Magneton(33) is rooted!!!!
+		WinnerP:Flareon
+			Vulpix(600) hit Flareon(660) 49(/)
+			Flareon(611) hit Vulpix(600) 56(/)
+			Vulpix(544) hit Flareon(611) 49(/)
+			Flareon(562) hit Vulpix(544) 56(/)
+			Vulpix(488) hit Flareon(562) 49(/)
+			Flareon(513) hit Vulpix(488) 56(/)
+			Vulpix(432) hit Flareon(513) 49(/)
+			Flareon(464) hit Vulpix(432) 56(/)
+			Vulpix(376) hit Flareon(464) 49(/)
+			Flareon(415) hit Vulpix(376) 56(/)
+			Vulpix(320) hit Flareon(415) 49(/)
+			Flareon(366) hit Vulpix(320) 56(/)
+			Vulpix(264) hit Flareon(366) 49(/)
+			Flareon(317) hit Vulpix(264) 56(/)
+			Vulpix(208) hit Flareon(317) 49(/)
+			Flareon(268) hit Vulpix(208) 56(/)
+			Vulpix(152) hit Flareon(268) 49(/)
+			Flareon(219) hit Vulpix(152) 56(/)
+			Vulpix(96) hit Flareon(219) 49(/)
+			Flareon(170) hit Vulpix(96) 56(/)
+			Vulpix(40) hit Flareon(170) 49(/)
+			Flareon(121) hit Vulpix(40) 56(/)
+		WinnerP:Flareon
+			Vulpix(600) hit Flareon(181) 48(/)
+			Flareon(133) hit Vulpix(600) 62(/)
+			Vulpix(538) hit Flareon(133) 48(/)
+			Flareon(85) hit Vulpix(538) 62(/)
+			Vulpix(476) hit Flareon(85) 48(/)
+			Flareon(37) hit Vulpix(476) 62(/)
+			Vulpix(414) hit Flareon(37) 48(/)
+		WinnerP:Vulpix
+			Charmander(600) hit Vulpix(474) 49(/)
+			Vulpix(425) hit Charmander(600) 56(/)
+			Charmander(544) hit Vulpix(425) 49(/)
+			Vulpix(376) hit Charmander(544) 56(/)
+			Charmander(488) hit Vulpix(376) 49(/)
+			Vulpix(327) hit Charmander(488) 56(/)
+			Charmander(432) hit Vulpix(327) 49(/)
+			Vulpix(278) hit Charmander(432) 56(/)
+			Charmander(376) hit Vulpix(278) 49(/)
+			Vulpix(229) hit Charmander(376) 56(/)
+			Charmander(320) hit Vulpix(229) 49(/)
+			Vulpix(180) hit Charmander(320) 56(/)
+			Charmander(264) hit Vulpix(180) 49(/)
+			Vulpix(131) hit Charmander(264) 56(/)
+			Charmander(208) hit Vulpix(131) 49(/)
+			Vulpix(82) hit Charmander(208) 56(/)
+			Charmander(152) hit Vulpix(82) 49(/)
+			Vulpix(33) hit Charmander(152) 56(/)
+			Charmander(96) hit Vulpix(33) 49(/)
+		WinnerP:Charmander
+	WinnerT:Jesse
+
+	Jesse vs Brook: Ocean
+			Exeggutor(800) hit Magneton(550) 40(/)
+			Magneton(510) is rooted!!!!
+			Magneton(463) hit Exeggutor(800) 47(/)
+			Exeggutor(753) is electrified!!
+			Exeggutor(683) hit Magneton(463) 40(/)
+			Magneton(423) is rooted!!!!
+			Magneton(376) hit Exeggutor(683) 47(/)
+			Exeggutor(636) is electrified!!
+			Exeggutor(566) hit Magneton(376) 40(/)
+			Magneton(336) is rooted!!!!
+			Magneton(289) hit Exeggutor(566) 47(/)
+			Exeggutor(519) is electrified!!
+			Exeggutor(449) hit Magneton(289) 40(/)
+			Magneton(249) is rooted!!!!
+			Magneton(202) hit Exeggutor(449) 47(/)
+			Exeggutor(402) is electrified!!
+			Exeggutor(332) hit Magneton(202) 40(/)
+			Magneton(162) is rooted!!!!
+			Magneton(115) hit Exeggutor(332) 47(/)
+			Exeggutor(285) is electrified!!
+			Exeggutor(215) hit Magneton(115) 40(/)
+			Magneton(75) is rooted!!!!
+			Magneton(28) hit Exeggutor(215) 47(/)
+			Exeggutor(168) is electrified!!
+			Exeggutor(98) hit Magneton(28) 40(/)
+		WinnerP:Exeggutor
+			Vulpix(500) hit Exeggutor(178) 17(-)
+			Exeggutor(161) is burning!!!!
+			Exeggutor(61) is electrified!!
+		WinnerP:Vulpix
+			Flareon(620) hit Vulpix(560) 51(-)
+			Vulpix(509) hit Flareon(620) 44(-)
+			Flareon(576) hit Vulpix(509) 51(-)
+			Vulpix(458) hit Flareon(576) 44(-)
+			Flareon(532) hit Vulpix(458) 51(-)
+			Vulpix(407) hit Flareon(532) 44(-)
+			Flareon(488) hit Vulpix(407) 51(-)
+			Vulpix(356) hit Flareon(488) 44(-)
+			Flareon(444) hit Vulpix(356) 51(-)
+			Vulpix(305) hit Flareon(444) 44(-)
+			Flareon(400) hit Vulpix(305) 51(-)
+			Vulpix(254) hit Flareon(400) 44(-)
+			Flareon(356) hit Vulpix(254) 51(-)
+			Vulpix(203) hit Flareon(356) 44(-)
+			Flareon(312) hit Vulpix(203) 51(-)
+			Vulpix(152) hit Flareon(312) 44(-)
+			Flareon(268) hit Vulpix(152) 51(-)
+			Vulpix(101) hit Flareon(268) 44(-)
+			Flareon(224) hit Vulpix(101) 51(-)
+			Vulpix(50) hit Flareon(224) 44(-)
+			Flareon(180) hit Vulpix(50) 51(-)
+		WinnerP:Flareon
+			Vulpix(560) hit Flareon(240) 43(-)
+			Flareon(197) hit Vulpix(560) 57(-)
+			Vulpix(503) hit Flareon(197) 43(-)
+			Flareon(154) hit Vulpix(503) 57(-)
+			Vulpix(446) hit Flareon(154) 43(-)
+			Flareon(111) hit Vulpix(446) 57(-)
+			Vulpix(389) hit Flareon(111) 43(-)
+			Flareon(68) hit Vulpix(389) 57(-)
+			Vulpix(332) hit Flareon(68) 43(-)
+			Flareon(25) hit Vulpix(332) 57(-)
+			Vulpix(275) hit Flareon(25) 43(-)
+		WinnerP:Vulpix
+			Charmander(560) hit Vulpix(335) 44(-)
+			Vulpix(291) hit Charmander(560) 51(-)
+			Charmander(509) hit Vulpix(291) 44(-)
+			Vulpix(247) hit Charmander(509) 51(-)
+			Charmander(458) hit Vulpix(247) 44(-)
+			Vulpix(203) hit Charmander(458) 51(-)
+			Charmander(407) hit Vulpix(203) 44(-)
+			Vulpix(159) hit Charmander(407) 51(-)
+			Charmander(356) hit Vulpix(159) 44(-)
+			Vulpix(115) hit Charmander(356) 51(-)
+			Charmander(305) hit Vulpix(115) 44(-)
+			Vulpix(71) hit Charmander(305) 51(-)
+			Charmander(254) hit Vulpix(71) 44(-)
+			Vulpix(27) hit Charmander(254) 51(-)
+			Charmander(203) hit Vulpix(27) 44(-)
+		WinnerP:Charmander
+	WinnerT:Jesse
+
+	Brook vs Jesse: Stadium
+			Magneton(550) hit Exeggutor(880) 44(/)
+			Exeggutor(836) is electrified!!
+			Exeggutor(766) hit Magneton(550) 44(/)
+			Magneton(506) is rooted!!!!
+			Magneton(459) hit Exeggutor(766) 44(/)
+			Exeggutor(722) is electrified!!
+			Exeggutor(652) hit Magneton(459) 44(/)
+			Magneton(415) is rooted!!!!
+			Magneton(368) hit Exeggutor(652) 44(/)
+			Exeggutor(608) is electrified!!
+			Exeggutor(538) hit Magneton(368) 44(/)
+			Magneton(324) is rooted!!!!
+			Magneton(277) hit Exeggutor(538) 44(/)
+			Exeggutor(494) is electrified!!
+			Exeggutor(424) hit Magneton(277) 44(/)
+			Magneton(233) is rooted!!!!
+			Magneton(186) hit Exeggutor(424) 44(/)
+			Exeggutor(380) is electrified!!
+			Exeggutor(310) hit Magneton(186) 44(/)
+			Magneton(142) is rooted!!!!
+			Magneton(95) hit Exeggutor(310) 44(/)
+			Exeggutor(266) is electrified!!
+			Exeggutor(196) hit Magneton(95) 44(/)
+			Magneton(51) is rooted!!!!
+			Magneton(4) hit Exeggutor(196) 44(/)
+			Exeggutor(152) is electrified!!
+			Exeggutor(82) hit Magneton(4) 44(/)
+		WinnerP:Exeggutor
+			Vulpix(660) hit Exeggutor(162) 30(/)
+			Exeggutor(132) is burning!!!!
+			Exeggutor(32) is electrified!!
+		WinnerP:Vulpix
+			Flareon(780) hit Vulpix(720) 66(/)
+			Vulpix(654) hit Flareon(780) 59(/)
+			Flareon(721) hit Vulpix(654) 66(/)
+			Vulpix(588) hit Flareon(721) 59(/)
+			Flareon(662) hit Vulpix(588) 66(/)
+			Vulpix(522) hit Flareon(662) 59(/)
+			Flareon(603) hit Vulpix(522) 66(/)
+			Vulpix(456) hit Flareon(603) 59(/)
+			Flareon(544) hit Vulpix(456) 66(/)
+			Vulpix(390) hit Flareon(544) 59(/)
+			Flareon(485) hit Vulpix(390) 66(/)
+			Vulpix(324) hit Flareon(485) 59(/)
+			Flareon(426) hit Vulpix(324) 66(/)
+			Vulpix(258) hit Flareon(426) 59(/)
+			Flareon(367) hit Vulpix(258) 66(/)
+			Vulpix(192) hit Flareon(367) 59(/)
+			Flareon(308) hit Vulpix(192) 66(/)
+			Vulpix(126) hit Flareon(308) 59(/)
+			Flareon(249) hit Vulpix(126) 66(/)
+			Vulpix(60) hit Flareon(249) 59(/)
+			Flareon(190) hit Vulpix(60) 66(/)
+		WinnerP:Flareon
+			Vulpix(720) hit Flareon(250) 58(/)
+			Flareon(192) hit Vulpix(720) 72(/)
+			Vulpix(648) hit Flareon(192) 58(/)
+			Flareon(134) hit Vulpix(648) 72(/)
+			Vulpix(576) hit Flareon(134) 58(/)
+			Flareon(76) hit Vulpix(576) 72(/)
+			Vulpix(504) hit Flareon(76) 58(/)
+			Flareon(18) hit Vulpix(504) 72(/)
+			Vulpix(432) hit Flareon(18) 58(/)
+		WinnerP:Vulpix
+			Charmander(720) hit Vulpix(492) 59(/)
+			Vulpix(433) hit Charmander(720) 66(/)
+			Charmander(654) hit Vulpix(433) 59(/)
+			Vulpix(374) hit Charmander(654) 66(/)
+			Charmander(588) hit Vulpix(374) 59(/)
+			Vulpix(315) hit Charmander(588) 66(/)
+			Charmander(522) hit Vulpix(315) 59(/)
+			Vulpix(256) hit Charmander(522) 66(/)
+			Charmander(456) hit Vulpix(256) 59(/)
+			Vulpix(197) hit Charmander(456) 66(/)
+			Charmander(390) hit Vulpix(197) 59(/)
+			Vulpix(138) hit Charmander(390) 66(/)
+			Charmander(324) hit Vulpix(138) 59(/)
+			Vulpix(79) hit Charmander(324) 66(/)
+			Charmander(258) hit Vulpix(79) 59(/)
+			Vulpix(20) hit Charmander(258) 66(/)
+			Charmander(192) hit Vulpix(20) 59(/)
+		WinnerP:Charmander
+	WinnerT:Jesse
+
+Round Winner: Jesse!
+Started Round: 1 vs 14
+	Cilan vs Serena: Sky
+			Articuno(750) hit Vulpix(500) 55(+)
+			Vulpix(445) hit Articuno(750) 35(-)
+			Articuno(715) hit Vulpix(445) 55(+)
+			Vulpix(390) hit Articuno(715) 35(-)
+			Articuno(680) hit Vulpix(390) 55(+)
+			Vulpix(335) hit Articuno(680) 35(-)
+			Articuno(645) hit Vulpix(335) 55(+)
+			Vulpix(280) hit Articuno(645) 35(-)
+			Articuno(610) hit Vulpix(280) 55(+)
+			Vulpix(225) hit Articuno(610) 35(-)
+			Articuno(575) hit Vulpix(225) 55(+)
+			Vulpix(170) hit Articuno(575) 35(-)
+			Articuno(540) hit Vulpix(170) 55(+)
+			Vulpix(115) hit Articuno(540) 35(-)
+			Articuno(505) hit Vulpix(115) 55(+)
+			Vulpix(60) hit Articuno(505) 35(-)
+			Articuno(470) hit Vulpix(60) 55(+)
+			Vulpix(5) hit Articuno(470) 35(-)
+			Articuno(435) hit Vulpix(5) 55(+)
+		WinnerP:Articuno
+			Aerodactyl(750) hit Articuno(500) 47(+)
+			Articuno(453) hit Aerodactyl(750) 55(+)
+			Aerodactyl(695) hit Articuno(453) 47(+)
+			Articuno(406) hit Aerodactyl(695) 55(+)
+			Aerodactyl(640) hit Articuno(406) 47(+)
+			Articuno(359) hit Aerodactyl(640) 55(+)
+			Aerodactyl(585) hit Articuno(359) 47(+)
+			Articuno(312) hit Aerodactyl(585) 55(+)
+			Aerodactyl(530) hit Articuno(312) 47(+)
+			Articuno(265) hit Aerodactyl(530) 55(+)
+			Aerodactyl(475) hit Articuno(265) 47(+)
+			Articuno(218) hit Aerodactyl(475) 55(+)
+			Aerodactyl(420) hit Articuno(218) 47(+)
+			Articuno(171) hit Aerodactyl(420) 55(+)
+			Aerodactyl(365) hit Articuno(171) 47(+)
+			Articuno(124) hit Aerodactyl(365) 55(+)
+			Aerodactyl(310) hit Articuno(124) 47(+)
+			Articuno(77) hit Aerodactyl(310) 55(+)
+			Aerodactyl(255) hit Articuno(77) 47(+)
+			Articuno(30) hit Aerodactyl(255) 55(+)
+			Aerodactyl(200) hit Articuno(30) 47(+)
+		WinnerP:Aerodactyl
+			Zapdos(750) hit Aerodactyl(265) 47(+)
+			Aerodactyl(218) hit Zapdos(750) 55(+)
+			Zapdos(695) hit Aerodactyl(218) 47(+)
+			Aerodactyl(171) hit Zapdos(695) 55(+)
+			Zapdos(640) hit Aerodactyl(171) 47(+)
+			Aerodactyl(124) hit Zapdos(640) 55(+)
+			Zapdos(585) hit Aerodactyl(124) 47(+)
+			Aerodactyl(77) hit Zapdos(585) 55(+)
+			Zapdos(530) hit Aerodactyl(77) 47(+)
+			Aerodactyl(30) hit Zapdos(530) 55(+)
+			Zapdos(475) hit Aerodactyl(30) 47(+)
+		WinnerP:Zapdos
+			Voltorb(500) hit Zapdos(540) 52(/)
+			Zapdos(488) hit Voltorb(500) 70(+)
+			Voltorb(430) hit Zapdos(488) 52(/)
+			Zapdos(436) hit Voltorb(430) 70(+)
+			Voltorb(360) hit Zapdos(436) 52(/)
+			Zapdos(384) hit Voltorb(360) 70(+)
+			Voltorb(290) hit Zapdos(384) 52(/)
+			Zapdos(332) hit Voltorb(290) 70(+)
+			Voltorb(220) hit Zapdos(332) 52(/)
+			Zapdos(280) hit Voltorb(220) 70(+)
+			Voltorb(150) hit Zapdos(280) 52(/)
+			Zapdos(228) hit Voltorb(150) 70(+)
+			Voltorb(80) hit Zapdos(228) 52(/)
+			Zapdos(176) hit Voltorb(80) 70(+)
+			Voltorb(10) hit Zapdos(176) 52(/)
+			Zapdos(124) hit Voltorb(10) 70(+)
+		WinnerP:Zapdos
+	WinnerT:Cilan
+
+	Serena vs Cilan: Ocean
+			Vulpix(500) hit Articuno(615) 32(-)
+			Articuno(583) hit Vulpix(500) 40(-)
+			Vulpix(460) hit Articuno(583) 32(-)
+			Articuno(551) hit Vulpix(460) 40(-)
+			Vulpix(420) hit Articuno(551) 32(-)
+			Articuno(519) hit Vulpix(420) 40(-)
+			Vulpix(380) hit Articuno(519) 32(-)
+			Articuno(487) hit Vulpix(380) 40(-)
+			Vulpix(340) hit Articuno(487) 32(-)
+			Articuno(455) hit Vulpix(340) 40(-)
+			Vulpix(300) hit Articuno(455) 32(-)
+			Articuno(423) hit Vulpix(300) 40(-)
+			Vulpix(260) hit Articuno(423) 32(-)
+			Articuno(391) hit Vulpix(260) 40(-)
+			Vulpix(220) hit Articuno(391) 32(-)
+			Articuno(359) hit Vulpix(220) 40(-)
+			Vulpix(180) hit Articuno(359) 32(-)
+			Articuno(327) hit Vulpix(180) 40(-)
+			Vulpix(140) hit Articuno(327) 32(-)
+			Articuno(295) hit Vulpix(140) 40(-)
+			Vulpix(100) hit Articuno(295) 32(-)
+			Articuno(263) hit Vulpix(100) 40(-)
+			Vulpix(60) hit Articuno(263) 32(-)
+			Articuno(231) hit Vulpix(60) 40(-)
+			Vulpix(20) hit Articuno(231) 32(-)
+			Articuno(199) hit Vulpix(20) 40(-)
+		WinnerP:Articuno
+			Aerodactyl(615) hit Articuno(264) 29(-)
+			Articuno(235) hit Aerodactyl(615) 37(-)
+			Aerodactyl(578) hit Articuno(235) 29(-)
+			Articuno(206) hit Aerodactyl(578) 37(-)
+			Aerodactyl(541) hit Articuno(206) 29(-)
+			Articuno(177) hit Aerodactyl(541) 37(-)
+			Aerodactyl(504) hit Articuno(177) 29(-)
+			Articuno(148) hit Aerodactyl(504) 37(-)
+			Aerodactyl(467) hit Articuno(148) 29(-)
+			Articuno(119) hit Aerodactyl(467) 37(-)
+			Aerodactyl(430) hit Articuno(119) 29(-)
+			Articuno(90) hit Aerodactyl(430) 37(-)
+			Aerodactyl(393) hit Articuno(90) 29(-)
+			Articuno(61) hit Aerodactyl(393) 37(-)
+			Aerodactyl(356) hit Articuno(61) 29(-)
+			Articuno(32) hit Aerodactyl(356) 37(-)
+			Aerodactyl(319) hit Articuno(32) 29(-)
+			Articuno(3) hit Aerodactyl(319) 37(-)
+			Aerodactyl(282) hit Articuno(3) 29(-)
+		WinnerP:Aerodactyl
+			Zapdos(680) hit Aerodactyl(347) 34(-)
+			Aerodactyl(313) hit Zapdos(680) 34(-)
+			Zapdos(646) hit Aerodactyl(313) 34(-)
+			Aerodactyl(279) hit Zapdos(646) 34(-)
+			Zapdos(612) hit Aerodactyl(279) 34(-)
+			Aerodactyl(245) hit Zapdos(612) 34(-)
+			Zapdos(578) hit Aerodactyl(245) 34(-)
+			Aerodactyl(211) hit Zapdos(578) 34(-)
+			Zapdos(544) hit Aerodactyl(211) 34(-)
+			Aerodactyl(177) hit Zapdos(544) 34(-)
+			Zapdos(510) hit Aerodactyl(177) 34(-)
+			Aerodactyl(143) hit Zapdos(510) 34(-)
+			Zapdos(476) hit Aerodactyl(143) 34(-)
+			Aerodactyl(109) hit Zapdos(476) 34(-)
+			Zapdos(442) hit Aerodactyl(109) 34(-)
+			Aerodactyl(75) hit Zapdos(442) 34(-)
+			Zapdos(408) hit Aerodactyl(75) 34(-)
+			Aerodactyl(41) hit Zapdos(408) 34(-)
+			Zapdos(374) hit Aerodactyl(41) 34(-)
+			Aerodactyl(7) hit Zapdos(374) 34(-)
+			Zapdos(340) hit Aerodactyl(7) 34(-)
+		WinnerP:Zapdos
+			Voltorb(500) hit Zapdos(405) 46(/)
+			Zapdos(359) hit Voltorb(500) 60(-)
+			Voltorb(440) hit Zapdos(359) 46(/)
+			Zapdos(313) hit Voltorb(440) 60(-)
+			Voltorb(380) hit Zapdos(313) 46(/)
+			Zapdos(267) hit Voltorb(380) 60(-)
+			Voltorb(320) hit Zapdos(267) 46(/)
+			Zapdos(221) hit Voltorb(320) 60(-)
+			Voltorb(260) hit Zapdos(221) 46(/)
+			Zapdos(175) hit Voltorb(260) 60(-)
+			Voltorb(200) hit Zapdos(175) 46(/)
+			Zapdos(129) hit Voltorb(200) 60(-)
+			Voltorb(140) hit Zapdos(129) 46(/)
+			Zapdos(83) hit Voltorb(140) 60(-)
+			Voltorb(80) hit Zapdos(83) 46(/)
+			Zapdos(37) hit Voltorb(80) 60(-)
+			Voltorb(20) hit Zapdos(37) 46(/)
+		WinnerP:Voltorb
+			Charmander(500) hit Voltorb(70) 50(-)
+			Voltorb(20) is burning!!
+			Voltorb(3) hit Charmander(500) 67(/)
+			Charmander(433) is electrified!!
+			Charmander(383) hit Voltorb(3) 50(-)
+		WinnerP:Charmander
+	WinnerT:Cilan
+
+	Cilan vs Serena: Stadium
+			Articuno(780) hit Vulpix(600) 55(/)
+			Vulpix(545) hit Articuno(780) 39(/)
+			Articuno(741) hit Vulpix(545) 55(/)
+			Vulpix(490) hit Articuno(741) 39(/)
+			Articuno(702) hit Vulpix(490) 55(/)
+			Vulpix(435) hit Articuno(702) 39(/)
+			Articuno(663) hit Vulpix(435) 55(/)
+			Vulpix(380) hit Articuno(663) 39(/)
+			Articuno(624) hit Vulpix(380) 55(/)
+			Vulpix(325) hit Articuno(624) 39(/)
+			Articuno(585) hit Vulpix(325) 55(/)
+			Vulpix(270) hit Articuno(585) 39(/)
+			Articuno(546) hit Vulpix(270) 55(/)
+			Vulpix(215) hit Articuno(546) 39(/)
+			Articuno(507) hit Vulpix(215) 55(/)
+			Vulpix(160) hit Articuno(507) 39(/)
+			Articuno(468) hit Vulpix(160) 55(/)
+			Vulpix(105) hit Articuno(468) 39(/)
+			Articuno(429) hit Vulpix(105) 55(/)
+			Vulpix(50) hit Articuno(429) 39(/)
+			Articuno(390) hit Vulpix(50) 55(/)
+		WinnerP:Articuno
+			Aerodactyl(780) hit Articuno(455) 41(/)
+			Articuno(414) hit Aerodactyl(780) 49(/)
+			Aerodactyl(731) hit Articuno(414) 41(/)
+			Articuno(373) hit Aerodactyl(731) 49(/)
+			Aerodactyl(682) hit Articuno(373) 41(/)
+			Articuno(332) hit Aerodactyl(682) 49(/)
+			Aerodactyl(633) hit Articuno(332) 41(/)
+			Articuno(291) hit Aerodactyl(633) 49(/)
+			Aerodactyl(584) hit Articuno(291) 41(/)
+			Articuno(250) hit Aerodactyl(584) 49(/)
+			Aerodactyl(535) hit Articuno(250) 41(/)
+			Articuno(209) hit Aerodactyl(535) 49(/)
+			Aerodactyl(486) hit Articuno(209) 41(/)
+			Articuno(168) hit Aerodactyl(486) 49(/)
+			Aerodactyl(437) hit Articuno(168) 41(/)
+			Articuno(127) hit Aerodactyl(437) 49(/)
+			Aerodactyl(388) hit Articuno(127) 41(/)
+			Articuno(86) hit Aerodactyl(388) 49(/)
+			Aerodactyl(339) hit Articuno(86) 41(/)
+			Articuno(45) hit Aerodactyl(339) 49(/)
+			Aerodactyl(290) hit Articuno(45) 41(/)
+			Articuno(4) hit Aerodactyl(290) 49(/)
+			Aerodactyl(241) hit Articuno(4) 41(/)
+		WinnerP:Aerodactyl
+			Zapdos(845) hit Aerodactyl(306) 46(/)
+			Aerodactyl(260) hit Zapdos(845) 46(/)
+			Zapdos(799) hit Aerodactyl(260) 46(/)
+			Aerodactyl(214) hit Zapdos(799) 46(/)
+			Zapdos(753) hit Aerodactyl(214) 46(/)
+			Aerodactyl(168) hit Zapdos(753) 46(/)
+			Zapdos(707) hit Aerodactyl(168) 46(/)
+			Aerodactyl(122) hit Zapdos(707) 46(/)
+			Zapdos(661) hit Aerodactyl(122) 46(/)
+			Aerodactyl(76) hit Zapdos(661) 46(/)
+			Zapdos(615) hit Aerodactyl(76) 46(/)
+			Aerodactyl(30) hit Zapdos(615) 46(/)
+			Zapdos(569) hit Aerodactyl(30) 46(/)
+		WinnerP:Zapdos
+			Voltorb(550) hit Zapdos(634) 50(/)
+			Zapdos(584) hit Voltorb(550) 75(/)
+			Voltorb(475) hit Zapdos(584) 50(/)
+			Zapdos(534) hit Voltorb(475) 75(/)
+			Voltorb(400) hit Zapdos(534) 50(/)
+			Zapdos(484) hit Voltorb(400) 75(/)
+			Voltorb(325) hit Zapdos(484) 50(/)
+			Zapdos(434) hit Voltorb(325) 75(/)
+			Voltorb(250) hit Zapdos(434) 50(/)
+			Zapdos(384) hit Voltorb(250) 75(/)
+			Voltorb(175) hit Zapdos(384) 50(/)
+			Zapdos(334) hit Voltorb(175) 75(/)
+			Voltorb(100) hit Zapdos(334) 50(/)
+			Zapdos(284) hit Voltorb(100) 75(/)
+			Voltorb(25) hit Zapdos(284) 50(/)
+			Zapdos(234) hit Voltorb(25) 75(/)
+		WinnerP:Zapdos
+	WinnerT:Cilan
+
+Round Winner: Cilan!
+Started Round: 2 vs 13
+	May vs Iris: ElectriCity
+			Articuno(550) hit Tangela(800) 15(-)
+			Tangela(785) hit Articuno(550) 25(/)
+			Articuno(525) hit Tangela(785) 15(-)
+			Tangela(770) hit Articuno(525) 25(/)
+			Articuno(500) hit Tangela(770) 15(-)
+			Tangela(755) hit Articuno(500) 25(/)
+			Articuno(475) hit Tangela(755) 15(-)
+			Tangela(740) hit Articuno(475) 25(/)
+			Articuno(450) hit Tangela(740) 15(-)
+			Tangela(725) hit Articuno(450) 25(/)
+			Articuno(425) hit Tangela(725) 15(-)
+			Tangela(710) hit Articuno(425) 25(/)
+			Articuno(400) hit Tangela(710) 15(-)
+			Tangela(695) hit Articuno(400) 25(/)
+			Articuno(375) hit Tangela(695) 15(-)
+			Tangela(680) hit Articuno(375) 25(/)
+			Articuno(350) hit Tangela(680) 15(-)
+			Tangela(665) hit Articuno(350) 25(/)
+			Articuno(325) hit Tangela(665) 15(-)
+			Tangela(650) hit Articuno(325) 25(/)
+			Articuno(300) hit Tangela(650) 15(-)
+			Tangela(635) hit Articuno(300) 25(/)
+			Articuno(275) hit Tangela(635) 15(-)
+			Tangela(620) hit Articuno(275) 25(/)
+			Articuno(250) hit Tangela(620) 15(-)
+			Tangela(605) hit Articuno(250) 25(/)
+			Articuno(225) hit Tangela(605) 15(-)
+			Tangela(590) hit Articuno(225) 25(/)
+			Articuno(200) hit Tangela(590) 15(-)
+			Tangela(575) hit Articuno(200) 25(/)
+			Articuno(175) hit Tangela(575) 15(-)
+			Tangela(560) hit Articuno(175) 25(/)
+			Articuno(150) hit Tangela(560) 15(-)
+			Tangela(545) hit Articuno(150) 25(/)
+			Articuno(125) hit Tangela(545) 15(-)
+			Tangela(530) hit Articuno(125) 25(/)
+			Articuno(100) hit Tangela(530) 15(-)
+			Tangela(515) hit Articuno(100) 25(/)
+			Articuno(75) hit Tangela(515) 15(-)
+			Tangela(500) hit Articuno(75) 25(/)
+			Articuno(50) hit Tangela(500) 15(-)
+			Tangela(485) hit Articuno(50) 25(/)
+			Articuno(25) hit Tangela(485) 15(-)
+			Tangela(470) hit Articuno(25) 25(/)
+		WinnerP:Tangela
+			Exeggcute(800) hit Tangela(550) 7(/)
+			Tangela(543) hit Exeggcute(800) 14(/)
+			Exeggcute(786) hit Tangela(543) 7(/)
+			Tangela(536) hit Exeggcute(786) 14(/)
+			Exeggcute(772) hit Tangela(536) 7(/)
+			Tangela(529) hit Exeggcute(772) 14(/)
+			Exeggcute(758) hit Tangela(529) 7(/)
+			Tangela(522) hit Exeggcute(758) 14(/)
+			Exeggcute(744) hit Tangela(522) 7(/)
+			Tangela(515) hit Exeggcute(744) 14(/)
+			Exeggcute(730) hit Tangela(515) 7(/)
+			Tangela(508) hit Exeggcute(730) 14(/)
+			Exeggcute(716) hit Tangela(508) 7(/)
+			Tangela(501) hit Exeggcute(716) 14(/)
+			Exeggcute(702) hit Tangela(501) 7(/)
+			Tangela(494) hit Exeggcute(702) 14(/)
+			Exeggcute(688) hit Tangela(494) 7(/)
+			Tangela(487) hit Exeggcute(688) 14(/)
+			Exeggcute(674) hit Tangela(487) 7(/)
+			Tangela(480) hit Exeggcute(674) 14(/)
+			Exeggcute(660) hit Tangela(480) 7(/)
+			Tangela(473) hit Exeggcute(660) 14(/)
+			Exeggcute(646) hit Tangela(473) 7(/)
+			Tangela(466) hit Exeggcute(646) 14(/)
+			Exeggcute(632) hit Tangela(466) 7(/)
+			Tangela(459) hit Exeggcute(632) 14(/)
+			Exeggcute(618) hit Tangela(459) 7(/)
+			Tangela(452) hit Exeggcute(618) 14(/)
+			Exeggcute(604) hit Tangela(452) 7(/)
+			Tangela(445) hit Exeggcute(604) 14(/)
+			Exeggcute(590) hit Tangela(445) 7(/)
+			Tangela(438) hit Exeggcute(590) 14(/)
+			Exeggcute(576) hit Tangela(438) 7(/)
+			Tangela(431) hit Exeggcute(576) 14(/)
+			Exeggcute(562) hit Tangela(431) 7(/)
+			Tangela(424) hit Exeggcute(562) 14(/)
+			Exeggcute(548) hit Tangela(424) 7(/)
+			Tangela(417) hit Exeggcute(548) 14(/)
+			Exeggcute(534) hit Tangela(417) 7(/)
+			Tangela(410) hit Exeggcute(534) 14(/)
+			Exeggcute(520) hit Tangela(410) 7(/)
+			Tangela(403) hit Exeggcute(520) 14(/)
+			Exeggcute(506) hit Tangela(403) 7(/)
+			Tangela(396) hit Exeggcute(506) 14(/)
+			Exeggcute(492) hit Tangela(396) 7(/)
+			Tangela(389) hit Exeggcute(492) 14(/)
+			Exeggcute(478) hit Tangela(389) 7(/)
+			Tangela(382) hit Exeggcute(478) 14(/)
+			Exeggcute(464) hit Tangela(382) 7(/)
+			Tangela(375) hit Exeggcute(464) 14(/)
+			Exeggcute(450) hit Tangela(375) 7(/)
+			Tangela(368) hit Exeggcute(450) 14(/)
+			Exeggcute(436) hit Tangela(368) 7(/)
+			Tangela(361) hit Exeggcute(436) 14(/)
+			Exeggcute(422) hit Tangela(361) 7(/)
+			Tangela(354) hit Exeggcute(422) 14(/)
+			Exeggcute(408) hit Tangela(354) 7(/)
+			Tangela(347) hit Exeggcute(408) 14(/)
+			Exeggcute(394) hit Tangela(347) 7(/)
+			Tangela(340) hit Exeggcute(394) 14(/)
+			Exeggcute(380) hit Tangela(340) 7(/)
+			Tangela(333) hit Exeggcute(380) 14(/)
+			Exeggcute(366) hit Tangela(333) 7(/)
+			Tangela(326) hit Exeggcute(366) 14(/)
+			Exeggcute(352) hit Tangela(326) 7(/)
+			Tangela(319) hit Exeggcute(352) 14(/)
+			Exeggcute(338) hit Tangela(319) 7(/)
+			Tangela(312) hit Exeggcute(338) 14(/)
+			Exeggcute(324) hit Tangela(312) 7(/)
+			Tangela(305) hit Exeggcute(324) 14(/)
+			Exeggcute(310) hit Tangela(305) 7(/)
+			Tangela(298) hit Exeggcute(310) 14(/)
+			Exeggcute(296) hit Tangela(298) 7(/)
+			Tangela(291) hit Exeggcute(296) 14(/)
+			Exeggcute(282) hit Tangela(291) 7(/)
+			Tangela(284) hit Exeggcute(282) 14(/)
+			Exeggcute(268) hit Tangela(284) 7(/)
+			Tangela(277) hit Exeggcute(268) 14(/)
+			Exeggcute(254) hit Tangela(277) 7(/)
+			Tangela(270) hit Exeggcute(254) 14(/)
+			Exeggcute(240) hit Tangela(270) 7(/)
+			Tangela(263) hit Exeggcute(240) 14(/)
+			Exeggcute(226) hit Tangela(263) 7(/)
+			Tangela(256) hit Exeggcute(226) 14(/)
+			Exeggcute(212) hit Tangela(256) 7(/)
+			Tangela(249) hit Exeggcute(212) 14(/)
+			Exeggcute(198) hit Tangela(249) 7(/)
+			Tangela(242) hit Exeggcute(198) 14(/)
+			Exeggcute(184) hit Tangela(242) 7(/)
+			Tangela(235) hit Exeggcute(184) 14(/)
+			Exeggcute(170) hit Tangela(235) 7(/)
+			Tangela(228) hit Exeggcute(170) 14(/)
+			Exeggcute(156) hit Tangela(228) 7(/)
+			Tangela(221) hit Exeggcute(156) 14(/)
+			Exeggcute(142) hit Tangela(221) 7(/)
+			Tangela(214) hit Exeggcute(142) 14(/)
+			Exeggcute(128) hit Tangela(214) 7(/)
+			Tangela(207) hit Exeggcute(128) 14(/)
+			Exeggcute(114) hit Tangela(207) 7(/)
+			Tangela(200) hit Exeggcute(114) 14(/)
+			Exeggcute(100) hit Tangela(200) 7(/)
+			Tangela(193) hit Exeggcute(100) 14(/)
+			Exeggcute(86) hit Tangela(193) 7(/)
+			Tangela(186) hit Exeggcute(86) 14(/)
+			Exeggcute(72) hit Tangela(186) 7(/)
+			Tangela(179) hit Exeggcute(72) 14(/)
+			Exeggcute(58) hit Tangela(179) 7(/)
+			Tangela(172) hit Exeggcute(58) 14(/)
+			Exeggcute(44) hit Tangela(172) 7(/)
+			Tangela(165) hit Exeggcute(44) 14(/)
+			Exeggcute(30) hit Tangela(165) 7(/)
+			Tangela(158) hit Exeggcute(30) 14(/)
+			Exeggcute(16) hit Tangela(158) 7(/)
+			Tangela(151) hit Exeggcute(16) 14(/)
+			Exeggcute(2) hit Tangela(151) 7(/)
+			Tangela(144) hit Exeggcute(2) 14(/)
+		WinnerP:Tangela
+			Raichu(600) hit Tangela(224) 44(+)
+			Tangela(180) is electrified!!
+			Tangela(110) hit Raichu(600) 48(/)
+			Raichu(552) is rooted!!!!
+			Raichu(502) hit Tangela(110) 44(+)
+			Tangela(66) is electrified!!
+		WinnerP:Raichu
+			Zubat(550) hit Raichu(552) 45(-)
+			Raichu(507) is rooted!!!!
+			Raichu(460) hit Zubat(550) 72(+)
+			Zubat(478) hit Raichu(460) 45(-)
+			Raichu(415) is rooted!!!!
+			Raichu(368) hit Zubat(478) 72(+)
+			Zubat(406) hit Raichu(368) 45(-)
+			Raichu(323) is rooted!!!!
+			Raichu(276) hit Zubat(406) 72(+)
+			Zubat(334) hit Raichu(276) 45(-)
+			Raichu(231) is rooted!!!!
+			Raichu(184) hit Zubat(334) 72(+)
+			Zubat(262) hit Raichu(184) 45(-)
+			Raichu(139) is rooted!!!!
+			Raichu(92) hit Zubat(262) 72(+)
+			Zubat(190) hit Raichu(92) 45(-)
+			Raichu(47) is rooted!!!!
+		WinnerP:Zubat
+	WinnerT:Iris
+
+	Iris vs May: ElectriCity
+			Tangela(960) hit Articuno(550) 33(/)
+			Articuno(517) hit Tangela(960) 9(-)
+			Tangela(951) hit Articuno(517) 33(/)
+			Articuno(484) hit Tangela(951) 9(-)
+			Tangela(942) hit Articuno(484) 33(/)
+			Articuno(451) hit Tangela(942) 9(-)
+			Tangela(933) hit Articuno(451) 33(/)
+			Articuno(418) hit Tangela(933) 9(-)
+			Tangela(924) hit Articuno(418) 33(/)
+			Articuno(385) hit Tangela(924) 9(-)
+			Tangela(915) hit Articuno(385) 33(/)
+			Articuno(352) hit Tangela(915) 9(-)
+			Tangela(906) hit Articuno(352) 33(/)
+			Articuno(319) hit Tangela(906) 9(-)
+			Tangela(897) hit Articuno(319) 33(/)
+			Articuno(286) hit Tangela(897) 9(-)
+			Tangela(888) hit Articuno(286) 33(/)
+			Articuno(253) hit Tangela(888) 9(-)
+			Tangela(879) hit Articuno(253) 33(/)
+			Articuno(220) hit Tangela(879) 9(-)
+			Tangela(870) hit Articuno(220) 33(/)
+			Articuno(187) hit Tangela(870) 9(-)
+			Tangela(861) hit Articuno(187) 33(/)
+			Articuno(154) hit Tangela(861) 9(-)
+			Tangela(852) hit Articuno(154) 33(/)
+			Articuno(121) hit Tangela(852) 9(-)
+			Tangela(843) hit Articuno(121) 33(/)
+			Articuno(88) hit Tangela(843) 9(-)
+			Tangela(834) hit Articuno(88) 33(/)
+			Articuno(55) hit Tangela(834) 9(-)
+			Tangela(825) hit Articuno(55) 33(/)
+			Articuno(22) hit Tangela(825) 9(-)
+			Tangela(816) hit Articuno(22) 33(/)
+		WinnerP:Tangela
+			Exeggcute(800) hit Tangela(896) 1(/)
+			Tangela(895) hit Exeggcute(800) 22(/)
+			Exeggcute(778) hit Tangela(895) 1(/)
+			Tangela(894) hit Exeggcute(778) 22(/)
+			Exeggcute(756) hit Tangela(894) 1(/)
+			Tangela(893) hit Exeggcute(756) 22(/)
+			Exeggcute(734) hit Tangela(893) 1(/)
+			Tangela(892) hit Exeggcute(734) 22(/)
+			Exeggcute(712) hit Tangela(892) 1(/)
+			Tangela(891) hit Exeggcute(712) 22(/)
+			Exeggcute(690) hit Tangela(891) 1(/)
+			Tangela(890) hit Exeggcute(690) 22(/)
+			Exeggcute(668) hit Tangela(890) 1(/)
+			Tangela(889) hit Exeggcute(668) 22(/)
+			Exeggcute(646) hit Tangela(889) 1(/)
+			Tangela(888) hit Exeggcute(646) 22(/)
+			Exeggcute(624) hit Tangela(888) 1(/)
+			Tangela(887) hit Exeggcute(624) 22(/)
+			Exeggcute(602) hit Tangela(887) 1(/)
+			Tangela(886) hit Exeggcute(602) 22(/)
+			Exeggcute(580) hit Tangela(886) 1(/)
+			Tangela(885) hit Exeggcute(580) 22(/)
+			Exeggcute(558) hit Tangela(885) 1(/)
+			Tangela(884) hit Exeggcute(558) 22(/)
+			Exeggcute(536) hit Tangela(884) 1(/)
+			Tangela(883) hit Exeggcute(536) 22(/)
+			Exeggcute(514) hit Tangela(883) 1(/)
+			Tangela(882) hit Exeggcute(514) 22(/)
+			Exeggcute(492) hit Tangela(882) 1(/)
+			Tangela(881) hit Exeggcute(492) 22(/)
+			Exeggcute(470) hit Tangela(881) 1(/)
+			Tangela(880) hit Exeggcute(470) 22(/)
+			Exeggcute(448) hit Tangela(880) 1(/)
+			Tangela(879) hit Exeggcute(448) 22(/)
+			Exeggcute(426) hit Tangela(879) 1(/)
+			Tangela(878) hit Exeggcute(426) 22(/)
+			Exeggcute(404) hit Tangela(878) 1(/)
+			Tangela(877) hit Exeggcute(404) 22(/)
+			Exeggcute(382) hit Tangela(877) 1(/)
+			Tangela(876) hit Exeggcute(382) 22(/)
+			Exeggcute(360) hit Tangela(876) 1(/)
+			Tangela(875) hit Exeggcute(360) 22(/)
+			Exeggcute(338) hit Tangela(875) 1(/)
+			Tangela(874) hit Exeggcute(338) 22(/)
+			Exeggcute(316) hit Tangela(874) 1(/)
+			Tangela(873) hit Exeggcute(316) 22(/)
+			Exeggcute(294) hit Tangela(873) 1(/)
+			Tangela(872) hit Exeggcute(294) 22(/)
+			Exeggcute(272) hit Tangela(872) 1(/)
+			Tangela(871) hit Exeggcute(272) 22(/)
+			Exeggcute(250) hit Tangela(871) 1(/)
+			Tangela(870) hit Exeggcute(250) 22(/)
+			Exeggcute(228) hit Tangela(870) 1(/)
+			Tangela(869) hit Exeggcute(228) 22(/)
+			Exeggcute(206) hit Tangela(869) 1(/)
+			Tangela(868) hit Exeggcute(206) 22(/)
+			Exeggcute(184) hit Tangela(868) 1(/)
+			Tangela(867) hit Exeggcute(184) 22(/)
+			Exeggcute(162) hit Tangela(867) 1(/)
+			Tangela(866) hit Exeggcute(162) 22(/)
+			Exeggcute(140) hit Tangela(866) 1(/)
+			Tangela(865) hit Exeggcute(140) 22(/)
+			Exeggcute(118) hit Tangela(865) 1(/)
+			Tangela(864) hit Exeggcute(118) 22(/)
+			Exeggcute(96) hit Tangela(864) 1(/)
+			Tangela(863) hit Exeggcute(96) 22(/)
+			Exeggcute(74) hit Tangela(863) 1(/)
+			Tangela(862) hit Exeggcute(74) 22(/)
+			Exeggcute(52) hit Tangela(862) 1(/)
+			Tangela(861) hit Exeggcute(52) 22(/)
+			Exeggcute(30) hit Tangela(861) 1(/)
+			Tangela(860) hit Exeggcute(30) 22(/)
+			Exeggcute(8) hit Tangela(860) 1(/)
+			Tangela(859) hit Exeggcute(8) 22(/)
+		WinnerP:Tangela
+			Raichu(650) hit Tangela(939) 45(+)
+			Tangela(894) is electrified!!
+			Tangela(824) hit Raichu(650) 56(/)
+			Raichu(594) is rooted!!!!
+			Raichu(547) hit Tangela(824) 45(+)
+			Tangela(779) is electrified!!
+			Tangela(709) hit Raichu(547) 56(/)
+			Raichu(491) is rooted!!!!
+			Raichu(444) hit Tangela(709) 45(+)
+			Tangela(664) is electrified!!
+			Tangela(594) hit Raichu(444) 56(/)
+			Raichu(388) is rooted!!!!
+			Raichu(341) hit Tangela(594) 45(+)
+			Tangela(549) is electrified!!
+			Tangela(479) hit Raichu(341) 56(/)
+			Raichu(285) is rooted!!!!
+			Raichu(238) hit Tangela(479) 45(+)
+			Tangela(434) is electrified!!
+			Tangela(364) hit Raichu(238) 56(/)
+			Raichu(182) is rooted!!!!
+			Raichu(135) hit Tangela(364) 45(+)
+			Tangela(319) is electrified!!
+			Tangela(249) hit Raichu(135) 56(/)
+			Raichu(79) is rooted!!!!
+			Raichu(32) hit Tangela(249) 45(+)
+			Tangela(204) is electrified!!
+			Tangela(134) hit Raichu(32) 56(/)
+		WinnerP:Tangela
+	WinnerT:Iris
+
+	May vs Iris: Stadium
+			Articuno(650) hit Tangela(1200) 10(/)
+			Tangela(1190) hit Articuno(650) 45(/)
+			Articuno(605) hit Tangela(1190) 10(/)
+			Tangela(1180) hit Articuno(605) 45(/)
+			Articuno(560) hit Tangela(1180) 10(/)
+			Tangela(1170) hit Articuno(560) 45(/)
+			Articuno(515) hit Tangela(1170) 10(/)
+			Tangela(1160) hit Articuno(515) 45(/)
+			Articuno(470) hit Tangela(1160) 10(/)
+			Tangela(1150) hit Articuno(470) 45(/)
+			Articuno(425) hit Tangela(1150) 10(/)
+			Tangela(1140) hit Articuno(425) 45(/)
+			Articuno(380) hit Tangela(1140) 10(/)
+			Tangela(1130) hit Articuno(380) 45(/)
+			Articuno(335) hit Tangela(1130) 10(/)
+			Tangela(1120) hit Articuno(335) 45(/)
+			Articuno(290) hit Tangela(1120) 10(/)
+			Tangela(1110) hit Articuno(290) 45(/)
+			Articuno(245) hit Tangela(1110) 10(/)
+			Tangela(1100) hit Articuno(245) 45(/)
+			Articuno(200) hit Tangela(1100) 10(/)
+			Tangela(1090) hit Articuno(200) 45(/)
+			Articuno(155) hit Tangela(1090) 10(/)
+			Tangela(1080) hit Articuno(155) 45(/)
+			Articuno(110) hit Tangela(1080) 10(/)
+			Tangela(1070) hit Articuno(110) 45(/)
+			Articuno(65) hit Tangela(1070) 10(/)
+			Tangela(1060) hit Articuno(65) 45(/)
+			Articuno(20) hit Tangela(1060) 10(/)
+			Tangela(1050) hit Articuno(20) 45(/)
+		WinnerP:Tangela
+			Exeggcute(800) hit Tangela(1130) 1(/)
+			Tangela(1129) hit Exeggcute(800) 34(/)
+			Exeggcute(766) hit Tangela(1129) 1(/)
+			Tangela(1128) hit Exeggcute(766) 34(/)
+			Exeggcute(732) hit Tangela(1128) 1(/)
+			Tangela(1127) hit Exeggcute(732) 34(/)
+			Exeggcute(698) hit Tangela(1127) 1(/)
+			Tangela(1126) hit Exeggcute(698) 34(/)
+			Exeggcute(664) hit Tangela(1126) 1(/)
+			Tangela(1125) hit Exeggcute(664) 34(/)
+			Exeggcute(630) hit Tangela(1125) 1(/)
+			Tangela(1124) hit Exeggcute(630) 34(/)
+			Exeggcute(596) hit Tangela(1124) 1(/)
+			Tangela(1123) hit Exeggcute(596) 34(/)
+			Exeggcute(562) hit Tangela(1123) 1(/)
+			Tangela(1122) hit Exeggcute(562) 34(/)
+			Exeggcute(528) hit Tangela(1122) 1(/)
+			Tangela(1121) hit Exeggcute(528) 34(/)
+			Exeggcute(494) hit Tangela(1121) 1(/)
+			Tangela(1120) hit Exeggcute(494) 34(/)
+			Exeggcute(460) hit Tangela(1120) 1(/)
+			Tangela(1119) hit Exeggcute(460) 34(/)
+			Exeggcute(426) hit Tangela(1119) 1(/)
+			Tangela(1118) hit Exeggcute(426) 34(/)
+			Exeggcute(392) hit Tangela(1118) 1(/)
+			Tangela(1117) hit Exeggcute(392) 34(/)
+			Exeggcute(358) hit Tangela(1117) 1(/)
+			Tangela(1116) hit Exeggcute(358) 34(/)
+			Exeggcute(324) hit Tangela(1116) 1(/)
+			Tangela(1115) hit Exeggcute(324) 34(/)
+			Exeggcute(290) hit Tangela(1115) 1(/)
+			Tangela(1114) hit Exeggcute(290) 34(/)
+			Exeggcute(256) hit Tangela(1114) 1(/)
+			Tangela(1113) hit Exeggcute(256) 34(/)
+			Exeggcute(222) hit Tangela(1113) 1(/)
+			Tangela(1112) hit Exeggcute(222) 34(/)
+			Exeggcute(188) hit Tangela(1112) 1(/)
+			Tangela(1111) hit Exeggcute(188) 34(/)
+			Exeggcute(154) hit Tangela(1111) 1(/)
+			Tangela(1110) hit Exeggcute(154) 34(/)
+			Exeggcute(120) hit Tangela(1110) 1(/)
+			Tangela(1109) hit Exeggcute(120) 34(/)
+			Exeggcute(86) hit Tangela(1109) 1(/)
+			Tangela(1108) hit Exeggcute(86) 34(/)
+			Exeggcute(52) hit Tangela(1108) 1(/)
+			Tangela(1107) hit Exeggcute(52) 34(/)
+			Exeggcute(18) hit Tangela(1107) 1(/)
+			Tangela(1106) hit Exeggcute(18) 34(/)
+		WinnerP:Tangela
+			Raichu(550) hit Tangela(1186) 26(/)
+			Tangela(1160) is electrified!!
+			Tangela(1090) hit Raichu(550) 68(/)
+			Raichu(482) is rooted!!!!
+			Raichu(435) hit Tangela(1090) 26(/)
+			Tangela(1064) is electrified!!
+			Tangela(994) hit Raichu(435) 68(/)
+			Raichu(367) is rooted!!!!
+			Raichu(320) hit Tangela(994) 26(/)
+			Tangela(968) is electrified!!
+			Tangela(898) hit Raichu(320) 68(/)
+			Raichu(252) is rooted!!!!
+			Raichu(205) hit Tangela(898) 26(/)
+			Tangela(872) is electrified!!
+			Tangela(802) hit Raichu(205) 68(/)
+			Raichu(137) is rooted!!!!
+			Raichu(90) hit Tangela(802) 26(/)
+			Tangela(776) is electrified!!
+			Tangela(706) hit Raichu(90) 68(/)
+			Raichu(22) is rooted!!!!
+		WinnerP:Tangela
+	WinnerT:Iris
+
+Round Winner: Iris!
+Started Round: 3 vs 12
+	Meowth vs May: Forest
+			Voltorb(400) hit Charmeleon(600) 50(-)
+			Charmeleon(550) is electrified!!
+			Charmeleon(500) hit Voltorb(400) 60(/)
+			Voltorb(340) is burning!!
+			Voltorb(320) hit Charmeleon(500) 50(-)
+			Charmeleon(450) is electrified!!
+			Charmeleon(400) hit Voltorb(320) 60(/)
+			Voltorb(260) is burning!!
+			Voltorb(240) hit Charmeleon(400) 50(-)
+			Charmeleon(350) is electrified!!
+			Charmeleon(300) hit Voltorb(240) 60(/)
+			Voltorb(180) is burning!!
+			Voltorb(160) hit Charmeleon(300) 50(-)
+			Charmeleon(250) is electrified!!
+			Charmeleon(200) hit Voltorb(160) 60(/)
+			Voltorb(100) is burning!!
+			Voltorb(80) hit Charmeleon(200) 50(-)
+			Charmeleon(150) is electrified!!
+			Charmeleon(100) hit Voltorb(80) 60(/)
+			Voltorb(20) is burning!!
+		WinnerP:Charmeleon
+			Vulpix(600) hit Charmeleon(160) 49(/)
+			Charmeleon(111) is electrified!!
+			Charmeleon(63) hit Vulpix(600) 56(/)
+			Vulpix(544) hit Charmeleon(63) 49(/)
+			Charmeleon(14) is electrified!!
+		WinnerP:Vulpix
+			Weepinbell(900) hit Vulpix(604) 39(+)
+			Vulpix(565) is rooted!!
+			Vulpix(547) hit Weepinbell(900) 36(/)
+			Weepinbell(864) is burning!!!!
+			Weepinbell(764) hit Vulpix(547) 39(+)
+			Vulpix(508) is rooted!!
+			Vulpix(490) hit Weepinbell(764) 36(/)
+			Weepinbell(728) is burning!!!!
+			Weepinbell(628) hit Vulpix(490) 39(+)
+			Vulpix(451) is rooted!!
+			Vulpix(433) hit Weepinbell(628) 36(/)
+			Weepinbell(592) is burning!!!!
+			Weepinbell(492) hit Vulpix(433) 39(+)
+			Vulpix(394) is rooted!!
+			Vulpix(376) hit Weepinbell(492) 36(/)
+			Weepinbell(456) is burning!!!!
+			Weepinbell(356) hit Vulpix(376) 39(+)
+			Vulpix(337) is rooted!!
+			Vulpix(319) hit Weepinbell(356) 36(/)
+			Weepinbell(320) is burning!!!!
+			Weepinbell(220) hit Vulpix(319) 39(+)
+			Vulpix(280) is rooted!!
+			Vulpix(262) hit Weepinbell(220) 36(/)
+			Weepinbell(184) is burning!!!!
+			Weepinbell(84) hit Vulpix(262) 39(+)
+			Vulpix(223) is rooted!!
+			Vulpix(205) hit Weepinbell(84) 36(/)
+			Weepinbell(48) is burning!!!!
+		WinnerP:Vulpix
+			Golduck(600) hit Vulpix(265) 28(-)
+			Vulpix(237) is drowning!!!!
+			Vulpix(141) is rooted!!
+			Vulpix(125) hit Golduck(600) 52(/)
+			Golduck(548) is burning!!
+			Golduck(508) hit Vulpix(125) 28(-)
+			Vulpix(97) is drowning!!!!
+			Vulpix(1) is rooted!!
+		WinnerP:Golduck
+			Victreebel(900) hit Golduck(578) 28(+)
+			Golduck(550) is burning!!
+			Golduck(511) is rooted!!
+			Golduck(482) hit Victreebel(900) 15(-)
+			Victreebel(885) is drowning!!
+			Victreebel(825) hit Golduck(482) 28(+)
+			Golduck(454) is burning!!
+			Golduck(415) is rooted!!
+			Golduck(386) hit Victreebel(825) 15(-)
+			Victreebel(810) is drowning!!
+			Victreebel(750) hit Golduck(386) 28(+)
+			Golduck(358) is burning!!
+			Golduck(319) is rooted!!
+			Golduck(290) hit Victreebel(750) 15(-)
+			Victreebel(735) is drowning!!
+			Victreebel(675) hit Golduck(290) 28(+)
+			Golduck(262) is burning!!
+			Golduck(223) is rooted!!
+			Golduck(194) hit Victreebel(675) 15(-)
+			Victreebel(660) is drowning!!
+			Victreebel(600) hit Golduck(194) 28(+)
+			Golduck(166) is burning!!
+			Golduck(127) is rooted!!
+			Golduck(98) hit Victreebel(600) 15(-)
+			Victreebel(585) is drowning!!
+			Victreebel(525) hit Golduck(98) 28(+)
+			Golduck(70) is burning!!
+			Golduck(31) is rooted!!
+			Golduck(2) hit Victreebel(525) 15(-)
+			Victreebel(510) is drowning!!
+			Victreebel(450) hit Golduck(2) 28(+)
+		WinnerP:Victreebel
+	WinnerT:Meowth
+
+	May vs Meowth: Ocean
+			Charmeleon(560) hit Voltorb(500) 56(-)
+			Voltorb(444) is burning!!
+			Voltorb(424) hit Charmeleon(560) 59(/)
+			Charmeleon(501) is electrified!!
+			Charmeleon(453) hit Voltorb(424) 56(-)
+			Voltorb(368) is burning!!
+			Voltorb(348) hit Charmeleon(453) 59(/)
+			Charmeleon(394) is electrified!!
+			Charmeleon(346) hit Voltorb(348) 56(-)
+			Voltorb(292) is burning!!
+			Voltorb(272) hit Charmeleon(346) 59(/)
+			Charmeleon(287) is electrified!!
+			Charmeleon(239) hit Voltorb(272) 56(-)
+			Voltorb(216) is burning!!
+			Voltorb(196) hit Charmeleon(239) 59(/)
+			Charmeleon(180) is electrified!!
+			Charmeleon(132) hit Voltorb(196) 56(-)
+			Voltorb(140) is burning!!
+			Voltorb(120) hit Charmeleon(132) 59(/)
+			Charmeleon(73) is electrified!!
+			Charmeleon(25) hit Voltorb(120) 56(-)
+			Voltorb(64) is burning!!
+			Voltorb(44) hit Charmeleon(25) 59(/)
+		WinnerP:Voltorb
+			Weepinbell(800) hit Voltorb(94) 40(/)
+			Voltorb(54) is burning!!
+			Voltorb(37) is rooted!!!!
+		WinnerP:Weepinbell
+			Vulpix(620) hit Weepinbell(880) 29(-)
+			Weepinbell(851) is burning!!!!
+			Weepinbell(751) hit Vulpix(620) 32(/)
+			Vulpix(588) is rooted!!
+			Vulpix(572) hit Weepinbell(751) 29(-)
+			Weepinbell(722) is burning!!!!
+			Weepinbell(622) hit Vulpix(572) 32(/)
+			Vulpix(540) is rooted!!
+			Vulpix(524) hit Weepinbell(622) 29(-)
+			Weepinbell(593) is burning!!!!
+			Weepinbell(493) hit Vulpix(524) 32(/)
+			Vulpix(492) is rooted!!
+			Vulpix(476) hit Weepinbell(493) 29(-)
+			Weepinbell(464) is burning!!!!
+			Weepinbell(364) hit Vulpix(476) 32(/)
+			Vulpix(444) is rooted!!
+			Vulpix(428) hit Weepinbell(364) 29(-)
+			Weepinbell(335) is burning!!!!
+			Weepinbell(235) hit Vulpix(428) 32(/)
+			Vulpix(396) is rooted!!
+			Vulpix(380) hit Weepinbell(235) 29(-)
+			Weepinbell(206) is burning!!!!
+			Weepinbell(106) hit Vulpix(380) 32(/)
+			Vulpix(348) is rooted!!
+			Vulpix(332) hit Weepinbell(106) 29(-)
+			Weepinbell(77) is burning!!!!
+		WinnerP:Vulpix
+			Golduck(870) hit Vulpix(392) 52(+)
+			Vulpix(340) is drowning!!!!
+			Vulpix(246) is rooted!!
+			Vulpix(232) hit Golduck(870) 46(-)
+			Golduck(824) is burning!!
+			Golduck(785) hit Vulpix(232) 52(+)
+			Vulpix(180) is drowning!!!!
+			Vulpix(86) is rooted!!
+			Vulpix(72) hit Golduck(785) 46(-)
+			Golduck(739) is burning!!
+			Golduck(700) hit Vulpix(72) 52(+)
+			Vulpix(20) is drowning!!!!
+		WinnerP:Golduck
+			Victreebel(880) hit Golduck(770) 20(/)
+			Golduck(750) is burning!!
+			Golduck(712) is rooted!!
+			Golduck(684) hit Victreebel(880) 37(+)
+			Victreebel(843) is drowning!!
+			Victreebel(783) hit Golduck(684) 20(/)
+			Golduck(664) is burning!!
+			Golduck(626) is rooted!!
+			Golduck(598) hit Victreebel(783) 37(+)
+			Victreebel(746) is drowning!!
+			Victreebel(686) hit Golduck(598) 20(/)
+			Golduck(578) is burning!!
+			Golduck(540) is rooted!!
+			Golduck(512) hit Victreebel(686) 37(+)
+			Victreebel(649) is drowning!!
+			Victreebel(589) hit Golduck(512) 20(/)
+			Golduck(492) is burning!!
+			Golduck(454) is rooted!!
+			Golduck(426) hit Victreebel(589) 37(+)
+			Victreebel(552) is drowning!!
+			Victreebel(492) hit Golduck(426) 20(/)
+			Golduck(406) is burning!!
+			Golduck(368) is rooted!!
+			Golduck(340) hit Victreebel(492) 37(+)
+			Victreebel(455) is drowning!!
+			Victreebel(395) hit Golduck(340) 20(/)
+			Golduck(320) is burning!!
+			Golduck(282) is rooted!!
+			Golduck(254) hit Victreebel(395) 37(+)
+			Victreebel(358) is drowning!!
+			Victreebel(298) hit Golduck(254) 20(/)
+			Golduck(234) is burning!!
+			Golduck(196) is rooted!!
+			Golduck(168) hit Victreebel(298) 37(+)
+			Victreebel(261) is drowning!!
+			Victreebel(201) hit Golduck(168) 20(/)
+			Golduck(148) is burning!!
+			Golduck(110) is rooted!!
+			Golduck(82) hit Victreebel(201) 37(+)
+			Victreebel(164) is drowning!!
+			Victreebel(104) hit Golduck(82) 20(/)
+			Golduck(62) is burning!!
+			Golduck(24) is rooted!!
+		WinnerP:Victreebel
+	WinnerT:Meowth
+
+	Meowth vs May: Stadium
+			Voltorb(550) hit Charmeleon(660) 66(/)
+			Charmeleon(594) is electrified!!
+			Charmeleon(546) hit Voltorb(550) 66(/)
+			Voltorb(484) is burning!!
+			Voltorb(467) hit Charmeleon(546) 66(/)
+			Charmeleon(480) is electrified!!
+			Charmeleon(432) hit Voltorb(467) 66(/)
+			Voltorb(401) is burning!!
+			Voltorb(384) hit Charmeleon(432) 66(/)
+			Charmeleon(366) is electrified!!
+			Charmeleon(318) hit Voltorb(384) 66(/)
+			Voltorb(318) is burning!!
+			Voltorb(301) hit Charmeleon(318) 66(/)
+			Charmeleon(252) is electrified!!
+			Charmeleon(204) hit Voltorb(301) 66(/)
+			Voltorb(235) is burning!!
+			Voltorb(218) hit Charmeleon(204) 66(/)
+			Charmeleon(138) is electrified!!
+			Charmeleon(90) hit Voltorb(218) 66(/)
+			Voltorb(152) is burning!!
+			Voltorb(135) hit Charmeleon(90) 66(/)
+			Charmeleon(24) is electrified!!
+		WinnerP:Voltorb
+			Weepinbell(880) hit Voltorb(185) 44(/)
+			Voltorb(141) is burning!!
+			Voltorb(127) is rooted!!!!
+			Voltorb(83) hit Weepinbell(880) 51(/)
+			Weepinbell(829) is electrified!!
+			Weepinbell(759) hit Voltorb(83) 44(/)
+			Voltorb(39) is burning!!
+			Voltorb(25) is rooted!!!!
+		WinnerP:Weepinbell
+			Vulpix(780) hit Weepinbell(839) 42(/)
+			Weepinbell(797) is burning!!!!
+			Weepinbell(697) is electrified!!
+			Weepinbell(627) hit Vulpix(780) 35(/)
+			Vulpix(745) is rooted!!
+			Vulpix(731) hit Weepinbell(627) 42(/)
+			Weepinbell(585) is burning!!!!
+			Weepinbell(485) is electrified!!
+			Weepinbell(415) hit Vulpix(731) 35(/)
+			Vulpix(696) is rooted!!
+			Vulpix(682) hit Weepinbell(415) 42(/)
+			Weepinbell(373) is burning!!!!
+			Weepinbell(273) is electrified!!
+			Weepinbell(203) hit Vulpix(682) 35(/)
+			Vulpix(647) is rooted!!
+			Vulpix(633) hit Weepinbell(203) 42(/)
+			Weepinbell(161) is burning!!!!
+			Weepinbell(61) is electrified!!
+		WinnerP:Vulpix
+			Golduck(840) hit Vulpix(693) 46(/)
+			Vulpix(647) is drowning!!!!
+			Vulpix(555) is rooted!!
+			Vulpix(543) hit Golduck(840) 60(/)
+			Golduck(780) is burning!!
+			Golduck(742) hit Vulpix(543) 46(/)
+			Vulpix(497) is drowning!!!!
+			Vulpix(405) is rooted!!
+			Vulpix(393) hit Golduck(742) 60(/)
+			Golduck(682) is burning!!
+			Golduck(644) hit Vulpix(393) 46(/)
+			Vulpix(347) is drowning!!!!
+			Vulpix(255) is rooted!!
+			Vulpix(243) hit Golduck(644) 60(/)
+			Golduck(584) is burning!!
+			Golduck(546) hit Vulpix(243) 46(/)
+			Vulpix(197) is drowning!!!!
+			Vulpix(105) is rooted!!
+			Vulpix(93) hit Golduck(546) 60(/)
+			Golduck(486) is burning!!
+			Golduck(448) hit Vulpix(93) 46(/)
+			Vulpix(47) is drowning!!!!
+		WinnerP:Golduck
+			Victreebel(960) hit Golduck(518) 22(/)
+			Golduck(496) is burning!!
+			Golduck(459) is rooted!!
+			Golduck(432) hit Victreebel(960) 29(/)
+			Victreebel(931) is drowning!!
+			Victreebel(871) hit Golduck(432) 22(/)
+			Golduck(410) is burning!!
+			Golduck(373) is rooted!!
+			Golduck(346) hit Victreebel(871) 29(/)
+			Victreebel(842) is drowning!!
+			Victreebel(782) hit Golduck(346) 22(/)
+			Golduck(324) is burning!!
+			Golduck(287) is rooted!!
+			Golduck(260) hit Victreebel(782) 29(/)
+			Victreebel(753) is drowning!!
+			Victreebel(693) hit Golduck(260) 22(/)
+			Golduck(238) is burning!!
+			Golduck(201) is rooted!!
+			Golduck(174) hit Victreebel(693) 29(/)
+			Victreebel(664) is drowning!!
+			Victreebel(604) hit Golduck(174) 22(/)
+			Golduck(152) is burning!!
+			Golduck(115) is rooted!!
+			Golduck(88) hit Victreebel(604) 29(/)
+			Victreebel(575) is drowning!!
+			Victreebel(515) hit Golduck(88) 22(/)
+			Golduck(66) is burning!!
+			Golduck(29) is rooted!!
+			Golduck(2) hit Victreebel(515) 29(/)
+			Victreebel(486) is drowning!!
+			Victreebel(426) hit Golduck(2) 22(/)
+		WinnerP:Victreebel
+	WinnerT:Meowth
+
+Round Winner: Meowth!
+Started Round: 4 vs 11
+	Clemont vs Jesse: Magma
+			Gloom(700) hit Electrode(400) 30(-)
+			Electrode(370) is rooted!!!!
+			Electrode(320) hit Gloom(700) 30(-)
+			Gloom(670) is electrified!!
+			Gloom(600) hit Electrode(320) 30(-)
+			Electrode(290) is rooted!!!!
+			Electrode(240) hit Gloom(600) 30(-)
+			Gloom(570) is electrified!!
+			Gloom(500) hit Electrode(240) 30(-)
+			Electrode(210) is rooted!!!!
+			Electrode(160) hit Gloom(500) 30(-)
+			Gloom(470) is electrified!!
+			Gloom(400) hit Electrode(160) 30(-)
+			Electrode(130) is rooted!!!!
+			Electrode(80) hit Gloom(400) 30(-)
+			Gloom(370) is electrified!!
+			Gloom(300) hit Electrode(80) 30(-)
+			Electrode(50) is rooted!!!!
+		WinnerP:Gloom
+			Pikachu(400) hit Gloom(380) 27(-)
+			Gloom(353) is electrified!!
+			Gloom(283) hit Pikachu(400) 34(-)
+			Pikachu(366) is rooted!!!!
+			Pikachu(316) hit Gloom(283) 27(-)
+			Gloom(256) is electrified!!
+			Gloom(186) hit Pikachu(316) 34(-)
+			Pikachu(282) is rooted!!!!
+			Pikachu(232) hit Gloom(186) 27(-)
+			Gloom(159) is electrified!!
+			Gloom(89) hit Pikachu(232) 34(-)
+			Pikachu(198) is rooted!!!!
+			Pikachu(148) hit Gloom(89) 27(-)
+			Gloom(62) is electrified!!
+		WinnerP:Pikachu
+			Articuno(650) hit Pikachu(198) 55(/)
+			Pikachu(143) is rooted!!!!
+			Pikachu(96) hit Articuno(650) 52(-)
+			Articuno(598) hit Pikachu(96) 55(/)
+			Pikachu(41) is rooted!!!!
+		WinnerP:Articuno
+			Doduo(650) hit Articuno(663) 37(/)
+			Articuno(626) hit Doduo(650) 45(/)
+			Doduo(605) hit Articuno(626) 37(/)
+			Articuno(589) hit Doduo(605) 45(/)
+			Doduo(560) hit Articuno(589) 37(/)
+			Articuno(552) hit Doduo(560) 45(/)
+			Doduo(515) hit Articuno(552) 37(/)
+			Articuno(515) hit Doduo(515) 45(/)
+			Doduo(470) hit Articuno(515) 37(/)
+			Articuno(478) hit Doduo(470) 45(/)
+			Doduo(425) hit Articuno(478) 37(/)
+			Articuno(441) hit Doduo(425) 45(/)
+			Doduo(380) hit Articuno(441) 37(/)
+			Articuno(404) hit Doduo(380) 45(/)
+			Doduo(335) hit Articuno(404) 37(/)
+			Articuno(367) hit Doduo(335) 45(/)
+			Doduo(290) hit Articuno(367) 37(/)
+			Articuno(330) hit Doduo(290) 45(/)
+			Doduo(245) hit Articuno(330) 37(/)
+			Articuno(293) hit Doduo(245) 45(/)
+			Doduo(200) hit Articuno(293) 37(/)
+			Articuno(256) hit Doduo(200) 45(/)
+			Doduo(155) hit Articuno(256) 37(/)
+			Articuno(219) hit Doduo(155) 45(/)
+			Doduo(110) hit Articuno(219) 37(/)
+			Articuno(182) hit Doduo(110) 45(/)
+			Doduo(65) hit Articuno(182) 37(/)
+			Articuno(145) hit Doduo(65) 45(/)
+			Doduo(20) hit Articuno(145) 37(/)
+			Articuno(108) hit Doduo(20) 45(/)
+		WinnerP:Articuno
+	WinnerT:Clemont
+
+	Jesse vs Clemont: Magma
+			Electrode(400) hit Gloom(780) 27(-)
+			Gloom(753) is electrified!!
+			Gloom(683) hit Electrode(400) 34(-)
+			Electrode(366) is rooted!!!!
+			Electrode(316) hit Gloom(683) 27(-)
+			Gloom(656) is electrified!!
+			Gloom(586) hit Electrode(316) 34(-)
+			Electrode(282) is rooted!!!!
+			Electrode(232) hit Gloom(586) 27(-)
+			Gloom(559) is electrified!!
+			Gloom(489) hit Electrode(232) 34(-)
+			Electrode(198) is rooted!!!!
+			Electrode(148) hit Gloom(489) 27(-)
+			Gloom(462) is electrified!!
+			Gloom(392) hit Electrode(148) 34(-)
+			Electrode(114) is rooted!!!!
+			Electrode(64) hit Gloom(392) 27(-)
+			Gloom(365) is electrified!!
+			Gloom(295) hit Electrode(64) 34(-)
+			Electrode(30) is rooted!!!!
+		WinnerP:Gloom
+			Pikachu(450) hit Gloom(375) 31(-)
+			Gloom(344) is electrified!!
+			Gloom(274) hit Pikachu(450) 38(-)
+			Pikachu(412) is rooted!!!!
+			Pikachu(365) hit Gloom(274) 31(-)
+			Gloom(243) is electrified!!
+			Gloom(173) hit Pikachu(365) 38(-)
+			Pikachu(327) is rooted!!!!
+			Pikachu(280) hit Gloom(173) 31(-)
+			Gloom(142) is electrified!!
+			Gloom(72) hit Pikachu(280) 38(-)
+			Pikachu(242) is rooted!!!!
+			Pikachu(195) hit Gloom(72) 31(-)
+			Gloom(41) is electrified!!
+		WinnerP:Pikachu
+			Articuno(780) hit Pikachu(245) 65(/)
+			Pikachu(180) is rooted!!!!
+			Pikachu(136) hit Articuno(780) 53(-)
+			Articuno(727) hit Pikachu(136) 65(/)
+			Pikachu(71) is rooted!!!!
+			Pikachu(27) hit Articuno(727) 53(-)
+			Articuno(674) hit Pikachu(27) 65(/)
+		WinnerP:Articuno
+			Doduo(650) hit Articuno(739) 31(/)
+			Articuno(708) hit Doduo(650) 55(/)
+			Doduo(595) hit Articuno(708) 31(/)
+			Articuno(677) hit Doduo(595) 55(/)
+			Doduo(540) hit Articuno(677) 31(/)
+			Articuno(646) hit Doduo(540) 55(/)
+			Doduo(485) hit Articuno(646) 31(/)
+			Articuno(615) hit Doduo(485) 55(/)
+			Doduo(430) hit Articuno(615) 31(/)
+			Articuno(584) hit Doduo(430) 55(/)
+			Doduo(375) hit Articuno(584) 31(/)
+			Articuno(553) hit Doduo(375) 55(/)
+			Doduo(320) hit Articuno(553) 31(/)
+			Articuno(522) hit Doduo(320) 55(/)
+			Doduo(265) hit Articuno(522) 31(/)
+			Articuno(491) hit Doduo(265) 55(/)
+			Doduo(210) hit Articuno(491) 31(/)
+			Articuno(460) hit Doduo(210) 55(/)
+			Doduo(155) hit Articuno(460) 31(/)
+			Articuno(429) hit Doduo(155) 55(/)
+			Doduo(100) hit Articuno(429) 31(/)
+			Articuno(398) hit Doduo(100) 55(/)
+			Doduo(45) hit Articuno(398) 31(/)
+			Articuno(367) hit Doduo(45) 55(/)
+		WinnerP:Articuno
+	WinnerT:Clemont
+
+	Clemont vs Jesse: Stadium
+			Gloom(960) hit Electrode(500) 48(/)
+			Electrode(452) is rooted!!!!
+			Electrode(402) hit Gloom(960) 34(/)
+			Gloom(926) is electrified!!
+			Gloom(856) hit Electrode(402) 48(/)
+			Electrode(354) is rooted!!!!
+			Electrode(304) hit Gloom(856) 34(/)
+			Gloom(822) is electrified!!
+			Gloom(752) hit Electrode(304) 48(/)
+			Electrode(256) is rooted!!!!
+			Electrode(206) hit Gloom(752) 34(/)
+			Gloom(718) is electrified!!
+			Gloom(648) hit Electrode(206) 48(/)
+			Electrode(158) is rooted!!!!
+			Electrode(108) hit Gloom(648) 34(/)
+			Gloom(614) is electrified!!
+			Gloom(544) hit Electrode(108) 48(/)
+			Electrode(60) is rooted!!!!
+			Electrode(10) hit Gloom(544) 34(/)
+			Gloom(510) is electrified!!
+			Gloom(440) hit Electrode(10) 48(/)
+		WinnerP:Gloom
+			Pikachu(600) hit Gloom(520) 45(/)
+			Gloom(475) is electrified!!
+			Gloom(405) hit Pikachu(600) 52(/)
+			Pikachu(548) is rooted!!!!
+			Pikachu(504) hit Gloom(405) 45(/)
+			Gloom(360) is electrified!!
+			Gloom(290) hit Pikachu(504) 52(/)
+			Pikachu(452) is rooted!!!!
+			Pikachu(408) hit Gloom(290) 45(/)
+			Gloom(245) is electrified!!
+			Gloom(175) hit Pikachu(408) 52(/)
+			Pikachu(356) is rooted!!!!
+			Pikachu(312) hit Gloom(175) 45(/)
+			Gloom(130) is electrified!!
+			Gloom(60) hit Pikachu(312) 52(/)
+			Pikachu(260) is rooted!!!!
+			Pikachu(216) hit Gloom(60) 45(/)
+			Gloom(15) is electrified!!
+		WinnerP:Pikachu
+			Articuno(910) hit Pikachu(266) 75(/)
+			Pikachu(191) is rooted!!!!
+			Pikachu(150) hit Articuno(910) 64(/)
+			Articuno(846) hit Pikachu(150) 75(/)
+			Pikachu(75) is rooted!!!!
+			Pikachu(34) hit Articuno(846) 64(/)
+			Articuno(782) hit Pikachu(34) 75(/)
+		WinnerP:Articuno
+			Doduo(650) hit Articuno(847) 25(/)
+			Articuno(822) hit Doduo(650) 65(/)
+			Doduo(585) hit Articuno(822) 25(/)
+			Articuno(797) hit Doduo(585) 65(/)
+			Doduo(520) hit Articuno(797) 25(/)
+			Articuno(772) hit Doduo(520) 65(/)
+			Doduo(455) hit Articuno(772) 25(/)
+			Articuno(747) hit Doduo(455) 65(/)
+			Doduo(390) hit Articuno(747) 25(/)
+			Articuno(722) hit Doduo(390) 65(/)
+			Doduo(325) hit Articuno(722) 25(/)
+			Articuno(697) hit Doduo(325) 65(/)
+			Doduo(260) hit Articuno(697) 25(/)
+			Articuno(672) hit Doduo(260) 65(/)
+			Doduo(195) hit Articuno(672) 25(/)
+			Articuno(647) hit Doduo(195) 65(/)
+			Doduo(130) hit Articuno(647) 25(/)
+			Articuno(622) hit Doduo(130) 65(/)
+			Doduo(65) hit Articuno(622) 25(/)
+			Articuno(597) hit Doduo(65) 65(/)
+		WinnerP:Articuno
+	WinnerT:Clemont
+
+Round Winner: Clemont!
+Started Round: 5 vs 10
+	Bonnie vs Clemont: Magma
+			Squirtle(700) hit Pidgeot(650) 35(/)
+			Pidgeot(615) hit Squirtle(700) 35(/)
+			Squirtle(665) hit Pidgeot(615) 35(/)
+			Pidgeot(580) hit Squirtle(665) 35(/)
+			Squirtle(630) hit Pidgeot(580) 35(/)
+			Pidgeot(545) hit Squirtle(630) 35(/)
+			Squirtle(595) hit Pidgeot(545) 35(/)
+			Pidgeot(510) hit Squirtle(595) 35(/)
+			Squirtle(560) hit Pidgeot(510) 35(/)
+			Pidgeot(475) hit Squirtle(560) 35(/)
+			Squirtle(525) hit Pidgeot(475) 35(/)
+			Pidgeot(440) hit Squirtle(525) 35(/)
+			Squirtle(490) hit Pidgeot(440) 35(/)
+			Pidgeot(405) hit Squirtle(490) 35(/)
+			Squirtle(455) hit Pidgeot(405) 35(/)
+			Pidgeot(370) hit Squirtle(455) 35(/)
+			Squirtle(420) hit Pidgeot(370) 35(/)
+			Pidgeot(335) hit Squirtle(420) 35(/)
+			Squirtle(385) hit Pidgeot(335) 35(/)
+			Pidgeot(300) hit Squirtle(385) 35(/)
+			Squirtle(350) hit Pidgeot(300) 35(/)
+			Pidgeot(265) hit Squirtle(350) 35(/)
+			Squirtle(315) hit Pidgeot(265) 35(/)
+			Pidgeot(230) hit Squirtle(315) 35(/)
+			Squirtle(280) hit Pidgeot(230) 35(/)
+			Pidgeot(195) hit Squirtle(280) 35(/)
+			Squirtle(245) hit Pidgeot(195) 35(/)
+			Pidgeot(160) hit Squirtle(245) 35(/)
+			Squirtle(210) hit Pidgeot(160) 35(/)
+			Pidgeot(125) hit Squirtle(210) 35(/)
+			Squirtle(175) hit Pidgeot(125) 35(/)
+			Pidgeot(90) hit Squirtle(175) 35(/)
+			Squirtle(140) hit Pidgeot(90) 35(/)
+			Pidgeot(55) hit Squirtle(140) 35(/)
+			Squirtle(105) hit Pidgeot(55) 35(/)
+			Pidgeot(20) hit Squirtle(105) 35(/)
+			Squirtle(70) hit Pidgeot(20) 35(/)
+		WinnerP:Squirtle
+			Aerodactyl(650) hit Squirtle(140) 33(/)
+			Squirtle(107) hit Aerodactyl(650) 40(/)
+			Aerodactyl(610) hit Squirtle(107) 33(/)
+			Squirtle(74) hit Aerodactyl(610) 40(/)
+			Aerodactyl(570) hit Squirtle(74) 33(/)
+			Squirtle(41) hit Aerodactyl(570) 40(/)
+			Aerodactyl(530) hit Squirtle(41) 33(/)
+			Squirtle(8) hit Aerodactyl(530) 40(/)
+			Aerodactyl(490) hit Squirtle(8) 33(/)
+		WinnerP:Aerodactyl
+			Oddish(700) hit Aerodactyl(555) 12(-)
+			Aerodactyl(543) hit Oddish(700) 30(/)
+			Oddish(670) hit Aerodactyl(543) 12(-)
+			Aerodactyl(531) hit Oddish(670) 30(/)
+			Oddish(640) hit Aerodactyl(531) 12(-)
+			Aerodactyl(519) hit Oddish(640) 30(/)
+			Oddish(610) hit Aerodactyl(519) 12(-)
+			Aerodactyl(507) hit Oddish(610) 30(/)
+			Oddish(580) hit Aerodactyl(507) 12(-)
+			Aerodactyl(495) hit Oddish(580) 30(/)
+			Oddish(550) hit Aerodactyl(495) 12(-)
+			Aerodactyl(483) hit Oddish(550) 30(/)
+			Oddish(520) hit Aerodactyl(483) 12(-)
+			Aerodactyl(471) hit Oddish(520) 30(/)
+			Oddish(490) hit Aerodactyl(471) 12(-)
+			Aerodactyl(459) hit Oddish(490) 30(/)
+			Oddish(460) hit Aerodactyl(459) 12(-)
+			Aerodactyl(447) hit Oddish(460) 30(/)
+			Oddish(430) hit Aerodactyl(447) 12(-)
+			Aerodactyl(435) hit Oddish(430) 30(/)
+			Oddish(400) hit Aerodactyl(435) 12(-)
+			Aerodactyl(423) hit Oddish(400) 30(/)
+			Oddish(370) hit Aerodactyl(423) 12(-)
+			Aerodactyl(411) hit Oddish(370) 30(/)
+			Oddish(340) hit Aerodactyl(411) 12(-)
+			Aerodactyl(399) hit Oddish(340) 30(/)
+			Oddish(310) hit Aerodactyl(399) 12(-)
+			Aerodactyl(387) hit Oddish(310) 30(/)
+			Oddish(280) hit Aerodactyl(387) 12(-)
+			Aerodactyl(375) hit Oddish(280) 30(/)
+			Oddish(250) hit Aerodactyl(375) 12(-)
+			Aerodactyl(363) hit Oddish(250) 30(/)
+			Oddish(220) hit Aerodactyl(363) 12(-)
+			Aerodactyl(351) hit Oddish(220) 30(/)
+			Oddish(190) hit Aerodactyl(351) 12(-)
+			Aerodactyl(339) hit Oddish(190) 30(/)
+			Oddish(160) hit Aerodactyl(339) 12(-)
+			Aerodactyl(327) hit Oddish(160) 30(/)
+			Oddish(130) hit Aerodactyl(327) 12(-)
+			Aerodactyl(315) hit Oddish(130) 30(/)
+			Oddish(100) hit Aerodactyl(315) 12(-)
+			Aerodactyl(303) hit Oddish(100) 30(/)
+			Oddish(70) hit Aerodactyl(303) 12(-)
+			Aerodactyl(291) hit Oddish(70) 30(/)
+			Oddish(40) hit Aerodactyl(291) 12(-)
+			Aerodactyl(279) hit Oddish(40) 30(/)
+			Oddish(10) hit Aerodactyl(279) 12(-)
+			Aerodactyl(267) hit Oddish(10) 30(/)
+		WinnerP:Aerodactyl
+			Jolteon(400) hit Aerodactyl(332) 39(-)
+			Aerodactyl(293) hit Jolteon(400) 65(/)
+			Jolteon(335) hit Aerodactyl(293) 39(-)
+			Aerodactyl(254) hit Jolteon(335) 65(/)
+			Jolteon(270) hit Aerodactyl(254) 39(-)
+			Aerodactyl(215) hit Jolteon(270) 65(/)
+			Jolteon(205) hit Aerodactyl(215) 39(-)
+			Aerodactyl(176) hit Jolteon(205) 65(/)
+			Jolteon(140) hit Aerodactyl(176) 39(-)
+			Aerodactyl(137) hit Jolteon(140) 65(/)
+			Jolteon(75) hit Aerodactyl(137) 39(-)
+			Aerodactyl(98) hit Jolteon(75) 65(/)
+			Jolteon(10) hit Aerodactyl(98) 39(-)
+			Aerodactyl(59) hit Jolteon(10) 65(/)
+		WinnerP:Aerodactyl
+	WinnerT:Clemont
+
+	Clemont vs Bonnie: Sky
+			Pidgeot(750) hit Squirtle(770) 43(+)
+			Squirtle(727) hit Pidgeot(750) 40(/)
+			Pidgeot(710) hit Squirtle(727) 43(+)
+			Squirtle(684) hit Pidgeot(710) 40(/)
+			Pidgeot(670) hit Squirtle(684) 43(+)
+			Squirtle(641) hit Pidgeot(670) 40(/)
+			Pidgeot(630) hit Squirtle(641) 43(+)
+			Squirtle(598) hit Pidgeot(630) 40(/)
+			Pidgeot(590) hit Squirtle(598) 43(+)
+			Squirtle(555) hit Pidgeot(590) 40(/)
+			Pidgeot(550) hit Squirtle(555) 43(+)
+			Squirtle(512) hit Pidgeot(550) 40(/)
+			Pidgeot(510) hit Squirtle(512) 43(+)
+			Squirtle(469) hit Pidgeot(510) 40(/)
+			Pidgeot(470) hit Squirtle(469) 43(+)
+			Squirtle(426) hit Pidgeot(470) 40(/)
+			Pidgeot(430) hit Squirtle(426) 43(+)
+			Squirtle(383) hit Pidgeot(430) 40(/)
+			Pidgeot(390) hit Squirtle(383) 43(+)
+			Squirtle(340) hit Pidgeot(390) 40(/)
+			Pidgeot(350) hit Squirtle(340) 43(+)
+			Squirtle(297) hit Pidgeot(350) 40(/)
+			Pidgeot(310) hit Squirtle(297) 43(+)
+			Squirtle(254) hit Pidgeot(310) 40(/)
+			Pidgeot(270) hit Squirtle(254) 43(+)
+			Squirtle(211) hit Pidgeot(270) 40(/)
+			Pidgeot(230) hit Squirtle(211) 43(+)
+			Squirtle(168) hit Pidgeot(230) 40(/)
+			Pidgeot(190) hit Squirtle(168) 43(+)
+			Squirtle(125) hit Pidgeot(190) 40(/)
+			Pidgeot(150) hit Squirtle(125) 43(+)
+			Squirtle(82) hit Pidgeot(150) 40(/)
+			Pidgeot(110) hit Squirtle(82) 43(+)
+			Squirtle(39) hit Pidgeot(110) 40(/)
+			Pidgeot(70) hit Squirtle(39) 43(+)
+		WinnerP:Pidgeot
+			Oddish(700) hit Pidgeot(135) 12(-)
+			Pidgeot(123) hit Oddish(700) 40(+)
+			Oddish(660) hit Pidgeot(123) 12(-)
+			Pidgeot(111) hit Oddish(660) 40(+)
+			Oddish(620) hit Pidgeot(111) 12(-)
+			Pidgeot(99) hit Oddish(620) 40(+)
+			Oddish(580) hit Pidgeot(99) 12(-)
+			Pidgeot(87) hit Oddish(580) 40(+)
+			Oddish(540) hit Pidgeot(87) 12(-)
+			Pidgeot(75) hit Oddish(540) 40(+)
+			Oddish(500) hit Pidgeot(75) 12(-)
+			Pidgeot(63) hit Oddish(500) 40(+)
+			Oddish(460) hit Pidgeot(63) 12(-)
+			Pidgeot(51) hit Oddish(460) 40(+)
+			Oddish(420) hit Pidgeot(51) 12(-)
+			Pidgeot(39) hit Oddish(420) 40(+)
+			Oddish(380) hit Pidgeot(39) 12(-)
+			Pidgeot(27) hit Oddish(380) 40(+)
+			Oddish(340) hit Pidgeot(27) 12(-)
+			Pidgeot(15) hit Oddish(340) 40(+)
+			Oddish(300) hit Pidgeot(15) 12(-)
+			Pidgeot(3) hit Oddish(300) 40(+)
+			Oddish(260) hit Pidgeot(3) 12(-)
+		WinnerP:Oddish
+			Aerodactyl(945) hit Oddish(340) 47(+)
+			Oddish(293) hit Aerodactyl(945) 10(-)
+			Aerodactyl(935) hit Oddish(293) 47(+)
+			Oddish(246) hit Aerodactyl(935) 10(-)
+			Aerodactyl(925) hit Oddish(246) 47(+)
+			Oddish(199) hit Aerodactyl(925) 10(-)
+			Aerodactyl(915) hit Oddish(199) 47(+)
+			Oddish(152) hit Aerodactyl(915) 10(-)
+			Aerodactyl(905) hit Oddish(152) 47(+)
+			Oddish(105) hit Aerodactyl(905) 10(-)
+			Aerodactyl(895) hit Oddish(105) 47(+)
+			Oddish(58) hit Aerodactyl(895) 10(-)
+			Aerodactyl(885) hit Oddish(58) 47(+)
+			Oddish(11) hit Aerodactyl(885) 10(-)
+			Aerodactyl(875) hit Oddish(11) 47(+)
+		WinnerP:Aerodactyl
+			Jolteon(500) hit Aerodactyl(940) 43(/)
+			Aerodactyl(897) hit Jolteon(500) 85(+)
+			Jolteon(415) hit Aerodactyl(897) 43(/)
+			Aerodactyl(854) hit Jolteon(415) 85(+)
+			Jolteon(330) hit Aerodactyl(854) 43(/)
+			Aerodactyl(811) hit Jolteon(330) 85(+)
+			Jolteon(245) hit Aerodactyl(811) 43(/)
+			Aerodactyl(768) hit Jolteon(245) 85(+)
+			Jolteon(160) hit Aerodactyl(768) 43(/)
+			Aerodactyl(725) hit Jolteon(160) 85(+)
+			Jolteon(75) hit Aerodactyl(725) 43(/)
+			Aerodactyl(682) hit Jolteon(75) 85(+)
+		WinnerP:Aerodactyl
+	WinnerT:Clemont
+
+	Bonnie vs Clemont: Stadium
+			Squirtle(770) hit Pidgeot(715) 37(/)
+			Pidgeot(678) hit Squirtle(770) 38(/)
+			Squirtle(732) hit Pidgeot(678) 37(/)
+			Pidgeot(641) hit Squirtle(732) 38(/)
+			Squirtle(694) hit Pidgeot(641) 37(/)
+			Pidgeot(604) hit Squirtle(694) 38(/)
+			Squirtle(656) hit Pidgeot(604) 37(/)
+			Pidgeot(567) hit Squirtle(656) 38(/)
+			Squirtle(618) hit Pidgeot(567) 37(/)
+			Pidgeot(530) hit Squirtle(618) 38(/)
+			Squirtle(580) hit Pidgeot(530) 37(/)
+			Pidgeot(493) hit Squirtle(580) 38(/)
+			Squirtle(542) hit Pidgeot(493) 37(/)
+			Pidgeot(456) hit Squirtle(542) 38(/)
+			Squirtle(504) hit Pidgeot(456) 37(/)
+			Pidgeot(419) hit Squirtle(504) 38(/)
+			Squirtle(466) hit Pidgeot(419) 37(/)
+			Pidgeot(382) hit Squirtle(466) 38(/)
+			Squirtle(428) hit Pidgeot(382) 37(/)
+			Pidgeot(345) hit Squirtle(428) 38(/)
+			Squirtle(390) hit Pidgeot(345) 37(/)
+			Pidgeot(308) hit Squirtle(390) 38(/)
+			Squirtle(352) hit Pidgeot(308) 37(/)
+			Pidgeot(271) hit Squirtle(352) 38(/)
+			Squirtle(314) hit Pidgeot(271) 37(/)
+			Pidgeot(234) hit Squirtle(314) 38(/)
+			Squirtle(276) hit Pidgeot(234) 37(/)
+			Pidgeot(197) hit Squirtle(276) 38(/)
+			Squirtle(238) hit Pidgeot(197) 37(/)
+			Pidgeot(160) hit Squirtle(238) 38(/)
+			Squirtle(200) hit Pidgeot(160) 37(/)
+			Pidgeot(123) hit Squirtle(200) 38(/)
+			Squirtle(162) hit Pidgeot(123) 37(/)
+			Pidgeot(86) hit Squirtle(162) 38(/)
+			Squirtle(124) hit Pidgeot(86) 37(/)
+			Pidgeot(49) hit Squirtle(124) 38(/)
+			Squirtle(86) hit Pidgeot(49) 37(/)
+			Pidgeot(12) hit Squirtle(86) 38(/)
+			Squirtle(48) hit Pidgeot(12) 37(/)
+		WinnerP:Squirtle
+			Aerodactyl(975) hit Squirtle(118) 56(/)
+			Squirtle(62) hit Aerodactyl(975) 30(/)
+			Aerodactyl(945) hit Squirtle(62) 56(/)
+			Squirtle(6) hit Aerodactyl(945) 30(/)
+			Aerodactyl(915) hit Squirtle(6) 56(/)
+		WinnerP:Aerodactyl
+			Oddish(880) hit Aerodactyl(980) 11(/)
+			Aerodactyl(969) hit Oddish(880) 52(/)
+			Oddish(828) hit Aerodactyl(969) 11(/)
+			Aerodactyl(958) hit Oddish(828) 52(/)
+			Oddish(776) hit Aerodactyl(958) 11(/)
+			Aerodactyl(947) hit Oddish(776) 52(/)
+			Oddish(724) hit Aerodactyl(947) 11(/)
+			Aerodactyl(936) hit Oddish(724) 52(/)
+			Oddish(672) hit Aerodactyl(936) 11(/)
+			Aerodactyl(925) hit Oddish(672) 52(/)
+			Oddish(620) hit Aerodactyl(925) 11(/)
+			Aerodactyl(914) hit Oddish(620) 52(/)
+			Oddish(568) hit Aerodactyl(914) 11(/)
+			Aerodactyl(903) hit Oddish(568) 52(/)
+			Oddish(516) hit Aerodactyl(903) 11(/)
+			Aerodactyl(892) hit Oddish(516) 52(/)
+			Oddish(464) hit Aerodactyl(892) 11(/)
+			Aerodactyl(881) hit Oddish(464) 52(/)
+			Oddish(412) hit Aerodactyl(881) 11(/)
+			Aerodactyl(870) hit Oddish(412) 52(/)
+			Oddish(360) hit Aerodactyl(870) 11(/)
+			Aerodactyl(859) hit Oddish(360) 52(/)
+			Oddish(308) hit Aerodactyl(859) 11(/)
+			Aerodactyl(848) hit Oddish(308) 52(/)
+			Oddish(256) hit Aerodactyl(848) 11(/)
+			Aerodactyl(837) hit Oddish(256) 52(/)
+			Oddish(204) hit Aerodactyl(837) 11(/)
+			Aerodactyl(826) hit Oddish(204) 52(/)
+			Oddish(152) hit Aerodactyl(826) 11(/)
+			Aerodactyl(815) hit Oddish(152) 52(/)
+			Oddish(100) hit Aerodactyl(815) 11(/)
+			Aerodactyl(804) hit Oddish(100) 52(/)
+			Oddish(48) hit Aerodactyl(804) 11(/)
+			Aerodactyl(793) hit Oddish(48) 52(/)
+		WinnerP:Aerodactyl
+			Jolteon(500) hit Aerodactyl(858) 34(/)
+			Aerodactyl(824) hit Jolteon(500) 90(/)
+			Jolteon(410) hit Aerodactyl(824) 34(/)
+			Aerodactyl(790) hit Jolteon(410) 90(/)
+			Jolteon(320) hit Aerodactyl(790) 34(/)
+			Aerodactyl(756) hit Jolteon(320) 90(/)
+			Jolteon(230) hit Aerodactyl(756) 34(/)
+			Aerodactyl(722) hit Jolteon(230) 90(/)
+			Jolteon(140) hit Aerodactyl(722) 34(/)
+			Aerodactyl(688) hit Jolteon(140) 90(/)
+			Jolteon(50) hit Aerodactyl(688) 34(/)
+			Aerodactyl(654) hit Jolteon(50) 90(/)
+		WinnerP:Aerodactyl
+	WinnerT:Clemont
+
+Round Winner: Clemont!
+Started Round: 6 vs 9
+	Jesse vs Tracey: Sky
+			Pidgey(750) hit Magneton(500) 65(+)
+			Magneton(435) hit Pidgey(750) 55(/)
+			Pidgey(695) hit Magneton(435) 65(+)
+			Magneton(370) hit Pidgey(695) 55(/)
+			Pidgey(640) hit Magneton(370) 65(+)
+			Magneton(305) hit Pidgey(640) 55(/)
+			Pidgey(585) hit Magneton(305) 65(+)
+			Magneton(240) hit Pidgey(585) 55(/)
+			Pidgey(530) hit Magneton(240) 65(+)
+			Magneton(175) hit Pidgey(530) 55(/)
+			Pidgey(475) hit Magneton(175) 65(+)
+			Magneton(110) hit Pidgey(475) 55(/)
+			Pidgey(420) hit Magneton(110) 65(+)
+			Magneton(45) hit Pidgey(420) 55(/)
+			Pidgey(365) hit Magneton(45) 65(+)
+		WinnerP:Pidgey
+			Zapdos(750) hit Pidgey(430) 47(+)
+			Pidgey(383) hit Zapdos(750) 55(+)
+			Zapdos(695) hit Pidgey(383) 47(+)
+			Pidgey(336) hit Zapdos(695) 55(+)
+			Zapdos(640) hit Pidgey(336) 47(+)
+			Pidgey(289) hit Zapdos(640) 55(+)
+			Zapdos(585) hit Pidgey(289) 47(+)
+			Pidgey(242) hit Zapdos(585) 55(+)
+			Zapdos(530) hit Pidgey(242) 47(+)
+			Pidgey(195) hit Zapdos(530) 55(+)
+			Zapdos(475) hit Pidgey(195) 47(+)
+			Pidgey(148) hit Zapdos(475) 55(+)
+			Zapdos(420) hit Pidgey(148) 47(+)
+			Pidgey(101) hit Zapdos(420) 55(+)
+			Zapdos(365) hit Pidgey(101) 47(+)
+			Pidgey(54) hit Zapdos(365) 55(+)
+			Zapdos(310) hit Pidgey(54) 47(+)
+			Pidgey(7) hit Zapdos(310) 55(+)
+			Zapdos(255) hit Pidgey(7) 47(+)
+		WinnerP:Zapdos
+			Magnemite(500) hit Zapdos(320) 52(/)
+			Zapdos(268) hit Magnemite(500) 70(+)
+			Magnemite(430) hit Zapdos(268) 52(/)
+			Zapdos(216) hit Magnemite(430) 70(+)
+			Magnemite(360) hit Zapdos(216) 52(/)
+			Zapdos(164) hit Magnemite(360) 70(+)
+			Magnemite(290) hit Zapdos(164) 52(/)
+			Zapdos(112) hit Magnemite(290) 70(+)
+			Magnemite(220) hit Zapdos(112) 52(/)
+			Zapdos(60) hit Magnemite(220) 70(+)
+			Magnemite(150) hit Zapdos(60) 52(/)
+			Zapdos(8) hit Magnemite(150) 70(+)
+			Magnemite(80) hit Zapdos(8) 52(/)
+		WinnerP:Magnemite
+			Weepinbell(700) hit Magnemite(130) 30(-)
+			Magnemite(100) is rooted!!!!
+			Magnemite(53) hit Weepinbell(700) 47(/)
+			Weepinbell(653) is electrified!!
+			Weepinbell(583) hit Magnemite(53) 30(-)
+			Magnemite(23) is rooted!!!!
+		WinnerP:Weepinbell
+			Growlithe(500) hit Weepinbell(663) 17(-)
+			Weepinbell(646) is burning!!!!
+			Weepinbell(546) is electrified!!
+			Weepinbell(476) hit Growlithe(500) 24(-)
+			Growlithe(476) is rooted!!
+			Growlithe(456) hit Weepinbell(476) 17(-)
+			Weepinbell(459) is burning!!!!
+			Weepinbell(359) is electrified!!
+			Weepinbell(289) hit Growlithe(456) 24(-)
+			Growlithe(432) is rooted!!
+			Growlithe(412) hit Weepinbell(289) 17(-)
+			Weepinbell(272) is burning!!!!
+			Weepinbell(172) is electrified!!
+			Weepinbell(102) hit Growlithe(412) 24(-)
+			Growlithe(388) is rooted!!
+			Growlithe(368) hit Weepinbell(102) 17(-)
+			Weepinbell(85) is burning!!!!
+		WinnerP:Growlithe
+	WinnerT:Jesse
+
+	Tracey vs Jesse: Forest
+			Magneton(400) hit Pidgey(715) 42(-)
+			Pidgey(673) hit Magneton(400) 60(/)
+			Magneton(340) hit Pidgey(673) 42(-)
+			Pidgey(631) hit Magneton(340) 60(/)
+			Magneton(280) hit Pidgey(631) 42(-)
+			Pidgey(589) hit Magneton(280) 60(/)
+			Magneton(220) hit Pidgey(589) 42(-)
+			Pidgey(547) hit Magneton(220) 60(/)
+			Magneton(160) hit Pidgey(547) 42(-)
+			Pidgey(505) hit Magneton(160) 60(/)
+			Magneton(100) hit Pidgey(505) 42(-)
+			Pidgey(463) hit Magneton(100) 60(/)
+			Magneton(40) hit Pidgey(463) 42(-)
+			Pidgey(421) hit Magneton(40) 60(/)
+		WinnerP:Pidgey
+			Zapdos(715) hit Pidgey(486) 39(/)
+			Pidgey(447) hit Zapdos(715) 47(/)
+			Zapdos(668) hit Pidgey(447) 39(/)
+			Pidgey(408) hit Zapdos(668) 47(/)
+			Zapdos(621) hit Pidgey(408) 39(/)
+			Pidgey(369) hit Zapdos(621) 47(/)
+			Zapdos(574) hit Pidgey(369) 39(/)
+			Pidgey(330) hit Zapdos(574) 47(/)
+			Zapdos(527) hit Pidgey(330) 39(/)
+			Pidgey(291) hit Zapdos(527) 47(/)
+			Zapdos(480) hit Pidgey(291) 39(/)
+			Pidgey(252) hit Zapdos(480) 47(/)
+			Zapdos(433) hit Pidgey(252) 39(/)
+			Pidgey(213) hit Zapdos(433) 47(/)
+			Zapdos(386) hit Pidgey(213) 39(/)
+			Pidgey(174) hit Zapdos(386) 47(/)
+			Zapdos(339) hit Pidgey(174) 39(/)
+			Pidgey(135) hit Zapdos(339) 47(/)
+			Zapdos(292) hit Pidgey(135) 39(/)
+			Pidgey(96) hit Zapdos(292) 47(/)
+			Zapdos(245) hit Pidgey(96) 39(/)
+			Pidgey(57) hit Zapdos(245) 47(/)
+			Zapdos(198) hit Pidgey(57) 39(/)
+			Pidgey(18) hit Zapdos(198) 47(/)
+			Zapdos(151) hit Pidgey(18) 39(/)
+		WinnerP:Zapdos
+			Magnemite(450) hit Zapdos(216) 46(-)
+			Zapdos(170) hit Magnemite(450) 65(/)
+			Magnemite(385) hit Zapdos(170) 46(-)
+			Zapdos(124) hit Magnemite(385) 65(/)
+			Magnemite(320) hit Zapdos(124) 46(-)
+			Zapdos(78) hit Magnemite(320) 65(/)
+			Magnemite(255) hit Zapdos(78) 46(-)
+			Zapdos(32) hit Magnemite(255) 65(/)
+			Magnemite(190) hit Zapdos(32) 46(-)
+		WinnerP:Magnemite
+			Weepinbell(980) hit Magnemite(240) 54(+)
+			Magnemite(186) is rooted!!!!
+			Magnemite(142) hit Weepinbell(980) 41(-)
+			Weepinbell(939) is electrified!!
+			Weepinbell(869) hit Magnemite(142) 54(+)
+			Magnemite(88) is rooted!!!!
+			Magnemite(44) hit Weepinbell(869) 41(-)
+			Weepinbell(828) is electrified!!
+			Weepinbell(758) hit Magnemite(44) 54(+)
+		WinnerP:Weepinbell
+			Growlithe(660) hit Weepinbell(838) 30(/)
+			Weepinbell(808) is burning!!!!
+			Weepinbell(708) is electrified!!
+			Weepinbell(638) hit Growlithe(660) 47(+)
+			Growlithe(613) is rooted!!
+			Growlithe(595) hit Weepinbell(638) 30(/)
+			Weepinbell(608) is burning!!!!
+			Weepinbell(508) is electrified!!
+			Weepinbell(438) hit Growlithe(595) 47(+)
+			Growlithe(548) is rooted!!
+			Growlithe(530) hit Weepinbell(438) 30(/)
+			Weepinbell(408) is burning!!!!
+			Weepinbell(308) is electrified!!
+			Weepinbell(238) hit Growlithe(530) 47(+)
+			Growlithe(483) is rooted!!
+			Growlithe(465) hit Weepinbell(238) 30(/)
+			Weepinbell(208) is burning!!!!
+			Weepinbell(108) is electrified!!
+			Weepinbell(38) hit Growlithe(465) 47(+)
+			Growlithe(418) is rooted!!
+			Growlithe(400) hit Weepinbell(38) 30(/)
+			Weepinbell(8) is burning!!!!
+		WinnerP:Growlithe
+	WinnerT:Jesse
+
+	Jesse vs Tracey: Stadium
+			Pidgey(780) hit Magneton(500) 65(/)
+			Magneton(435) hit Pidgey(780) 49(/)
+			Pidgey(731) hit Magneton(435) 65(/)
+			Magneton(370) hit Pidgey(731) 49(/)
+			Pidgey(682) hit Magneton(370) 65(/)
+			Magneton(305) hit Pidgey(682) 49(/)
+			Pidgey(633) hit Magneton(305) 65(/)
+			Magneton(240) hit Pidgey(633) 49(/)
+			Pidgey(584) hit Magneton(240) 65(/)
+			Magneton(175) hit Pidgey(584) 49(/)
+			Pidgey(535) hit Magneton(175) 65(/)
+			Magneton(110) hit Pidgey(535) 49(/)
+			Pidgey(486) hit Magneton(110) 65(/)
+			Magneton(45) hit Pidgey(486) 49(/)
+			Pidgey(437) hit Magneton(45) 65(/)
+		WinnerP:Pidgey
+			Zapdos(780) hit Pidgey(502) 41(/)
+			Pidgey(461) hit Zapdos(780) 49(/)
+			Zapdos(731) hit Pidgey(461) 41(/)
+			Pidgey(420) hit Zapdos(731) 49(/)
+			Zapdos(682) hit Pidgey(420) 41(/)
+			Pidgey(379) hit Zapdos(682) 49(/)
+			Zapdos(633) hit Pidgey(379) 41(/)
+			Pidgey(338) hit Zapdos(633) 49(/)
+			Zapdos(584) hit Pidgey(338) 41(/)
+			Pidgey(297) hit Zapdos(584) 49(/)
+			Zapdos(535) hit Pidgey(297) 41(/)
+			Pidgey(256) hit Zapdos(535) 49(/)
+			Zapdos(486) hit Pidgey(256) 41(/)
+			Pidgey(215) hit Zapdos(486) 49(/)
+			Zapdos(437) hit Pidgey(215) 41(/)
+			Pidgey(174) hit Zapdos(437) 49(/)
+			Zapdos(388) hit Pidgey(174) 41(/)
+			Pidgey(133) hit Zapdos(388) 49(/)
+			Zapdos(339) hit Pidgey(133) 41(/)
+			Pidgey(92) hit Zapdos(339) 49(/)
+			Zapdos(290) hit Pidgey(92) 41(/)
+			Pidgey(51) hit Zapdos(290) 49(/)
+			Zapdos(241) hit Pidgey(51) 41(/)
+			Pidgey(10) hit Zapdos(241) 49(/)
+			Zapdos(192) hit Pidgey(10) 41(/)
+		WinnerP:Zapdos
+			Magnemite(600) hit Zapdos(257) 60(/)
+			Zapdos(197) hit Magnemite(600) 70(/)
+			Magnemite(530) hit Zapdos(197) 60(/)
+			Zapdos(137) hit Magnemite(530) 70(/)
+			Magnemite(460) hit Zapdos(137) 60(/)
+			Zapdos(77) hit Magnemite(460) 70(/)
+			Magnemite(390) hit Zapdos(77) 60(/)
+			Zapdos(17) hit Magnemite(390) 70(/)
+			Magnemite(320) hit Zapdos(17) 60(/)
+		WinnerP:Magnemite
+			Weepinbell(960) hit Magnemite(370) 48(/)
+			Magnemite(322) is rooted!!!!
+			Magnemite(281) hit Weepinbell(960) 55(/)
+			Weepinbell(905) is electrified!!
+			Weepinbell(835) hit Magnemite(281) 48(/)
+			Magnemite(233) is rooted!!!!
+			Magnemite(192) hit Weepinbell(835) 55(/)
+			Weepinbell(780) is electrified!!
+			Weepinbell(710) hit Magnemite(192) 48(/)
+			Magnemite(144) is rooted!!!!
+			Magnemite(103) hit Weepinbell(710) 55(/)
+			Weepinbell(655) is electrified!!
+			Weepinbell(585) hit Magnemite(103) 48(/)
+			Magnemite(55) is rooted!!!!
+			Magnemite(14) hit Weepinbell(585) 55(/)
+			Weepinbell(530) is electrified!!
+			Weepinbell(460) hit Magnemite(14) 48(/)
+		WinnerP:Weepinbell
+			Growlithe(720) hit Weepinbell(540) 33(/)
+			Weepinbell(507) is burning!!!!
+			Weepinbell(407) is electrified!!
+			Weepinbell(337) hit Growlithe(720) 40(/)
+			Growlithe(680) is rooted!!
+			Growlithe(664) hit Weepinbell(337) 33(/)
+			Weepinbell(304) is burning!!!!
+			Weepinbell(204) is electrified!!
+			Weepinbell(134) hit Growlithe(664) 40(/)
+			Growlithe(624) is rooted!!
+			Growlithe(608) hit Weepinbell(134) 33(/)
+			Weepinbell(101) is burning!!!!
+			Weepinbell(1) is electrified!!
+		WinnerP:Growlithe
+	WinnerT:Jesse
+
+Round Winner: Jesse!
+Started Round: 7 vs 8
+	Gary vs Cilan: Sky
+			Pidgey(750) hit Voltorb(500) 65(+)
+			Voltorb(435) hit Pidgey(750) 55(/)
+			Pidgey(695) hit Voltorb(435) 65(+)
+			Voltorb(370) hit Pidgey(695) 55(/)
+			Pidgey(640) hit Voltorb(370) 65(+)
+			Voltorb(305) hit Pidgey(640) 55(/)
+			Pidgey(585) hit Voltorb(305) 65(+)
+			Voltorb(240) hit Pidgey(585) 55(/)
+			Pidgey(530) hit Voltorb(240) 65(+)
+			Voltorb(175) hit Pidgey(530) 55(/)
+			Pidgey(475) hit Voltorb(175) 65(+)
+			Voltorb(110) hit Pidgey(475) 55(/)
+			Pidgey(420) hit Voltorb(110) 65(+)
+			Voltorb(45) hit Pidgey(420) 55(/)
+			Pidgey(365) hit Voltorb(45) 65(+)
+		WinnerP:Pidgey
+			Venusaur(700) hit Pidgey(430) 12(-)
+			Pidgey(418) hit Venusaur(700) 40(+)
+			Venusaur(660) hit Pidgey(418) 12(-)
+			Pidgey(406) hit Venusaur(660) 40(+)
+			Venusaur(620) hit Pidgey(406) 12(-)
+			Pidgey(394) hit Venusaur(620) 40(+)
+			Venusaur(580) hit Pidgey(394) 12(-)
+			Pidgey(382) hit Venusaur(580) 40(+)
+			Venusaur(540) hit Pidgey(382) 12(-)
+			Pidgey(370) hit Venusaur(540) 40(+)
+			Venusaur(500) hit Pidgey(370) 12(-)
+			Pidgey(358) hit Venusaur(500) 40(+)
+			Venusaur(460) hit Pidgey(358) 12(-)
+			Pidgey(346) hit Venusaur(460) 40(+)
+			Venusaur(420) hit Pidgey(346) 12(-)
+			Pidgey(334) hit Venusaur(420) 40(+)
+			Venusaur(380) hit Pidgey(334) 12(-)
+			Pidgey(322) hit Venusaur(380) 40(+)
+			Venusaur(340) hit Pidgey(322) 12(-)
+			Pidgey(310) hit Venusaur(340) 40(+)
+			Venusaur(300) hit Pidgey(310) 12(-)
+			Pidgey(298) hit Venusaur(300) 40(+)
+			Venusaur(260) hit Pidgey(298) 12(-)
+			Pidgey(286) hit Venusaur(260) 40(+)
+			Venusaur(220) hit Pidgey(286) 12(-)
+			Pidgey(274) hit Venusaur(220) 40(+)
+			Venusaur(180) hit Pidgey(274) 12(-)
+			Pidgey(262) hit Venusaur(180) 40(+)
+			Venusaur(140) hit Pidgey(262) 12(-)
+			Pidgey(250) hit Venusaur(140) 40(+)
+			Venusaur(100) hit Pidgey(250) 12(-)
+			Pidgey(238) hit Venusaur(100) 40(+)
+			Venusaur(60) hit Pidgey(238) 12(-)
+			Pidgey(226) hit Venusaur(60) 40(+)
+			Venusaur(20) hit Pidgey(226) 12(-)
+			Pidgey(214) hit Venusaur(20) 40(+)
+		WinnerP:Pidgey
+			Electrode(500) hit Pidgey(279) 49(/)
+			Pidgey(230) hit Electrode(500) 75(+)
+			Electrode(425) hit Pidgey(230) 49(/)
+			Pidgey(181) hit Electrode(425) 75(+)
+			Electrode(350) hit Pidgey(181) 49(/)
+			Pidgey(132) hit Electrode(350) 75(+)
+			Electrode(275) hit Pidgey(132) 49(/)
+			Pidgey(83) hit Electrode(275) 75(+)
+			Electrode(200) hit Pidgey(83) 49(/)
+			Pidgey(34) hit Electrode(200) 75(+)
+			Electrode(125) hit Pidgey(34) 49(/)
+		WinnerP:Electrode
+			Magnemite(500) hit Electrode(175) 70(/)
+			Electrode(105) hit Magnemite(500) 77(/)
+			Magnemite(423) hit Electrode(105) 70(/)
+			Electrode(35) hit Magnemite(423) 77(/)
+			Magnemite(346) hit Electrode(35) 70(/)
+		WinnerP:Magnemite
+	WinnerT:Gary
+
+	Cilan vs Gary: Sky
+			Voltorb(500) hit Pidgey(880) 49(/)
+			Pidgey(831) hit Voltorb(500) 75(+)
+			Voltorb(425) hit Pidgey(831) 49(/)
+			Pidgey(782) hit Voltorb(425) 75(+)
+			Voltorb(350) hit Pidgey(782) 49(/)
+			Pidgey(733) hit Voltorb(350) 75(+)
+			Voltorb(275) hit Pidgey(733) 49(/)
+			Pidgey(684) hit Voltorb(275) 75(+)
+			Voltorb(200) hit Pidgey(684) 49(/)
+			Pidgey(635) hit Voltorb(200) 75(+)
+			Voltorb(125) hit Pidgey(635) 49(/)
+			Pidgey(586) hit Voltorb(125) 75(+)
+			Voltorb(50) hit Pidgey(586) 49(/)
+			Pidgey(537) hit Voltorb(50) 75(+)
+		WinnerP:Pidgey
+			Venusaur(700) hit Pidgey(602) 6(-)
+			Pidgey(596) hit Venusaur(700) 50(+)
+			Venusaur(650) hit Pidgey(596) 6(-)
+			Pidgey(590) hit Venusaur(650) 50(+)
+			Venusaur(600) hit Pidgey(590) 6(-)
+			Pidgey(584) hit Venusaur(600) 50(+)
+			Venusaur(550) hit Pidgey(584) 6(-)
+			Pidgey(578) hit Venusaur(550) 50(+)
+			Venusaur(500) hit Pidgey(578) 6(-)
+			Pidgey(572) hit Venusaur(500) 50(+)
+			Venusaur(450) hit Pidgey(572) 6(-)
+			Pidgey(566) hit Venusaur(450) 50(+)
+			Venusaur(400) hit Pidgey(566) 6(-)
+			Pidgey(560) hit Venusaur(400) 50(+)
+			Venusaur(350) hit Pidgey(560) 6(-)
+			Pidgey(554) hit Venusaur(350) 50(+)
+			Venusaur(300) hit Pidgey(554) 6(-)
+			Pidgey(548) hit Venusaur(300) 50(+)
+			Venusaur(250) hit Pidgey(548) 6(-)
+			Pidgey(542) hit Venusaur(250) 50(+)
+			Venusaur(200) hit Pidgey(542) 6(-)
+			Pidgey(536) hit Venusaur(200) 50(+)
+			Venusaur(150) hit Pidgey(536) 6(-)
+			Pidgey(530) hit Venusaur(150) 50(+)
+			Venusaur(100) hit Pidgey(530) 6(-)
+			Pidgey(524) hit Venusaur(100) 50(+)
+			Venusaur(50) hit Pidgey(524) 6(-)
+			Pidgey(518) hit Venusaur(50) 50(+)
+		WinnerP:Pidgey
+			Electrode(550) hit Pidgey(583) 50(/)
+			Pidgey(533) hit Electrode(550) 85(+)
+			Electrode(465) hit Pidgey(533) 50(/)
+			Pidgey(483) hit Electrode(465) 85(+)
+			Electrode(380) hit Pidgey(483) 50(/)
+			Pidgey(433) hit Electrode(380) 85(+)
+			Electrode(295) hit Pidgey(433) 50(/)
+			Pidgey(383) hit Electrode(295) 85(+)
+			Electrode(210) hit Pidgey(383) 50(/)
+			Pidgey(333) hit Electrode(210) 85(+)
+			Electrode(125) hit Pidgey(333) 50(/)
+			Pidgey(283) hit Electrode(125) 85(+)
+			Electrode(40) hit Pidgey(283) 50(/)
+			Pidgey(233) hit Electrode(40) 85(+)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+	Gary vs Cilan: Stadium
+			Pidgey(975) hit Voltorb(500) 80(/)
+			Voltorb(420) hit Pidgey(975) 40(/)
+			Pidgey(935) hit Voltorb(420) 80(/)
+			Voltorb(340) hit Pidgey(935) 40(/)
+			Pidgey(895) hit Voltorb(340) 80(/)
+			Voltorb(260) hit Pidgey(895) 40(/)
+			Pidgey(855) hit Voltorb(260) 80(/)
+			Voltorb(180) hit Pidgey(855) 40(/)
+			Pidgey(815) hit Voltorb(180) 80(/)
+			Voltorb(100) hit Pidgey(815) 40(/)
+			Pidgey(775) hit Voltorb(100) 80(/)
+			Voltorb(20) hit Pidgey(775) 40(/)
+			Pidgey(735) hit Voltorb(20) 80(/)
+		WinnerP:Pidgey
+			Venusaur(800) hit Pidgey(800) 7(/)
+			Pidgey(793) hit Venusaur(800) 55(/)
+			Venusaur(745) hit Pidgey(793) 7(/)
+			Pidgey(786) hit Venusaur(745) 55(/)
+			Venusaur(690) hit Pidgey(786) 7(/)
+			Pidgey(779) hit Venusaur(690) 55(/)
+			Venusaur(635) hit Pidgey(779) 7(/)
+			Pidgey(772) hit Venusaur(635) 55(/)
+			Venusaur(580) hit Pidgey(772) 7(/)
+			Pidgey(765) hit Venusaur(580) 55(/)
+			Venusaur(525) hit Pidgey(765) 7(/)
+			Pidgey(758) hit Venusaur(525) 55(/)
+			Venusaur(470) hit Pidgey(758) 7(/)
+			Pidgey(751) hit Venusaur(470) 55(/)
+			Venusaur(415) hit Pidgey(751) 7(/)
+			Pidgey(744) hit Venusaur(415) 55(/)
+			Venusaur(360) hit Pidgey(744) 7(/)
+			Pidgey(737) hit Venusaur(360) 55(/)
+			Venusaur(305) hit Pidgey(737) 7(/)
+			Pidgey(730) hit Venusaur(305) 55(/)
+			Venusaur(250) hit Pidgey(730) 7(/)
+			Pidgey(723) hit Venusaur(250) 55(/)
+			Venusaur(195) hit Pidgey(723) 7(/)
+			Pidgey(716) hit Venusaur(195) 55(/)
+			Venusaur(140) hit Pidgey(716) 7(/)
+			Pidgey(709) hit Venusaur(140) 55(/)
+			Venusaur(85) hit Pidgey(709) 7(/)
+			Pidgey(702) hit Venusaur(85) 55(/)
+			Venusaur(30) hit Pidgey(702) 7(/)
+			Pidgey(695) hit Venusaur(30) 55(/)
+		WinnerP:Pidgey
+			Electrode(550) hit Pidgey(760) 41(/)
+			Pidgey(719) hit Electrode(550) 90(/)
+			Electrode(460) hit Pidgey(719) 41(/)
+			Pidgey(678) hit Electrode(460) 90(/)
+			Electrode(370) hit Pidgey(678) 41(/)
+			Pidgey(637) hit Electrode(370) 90(/)
+			Electrode(280) hit Pidgey(637) 41(/)
+			Pidgey(596) hit Electrode(280) 90(/)
+			Electrode(190) hit Pidgey(596) 41(/)
+			Pidgey(555) hit Electrode(190) 90(/)
+			Electrode(100) hit Pidgey(555) 41(/)
+			Pidgey(514) hit Electrode(100) 90(/)
+			Electrode(10) hit Pidgey(514) 41(/)
+			Pidgey(473) hit Electrode(10) 90(/)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+Round Winner: Gary!
+Started Round: 0 vs 7
+	Jesse vs Gary: Ocean
+			Exeggutor(960) hit Pidgey(1070) 9(/)
+			Pidgey(1061) hit Exeggutor(960) 49(-)
+			Exeggutor(911) hit Pidgey(1061) 9(/)
+			Pidgey(1052) hit Exeggutor(911) 49(-)
+			Exeggutor(862) hit Pidgey(1052) 9(/)
+			Pidgey(1043) hit Exeggutor(862) 49(-)
+			Exeggutor(813) hit Pidgey(1043) 9(/)
+			Pidgey(1034) hit Exeggutor(813) 49(-)
+			Exeggutor(764) hit Pidgey(1034) 9(/)
+			Pidgey(1025) hit Exeggutor(764) 49(-)
+			Exeggutor(715) hit Pidgey(1025) 9(/)
+			Pidgey(1016) hit Exeggutor(715) 49(-)
+			Exeggutor(666) hit Pidgey(1016) 9(/)
+			Pidgey(1007) hit Exeggutor(666) 49(-)
+			Exeggutor(617) hit Pidgey(1007) 9(/)
+			Pidgey(998) hit Exeggutor(617) 49(-)
+			Exeggutor(568) hit Pidgey(998) 9(/)
+			Pidgey(989) hit Exeggutor(568) 49(-)
+			Exeggutor(519) hit Pidgey(989) 9(/)
+			Pidgey(980) hit Exeggutor(519) 49(-)
+			Exeggutor(470) hit Pidgey(980) 9(/)
+			Pidgey(971) hit Exeggutor(470) 49(-)
+			Exeggutor(421) hit Pidgey(971) 9(/)
+			Pidgey(962) hit Exeggutor(421) 49(-)
+			Exeggutor(372) hit Pidgey(962) 9(/)
+			Pidgey(953) hit Exeggutor(372) 49(-)
+			Exeggutor(323) hit Pidgey(953) 9(/)
+			Pidgey(944) hit Exeggutor(323) 49(-)
+			Exeggutor(274) hit Pidgey(944) 9(/)
+			Pidgey(935) hit Exeggutor(274) 49(-)
+			Exeggutor(225) hit Pidgey(935) 9(/)
+			Pidgey(926) hit Exeggutor(225) 49(-)
+			Exeggutor(176) hit Pidgey(926) 9(/)
+			Pidgey(917) hit Exeggutor(176) 49(-)
+			Exeggutor(127) hit Pidgey(917) 9(/)
+			Pidgey(908) hit Exeggutor(127) 49(-)
+			Exeggutor(78) hit Pidgey(908) 9(/)
+			Pidgey(899) hit Exeggutor(78) 49(-)
+			Exeggutor(29) hit Pidgey(899) 9(/)
+			Pidgey(890) hit Exeggutor(29) 49(-)
+		WinnerP:Pidgey
+			Flareon(740) hit Pidgey(955) 32(-)
+			Pidgey(923) hit Flareon(740) 76(-)
+			Flareon(664) hit Pidgey(923) 32(-)
+			Pidgey(891) hit Flareon(664) 76(-)
+			Flareon(588) hit Pidgey(891) 32(-)
+			Pidgey(859) hit Flareon(588) 76(-)
+			Flareon(512) hit Pidgey(859) 32(-)
+			Pidgey(827) hit Flareon(512) 76(-)
+			Flareon(436) hit Pidgey(827) 32(-)
+			Pidgey(795) hit Flareon(436) 76(-)
+			Flareon(360) hit Pidgey(795) 32(-)
+			Pidgey(763) hit Flareon(360) 76(-)
+			Flareon(284) hit Pidgey(763) 32(-)
+			Pidgey(731) hit Flareon(284) 76(-)
+			Flareon(208) hit Pidgey(731) 32(-)
+			Pidgey(699) hit Flareon(208) 76(-)
+			Flareon(132) hit Pidgey(699) 32(-)
+			Pidgey(667) hit Flareon(132) 76(-)
+			Flareon(56) hit Pidgey(667) 32(-)
+			Pidgey(635) hit Flareon(56) 76(-)
+		WinnerP:Pidgey
+			Charmander(680) hit Pidgey(700) 23(-)
+			Pidgey(677) hit Charmander(680) 82(-)
+			Charmander(598) hit Pidgey(677) 23(-)
+			Pidgey(654) hit Charmander(598) 82(-)
+			Charmander(516) hit Pidgey(654) 23(-)
+			Pidgey(631) hit Charmander(516) 82(-)
+			Charmander(434) hit Pidgey(631) 23(-)
+			Pidgey(608) hit Charmander(434) 82(-)
+			Charmander(352) hit Pidgey(608) 23(-)
+			Pidgey(585) hit Charmander(352) 82(-)
+			Charmander(270) hit Pidgey(585) 23(-)
+			Pidgey(562) hit Charmander(270) 82(-)
+			Charmander(188) hit Pidgey(562) 23(-)
+			Pidgey(539) hit Charmander(188) 82(-)
+			Charmander(106) hit Pidgey(539) 23(-)
+			Pidgey(516) hit Charmander(106) 82(-)
+			Charmander(24) hit Pidgey(516) 23(-)
+			Pidgey(493) hit Charmander(24) 82(-)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+	Gary vs Jesse: Sky
+			Pidgey(1465) hit Exeggutor(860) 84(+)
+			Exeggutor(776) hit Pidgey(1465) 1(-)
+			Pidgey(1464) hit Exeggutor(776) 84(+)
+			Exeggutor(692) hit Pidgey(1464) 1(-)
+			Pidgey(1463) hit Exeggutor(692) 84(+)
+			Exeggutor(608) hit Pidgey(1463) 1(-)
+			Pidgey(1462) hit Exeggutor(608) 84(+)
+			Exeggutor(524) hit Pidgey(1462) 1(-)
+			Pidgey(1461) hit Exeggutor(524) 84(+)
+			Exeggutor(440) hit Pidgey(1461) 1(-)
+			Pidgey(1460) hit Exeggutor(440) 84(+)
+			Exeggutor(356) hit Pidgey(1460) 1(-)
+			Pidgey(1459) hit Exeggutor(356) 84(+)
+			Exeggutor(272) hit Pidgey(1459) 1(-)
+			Pidgey(1458) hit Exeggutor(272) 84(+)
+			Exeggutor(188) hit Pidgey(1458) 1(-)
+			Pidgey(1457) hit Exeggutor(188) 84(+)
+			Exeggutor(104) hit Pidgey(1457) 1(-)
+			Pidgey(1456) hit Exeggutor(104) 84(+)
+			Exeggutor(20) hit Pidgey(1456) 1(-)
+			Pidgey(1455) hit Exeggutor(20) 84(+)
+		WinnerP:Pidgey
+			Flareon(740) hit Pidgey(1520) 23(-)
+			Pidgey(1497) hit Flareon(740) 111(+)
+			Flareon(629) hit Pidgey(1497) 23(-)
+			Pidgey(1474) hit Flareon(629) 111(+)
+			Flareon(518) hit Pidgey(1474) 23(-)
+			Pidgey(1451) hit Flareon(518) 111(+)
+			Flareon(407) hit Pidgey(1451) 23(-)
+			Pidgey(1428) hit Flareon(407) 111(+)
+			Flareon(296) hit Pidgey(1428) 23(-)
+			Pidgey(1405) hit Flareon(296) 111(+)
+			Flareon(185) hit Pidgey(1405) 23(-)
+			Pidgey(1382) hit Flareon(185) 111(+)
+			Flareon(74) hit Pidgey(1382) 23(-)
+			Pidgey(1359) hit Flareon(74) 111(+)
+		WinnerP:Pidgey
+			Charmander(680) hit Pidgey(1424) 14(-)
+			Pidgey(1410) hit Charmander(680) 117(+)
+			Charmander(563) hit Pidgey(1410) 14(-)
+			Pidgey(1396) hit Charmander(563) 117(+)
+			Charmander(446) hit Pidgey(1396) 14(-)
+			Pidgey(1382) hit Charmander(446) 117(+)
+			Charmander(329) hit Pidgey(1382) 14(-)
+			Pidgey(1368) hit Charmander(329) 117(+)
+			Charmander(212) hit Pidgey(1368) 14(-)
+			Pidgey(1354) hit Charmander(212) 117(+)
+			Charmander(95) hit Pidgey(1354) 14(-)
+			Pidgey(1340) hit Charmander(95) 117(+)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+	Jesse vs Gary: Stadium
+			Exeggutor(960) hit Pidgey(1560) 1(/)
+			Pidgey(1559) hit Exeggutor(960) 89(/)
+			Exeggutor(871) hit Pidgey(1559) 1(/)
+			Pidgey(1558) hit Exeggutor(871) 89(/)
+			Exeggutor(782) hit Pidgey(1558) 1(/)
+			Pidgey(1557) hit Exeggutor(782) 89(/)
+			Exeggutor(693) hit Pidgey(1557) 1(/)
+			Pidgey(1556) hit Exeggutor(693) 89(/)
+			Exeggutor(604) hit Pidgey(1556) 1(/)
+			Pidgey(1555) hit Exeggutor(604) 89(/)
+			Exeggutor(515) hit Pidgey(1555) 1(/)
+			Pidgey(1554) hit Exeggutor(515) 89(/)
+			Exeggutor(426) hit Pidgey(1554) 1(/)
+			Pidgey(1553) hit Exeggutor(426) 89(/)
+			Exeggutor(337) hit Pidgey(1553) 1(/)
+			Pidgey(1552) hit Exeggutor(337) 89(/)
+			Exeggutor(248) hit Pidgey(1552) 1(/)
+			Pidgey(1551) hit Exeggutor(248) 89(/)
+			Exeggutor(159) hit Pidgey(1551) 1(/)
+			Pidgey(1550) hit Exeggutor(159) 89(/)
+			Exeggutor(70) hit Pidgey(1550) 1(/)
+			Pidgey(1549) hit Exeggutor(70) 89(/)
+		WinnerP:Pidgey
+			Flareon(840) hit Pidgey(1614) 24(/)
+			Pidgey(1590) hit Flareon(840) 116(/)
+			Flareon(724) hit Pidgey(1590) 24(/)
+			Pidgey(1566) hit Flareon(724) 116(/)
+			Flareon(608) hit Pidgey(1566) 24(/)
+			Pidgey(1542) hit Flareon(608) 116(/)
+			Flareon(492) hit Pidgey(1542) 24(/)
+			Pidgey(1518) hit Flareon(492) 116(/)
+			Flareon(376) hit Pidgey(1518) 24(/)
+			Pidgey(1494) hit Flareon(376) 116(/)
+			Flareon(260) hit Pidgey(1494) 24(/)
+			Pidgey(1470) hit Flareon(260) 116(/)
+			Flareon(144) hit Pidgey(1470) 24(/)
+			Pidgey(1446) hit Flareon(144) 116(/)
+			Flareon(28) hit Pidgey(1446) 24(/)
+			Pidgey(1422) hit Flareon(28) 116(/)
+		WinnerP:Pidgey
+			Charmander(780) hit Pidgey(1487) 15(/)
+			Pidgey(1472) hit Charmander(780) 122(/)
+			Charmander(658) hit Pidgey(1472) 15(/)
+			Pidgey(1457) hit Charmander(658) 122(/)
+			Charmander(536) hit Pidgey(1457) 15(/)
+			Pidgey(1442) hit Charmander(536) 122(/)
+			Charmander(414) hit Pidgey(1442) 15(/)
+			Pidgey(1427) hit Charmander(414) 122(/)
+			Charmander(292) hit Pidgey(1427) 15(/)
+			Pidgey(1412) hit Charmander(292) 122(/)
+			Charmander(170) hit Pidgey(1412) 15(/)
+			Pidgey(1397) hit Charmander(170) 122(/)
+			Charmander(48) hit Pidgey(1397) 15(/)
+			Pidgey(1382) hit Charmander(48) 122(/)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+Round Winner: Gary!
+Started Round: 1 vs 6
+	Cilan vs Jesse: Sky
+			Articuno(945) hit Pidgey(945) 56(+)
+			Pidgey(889) hit Articuno(945) 56(+)
+			Articuno(889) hit Pidgey(889) 56(+)
+			Pidgey(833) hit Articuno(889) 56(+)
+			Articuno(833) hit Pidgey(833) 56(+)
+			Pidgey(777) hit Articuno(833) 56(+)
+			Articuno(777) hit Pidgey(777) 56(+)
+			Pidgey(721) hit Articuno(777) 56(+)
+			Articuno(721) hit Pidgey(721) 56(+)
+			Pidgey(665) hit Articuno(721) 56(+)
+			Articuno(665) hit Pidgey(665) 56(+)
+			Pidgey(609) hit Articuno(665) 56(+)
+			Articuno(609) hit Pidgey(609) 56(+)
+			Pidgey(553) hit Articuno(609) 56(+)
+			Articuno(553) hit Pidgey(553) 56(+)
+			Pidgey(497) hit Articuno(553) 56(+)
+			Articuno(497) hit Pidgey(497) 56(+)
+			Pidgey(441) hit Articuno(497) 56(+)
+			Articuno(441) hit Pidgey(441) 56(+)
+			Pidgey(385) hit Articuno(441) 56(+)
+			Articuno(385) hit Pidgey(385) 56(+)
+			Pidgey(329) hit Articuno(385) 56(+)
+			Articuno(329) hit Pidgey(329) 56(+)
+			Pidgey(273) hit Articuno(329) 56(+)
+			Articuno(273) hit Pidgey(273) 56(+)
+			Pidgey(217) hit Articuno(273) 56(+)
+			Articuno(217) hit Pidgey(217) 56(+)
+			Pidgey(161) hit Articuno(217) 56(+)
+			Articuno(161) hit Pidgey(161) 56(+)
+			Pidgey(105) hit Articuno(161) 56(+)
+			Articuno(105) hit Pidgey(105) 56(+)
+			Pidgey(49) hit Articuno(105) 56(+)
+			Articuno(49) hit Pidgey(49) 56(+)
+		WinnerP:Articuno
+			Magnemite(650) hit Articuno(114) 64(/)
+			Articuno(50) hit Magnemite(650) 85(+)
+			Magnemite(565) hit Articuno(50) 64(/)
+		WinnerP:Magnemite
+			Zapdos(1075) hit Magnemite(615) 90(+)
+			Magnemite(525) hit Zapdos(1075) 68(/)
+			Zapdos(1007) hit Magnemite(525) 90(+)
+			Magnemite(435) hit Zapdos(1007) 68(/)
+			Zapdos(939) hit Magnemite(435) 90(+)
+			Magnemite(345) hit Zapdos(939) 68(/)
+			Zapdos(871) hit Magnemite(345) 90(+)
+			Magnemite(255) hit Zapdos(871) 68(/)
+			Zapdos(803) hit Magnemite(255) 90(+)
+			Magnemite(165) hit Zapdos(803) 68(/)
+			Zapdos(735) hit Magnemite(165) 90(+)
+			Magnemite(75) hit Zapdos(735) 68(/)
+			Zapdos(667) hit Magnemite(75) 90(+)
+		WinnerP:Zapdos
+			Growlithe(680) hit Zapdos(732) 35(-)
+			Zapdos(697) hit Growlithe(680) 82(+)
+			Growlithe(598) hit Zapdos(697) 35(-)
+			Zapdos(662) hit Growlithe(598) 82(+)
+			Growlithe(516) hit Zapdos(662) 35(-)
+			Zapdos(627) hit Growlithe(516) 82(+)
+			Growlithe(434) hit Zapdos(627) 35(-)
+			Zapdos(592) hit Growlithe(434) 82(+)
+			Growlithe(352) hit Zapdos(592) 35(-)
+			Zapdos(557) hit Growlithe(352) 82(+)
+			Growlithe(270) hit Zapdos(557) 35(-)
+			Zapdos(522) hit Growlithe(270) 82(+)
+			Growlithe(188) hit Zapdos(522) 35(-)
+			Zapdos(487) hit Growlithe(188) 82(+)
+			Growlithe(106) hit Zapdos(487) 35(-)
+			Zapdos(452) hit Growlithe(106) 82(+)
+			Growlithe(24) hit Zapdos(452) 35(-)
+			Zapdos(417) hit Growlithe(24) 82(+)
+		WinnerP:Zapdos
+	WinnerT:Cilan
+
+	Jesse vs Cilan: Sky
+			Pidgey(945) hit Articuno(1010) 53(+)
+			Articuno(957) hit Pidgey(945) 61(+)
+			Pidgey(884) hit Articuno(957) 53(+)
+			Articuno(904) hit Pidgey(884) 61(+)
+			Pidgey(823) hit Articuno(904) 53(+)
+			Articuno(851) hit Pidgey(823) 61(+)
+			Pidgey(762) hit Articuno(851) 53(+)
+			Articuno(798) hit Pidgey(762) 61(+)
+			Pidgey(701) hit Articuno(798) 53(+)
+			Articuno(745) hit Pidgey(701) 61(+)
+			Pidgey(640) hit Articuno(745) 53(+)
+			Articuno(692) hit Pidgey(640) 61(+)
+			Pidgey(579) hit Articuno(692) 53(+)
+			Articuno(639) hit Pidgey(579) 61(+)
+			Pidgey(518) hit Articuno(639) 53(+)
+			Articuno(586) hit Pidgey(518) 61(+)
+			Pidgey(457) hit Articuno(586) 53(+)
+			Articuno(533) hit Pidgey(457) 61(+)
+			Pidgey(396) hit Articuno(533) 53(+)
+			Articuno(480) hit Pidgey(396) 61(+)
+			Pidgey(335) hit Articuno(480) 53(+)
+			Articuno(427) hit Pidgey(335) 61(+)
+			Pidgey(274) hit Articuno(427) 53(+)
+			Articuno(374) hit Pidgey(274) 61(+)
+			Pidgey(213) hit Articuno(374) 53(+)
+			Articuno(321) hit Pidgey(213) 61(+)
+			Pidgey(152) hit Articuno(321) 53(+)
+			Articuno(268) hit Pidgey(152) 61(+)
+			Pidgey(91) hit Articuno(268) 53(+)
+			Articuno(215) hit Pidgey(91) 61(+)
+			Pidgey(30) hit Articuno(215) 53(+)
+			Articuno(162) hit Pidgey(30) 61(+)
+		WinnerP:Articuno
+			Magnemite(700) hit Articuno(227) 68(/)
+			Articuno(159) hit Magnemite(700) 90(+)
+			Magnemite(610) hit Articuno(159) 68(/)
+			Articuno(91) hit Magnemite(610) 90(+)
+			Magnemite(520) hit Articuno(91) 68(/)
+			Articuno(23) hit Magnemite(520) 90(+)
+			Magnemite(430) hit Articuno(23) 68(/)
+		WinnerP:Magnemite
+			Zapdos(1205) hit Magnemite(480) 100(+)
+			Magnemite(380) hit Zapdos(1205) 69(/)
+			Zapdos(1136) hit Magnemite(380) 100(+)
+			Magnemite(280) hit Zapdos(1136) 69(/)
+			Zapdos(1067) hit Magnemite(280) 100(+)
+			Magnemite(180) hit Zapdos(1067) 69(/)
+			Zapdos(998) hit Magnemite(180) 100(+)
+			Magnemite(80) hit Zapdos(998) 69(/)
+			Zapdos(929) hit Magnemite(80) 100(+)
+		WinnerP:Zapdos
+			Growlithe(680) hit Zapdos(994) 29(-)
+			Zapdos(965) hit Growlithe(680) 92(+)
+			Growlithe(588) hit Zapdos(965) 29(-)
+			Zapdos(936) hit Growlithe(588) 92(+)
+			Growlithe(496) hit Zapdos(936) 29(-)
+			Zapdos(907) hit Growlithe(496) 92(+)
+			Growlithe(404) hit Zapdos(907) 29(-)
+			Zapdos(878) hit Growlithe(404) 92(+)
+			Growlithe(312) hit Zapdos(878) 29(-)
+			Zapdos(849) hit Growlithe(312) 92(+)
+			Growlithe(220) hit Zapdos(849) 29(-)
+			Zapdos(820) hit Growlithe(220) 92(+)
+			Growlithe(128) hit Zapdos(820) 29(-)
+			Zapdos(791) hit Growlithe(128) 92(+)
+			Growlithe(36) hit Zapdos(791) 29(-)
+			Zapdos(762) hit Growlithe(36) 92(+)
+		WinnerP:Zapdos
+	WinnerT:Cilan
+
+	Cilan vs Jesse: Stadium
+			Articuno(975) hit Pidgey(845) 56(/)
+			Pidgey(789) hit Articuno(975) 40(/)
+			Articuno(935) hit Pidgey(789) 56(/)
+			Pidgey(733) hit Articuno(935) 40(/)
+			Articuno(895) hit Pidgey(733) 56(/)
+			Pidgey(677) hit Articuno(895) 40(/)
+			Articuno(855) hit Pidgey(677) 56(/)
+			Pidgey(621) hit Articuno(855) 40(/)
+			Articuno(815) hit Pidgey(621) 56(/)
+			Pidgey(565) hit Articuno(815) 40(/)
+			Articuno(775) hit Pidgey(565) 56(/)
+			Pidgey(509) hit Articuno(775) 40(/)
+			Articuno(735) hit Pidgey(509) 56(/)
+			Pidgey(453) hit Articuno(735) 40(/)
+			Articuno(695) hit Pidgey(453) 56(/)
+			Pidgey(397) hit Articuno(695) 40(/)
+			Articuno(655) hit Pidgey(397) 56(/)
+			Pidgey(341) hit Articuno(655) 40(/)
+			Articuno(615) hit Pidgey(341) 56(/)
+			Pidgey(285) hit Articuno(615) 40(/)
+			Articuno(575) hit Pidgey(285) 56(/)
+			Pidgey(229) hit Articuno(575) 40(/)
+			Articuno(535) hit Pidgey(229) 56(/)
+			Pidgey(173) hit Articuno(535) 40(/)
+			Articuno(495) hit Pidgey(173) 56(/)
+			Pidgey(117) hit Articuno(495) 40(/)
+			Articuno(455) hit Pidgey(117) 56(/)
+			Pidgey(61) hit Articuno(455) 40(/)
+			Articuno(415) hit Pidgey(61) 56(/)
+			Pidgey(5) hit Articuno(415) 40(/)
+			Articuno(375) hit Pidgey(5) 56(/)
+		WinnerP:Articuno
+			Magnemite(750) hit Articuno(440) 72(/)
+			Articuno(368) hit Magnemite(750) 85(/)
+			Magnemite(665) hit Articuno(368) 72(/)
+			Articuno(296) hit Magnemite(665) 85(/)
+			Magnemite(580) hit Articuno(296) 72(/)
+			Articuno(224) hit Magnemite(580) 85(/)
+			Magnemite(495) hit Articuno(224) 72(/)
+			Articuno(152) hit Magnemite(495) 85(/)
+			Magnemite(410) hit Articuno(152) 72(/)
+			Articuno(80) hit Magnemite(410) 85(/)
+			Magnemite(325) hit Articuno(80) 72(/)
+			Articuno(8) hit Magnemite(325) 85(/)
+			Magnemite(240) hit Articuno(8) 72(/)
+		WinnerP:Magnemite
+			Zapdos(1235) hit Magnemite(290) 100(/)
+			Magnemite(190) hit Zapdos(1235) 70(/)
+			Zapdos(1165) hit Magnemite(190) 100(/)
+			Magnemite(90) hit Zapdos(1165) 70(/)
+			Zapdos(1095) hit Magnemite(90) 100(/)
+		WinnerP:Zapdos
+			Growlithe(780) hit Zapdos(1160) 33(/)
+			Zapdos(1127) hit Growlithe(780) 92(/)
+			Growlithe(688) hit Zapdos(1127) 33(/)
+			Zapdos(1094) hit Growlithe(688) 92(/)
+			Growlithe(596) hit Zapdos(1094) 33(/)
+			Zapdos(1061) hit Growlithe(596) 92(/)
+			Growlithe(504) hit Zapdos(1061) 33(/)
+			Zapdos(1028) hit Growlithe(504) 92(/)
+			Growlithe(412) hit Zapdos(1028) 33(/)
+			Zapdos(995) hit Growlithe(412) 92(/)
+			Growlithe(320) hit Zapdos(995) 33(/)
+			Zapdos(962) hit Growlithe(320) 92(/)
+			Growlithe(228) hit Zapdos(962) 33(/)
+			Zapdos(929) hit Growlithe(228) 92(/)
+			Growlithe(136) hit Zapdos(929) 33(/)
+			Zapdos(896) hit Growlithe(136) 92(/)
+			Growlithe(44) hit Zapdos(896) 33(/)
+			Zapdos(863) hit Growlithe(44) 92(/)
+		WinnerP:Zapdos
+	WinnerT:Cilan
+
+Round Winner: Cilan!
+Started Round: 2 vs 5
+	Iris vs Clemont: ElectriCity
+			Tangela(1440) hit Pidgeot(615) 54(/)
+			Pidgeot(561) hit Tangela(1440) 1(-)
+			Tangela(1439) hit Pidgeot(561) 54(/)
+			Pidgeot(507) hit Tangela(1439) 1(-)
+			Tangela(1438) hit Pidgeot(507) 54(/)
+			Pidgeot(453) hit Tangela(1438) 1(-)
+			Tangela(1437) hit Pidgeot(453) 54(/)
+			Pidgeot(399) hit Tangela(1437) 1(-)
+			Tangela(1436) hit Pidgeot(399) 54(/)
+			Pidgeot(345) hit Tangela(1436) 1(-)
+			Tangela(1435) hit Pidgeot(345) 54(/)
+			Pidgeot(291) hit Tangela(1435) 1(-)
+			Tangela(1434) hit Pidgeot(291) 54(/)
+			Pidgeot(237) hit Tangela(1434) 1(-)
+			Tangela(1433) hit Pidgeot(237) 54(/)
+			Pidgeot(183) hit Tangela(1433) 1(-)
+			Tangela(1432) hit Pidgeot(183) 54(/)
+			Pidgeot(129) hit Tangela(1432) 1(-)
+			Tangela(1431) hit Pidgeot(129) 54(/)
+			Pidgeot(75) hit Tangela(1431) 1(-)
+			Tangela(1430) hit Pidgeot(75) 54(/)
+			Pidgeot(21) hit Tangela(1430) 1(-)
+			Tangela(1429) hit Pidgeot(21) 54(/)
+		WinnerP:Tangela
+			Aerodactyl(1070) hit Tangela(1509) 28(-)
+			Tangela(1481) hit Aerodactyl(1070) 37(/)
+			Aerodactyl(1033) hit Tangela(1481) 28(-)
+			Tangela(1453) hit Aerodactyl(1033) 37(/)
+			Aerodactyl(996) hit Tangela(1453) 28(-)
+			Tangela(1425) hit Aerodactyl(996) 37(/)
+			Aerodactyl(959) hit Tangela(1425) 28(-)
+			Tangela(1397) hit Aerodactyl(959) 37(/)
+			Aerodactyl(922) hit Tangela(1397) 28(-)
+			Tangela(1369) hit Aerodactyl(922) 37(/)
+			Aerodactyl(885) hit Tangela(1369) 28(-)
+			Tangela(1341) hit Aerodactyl(885) 37(/)
+			Aerodactyl(848) hit Tangela(1341) 28(-)
+			Tangela(1313) hit Aerodactyl(848) 37(/)
+			Aerodactyl(811) hit Tangela(1313) 28(-)
+			Tangela(1285) hit Aerodactyl(811) 37(/)
+			Aerodactyl(774) hit Tangela(1285) 28(-)
+			Tangela(1257) hit Aerodactyl(774) 37(/)
+			Aerodactyl(737) hit Tangela(1257) 28(-)
+			Tangela(1229) hit Aerodactyl(737) 37(/)
+			Aerodactyl(700) hit Tangela(1229) 28(-)
+			Tangela(1201) hit Aerodactyl(700) 37(/)
+			Aerodactyl(663) hit Tangela(1201) 28(-)
+			Tangela(1173) hit Aerodactyl(663) 37(/)
+			Aerodactyl(626) hit Tangela(1173) 28(-)
+			Tangela(1145) hit Aerodactyl(626) 37(/)
+			Aerodactyl(589) hit Tangela(1145) 28(-)
+			Tangela(1117) hit Aerodactyl(589) 37(/)
+			Aerodactyl(552) hit Tangela(1117) 28(-)
+			Tangela(1089) hit Aerodactyl(552) 37(/)
+			Aerodactyl(515) hit Tangela(1089) 28(-)
+			Tangela(1061) hit Aerodactyl(515) 37(/)
+			Aerodactyl(478) hit Tangela(1061) 28(-)
+			Tangela(1033) hit Aerodactyl(478) 37(/)
+			Aerodactyl(441) hit Tangela(1033) 28(-)
+			Tangela(1005) hit Aerodactyl(441) 37(/)
+			Aerodactyl(404) hit Tangela(1005) 28(-)
+			Tangela(977) hit Aerodactyl(404) 37(/)
+			Aerodactyl(367) hit Tangela(977) 28(-)
+			Tangela(949) hit Aerodactyl(367) 37(/)
+			Aerodactyl(330) hit Tangela(949) 28(-)
+			Tangela(921) hit Aerodactyl(330) 37(/)
+			Aerodactyl(293) hit Tangela(921) 28(-)
+			Tangela(893) hit Aerodactyl(293) 37(/)
+			Aerodactyl(256) hit Tangela(893) 28(-)
+			Tangela(865) hit Aerodactyl(256) 37(/)
+			Aerodactyl(219) hit Tangela(865) 28(-)
+			Tangela(837) hit Aerodactyl(219) 37(/)
+			Aerodactyl(182) hit Tangela(837) 28(-)
+			Tangela(809) hit Aerodactyl(182) 37(/)
+			Aerodactyl(145) hit Tangela(809) 28(-)
+			Tangela(781) hit Aerodactyl(145) 37(/)
+			Aerodactyl(108) hit Tangela(781) 28(-)
+			Tangela(753) hit Aerodactyl(108) 37(/)
+			Aerodactyl(71) hit Tangela(753) 28(-)
+			Tangela(725) hit Aerodactyl(71) 37(/)
+			Aerodactyl(34) hit Tangela(725) 28(-)
+			Tangela(697) hit Aerodactyl(34) 37(/)
+		WinnerP:Tangela
+			Charmander(600) hit Tangela(777) 1(/)
+			Tangela(776) is burning!!!!
+			Tangela(676) hit Charmander(600) 70(/)
+			Charmander(530) is rooted!!
+			Charmander(510) hit Tangela(676) 1(/)
+			Tangela(675) is burning!!!!
+			Tangela(575) hit Charmander(510) 70(/)
+			Charmander(440) is rooted!!
+			Charmander(420) hit Tangela(575) 1(/)
+			Tangela(574) is burning!!!!
+			Tangela(474) hit Charmander(420) 70(/)
+			Charmander(350) is rooted!!
+			Charmander(330) hit Tangela(474) 1(/)
+			Tangela(473) is burning!!!!
+			Tangela(373) hit Charmander(330) 70(/)
+			Charmander(260) is rooted!!
+			Charmander(240) hit Tangela(373) 1(/)
+			Tangela(372) is burning!!!!
+			Tangela(272) hit Charmander(240) 70(/)
+			Charmander(170) is rooted!!
+			Charmander(150) hit Tangela(272) 1(/)
+			Tangela(271) is burning!!!!
+			Tangela(171) hit Charmander(150) 70(/)
+			Charmander(80) is rooted!!
+			Charmander(60) hit Tangela(171) 1(/)
+			Tangela(170) is burning!!!!
+			Tangela(70) hit Charmander(60) 70(/)
+		WinnerP:Tangela
+	WinnerT:Iris
+
+	Clemont vs Iris: Sky
+			Pidgeot(815) hit Tangela(1580) 7(+)
+			Tangela(1573) hit Pidgeot(815) 56(-)
+			Pidgeot(759) hit Tangela(1573) 7(+)
+			Tangela(1566) hit Pidgeot(759) 56(-)
+			Pidgeot(703) hit Tangela(1566) 7(+)
+			Tangela(1559) hit Pidgeot(703) 56(-)
+			Pidgeot(647) hit Tangela(1559) 7(+)
+			Tangela(1552) hit Pidgeot(647) 56(-)
+			Pidgeot(591) hit Tangela(1552) 7(+)
+			Tangela(1545) hit Pidgeot(591) 56(-)
+			Pidgeot(535) hit Tangela(1545) 7(+)
+			Tangela(1538) hit Pidgeot(535) 56(-)
+			Pidgeot(479) hit Tangela(1538) 7(+)
+			Tangela(1531) hit Pidgeot(479) 56(-)
+			Pidgeot(423) hit Tangela(1531) 7(+)
+			Tangela(1524) hit Pidgeot(423) 56(-)
+			Pidgeot(367) hit Tangela(1524) 7(+)
+			Tangela(1517) hit Pidgeot(367) 56(-)
+			Pidgeot(311) hit Tangela(1517) 7(+)
+			Tangela(1510) hit Pidgeot(311) 56(-)
+			Pidgeot(255) hit Tangela(1510) 7(+)
+			Tangela(1503) hit Pidgeot(255) 56(-)
+			Pidgeot(199) hit Tangela(1503) 7(+)
+			Tangela(1496) hit Pidgeot(199) 56(-)
+			Pidgeot(143) hit Tangela(1496) 7(+)
+			Tangela(1489) hit Pidgeot(143) 56(-)
+			Pidgeot(87) hit Tangela(1489) 7(+)
+			Tangela(1482) hit Pidgeot(87) 56(-)
+			Pidgeot(31) hit Tangela(1482) 7(+)
+			Tangela(1475) hit Pidgeot(31) 56(-)
+		WinnerP:Tangela
+			Aerodactyl(1270) hit Tangela(1555) 39(+)
+			Tangela(1516) hit Aerodactyl(1270) 39(-)
+			Aerodactyl(1231) hit Tangela(1516) 39(+)
+			Tangela(1477) hit Aerodactyl(1231) 39(-)
+			Aerodactyl(1192) hit Tangela(1477) 39(+)
+			Tangela(1438) hit Aerodactyl(1192) 39(-)
+			Aerodactyl(1153) hit Tangela(1438) 39(+)
+			Tangela(1399) hit Aerodactyl(1153) 39(-)
+			Aerodactyl(1114) hit Tangela(1399) 39(+)
+			Tangela(1360) hit Aerodactyl(1114) 39(-)
+			Aerodactyl(1075) hit Tangela(1360) 39(+)
+			Tangela(1321) hit Aerodactyl(1075) 39(-)
+			Aerodactyl(1036) hit Tangela(1321) 39(+)
+			Tangela(1282) hit Aerodactyl(1036) 39(-)
+			Aerodactyl(997) hit Tangela(1282) 39(+)
+			Tangela(1243) hit Aerodactyl(997) 39(-)
+			Aerodactyl(958) hit Tangela(1243) 39(+)
+			Tangela(1204) hit Aerodactyl(958) 39(-)
+			Aerodactyl(919) hit Tangela(1204) 39(+)
+			Tangela(1165) hit Aerodactyl(919) 39(-)
+			Aerodactyl(880) hit Tangela(1165) 39(+)
+			Tangela(1126) hit Aerodactyl(880) 39(-)
+			Aerodactyl(841) hit Tangela(1126) 39(+)
+			Tangela(1087) hit Aerodactyl(841) 39(-)
+			Aerodactyl(802) hit Tangela(1087) 39(+)
+			Tangela(1048) hit Aerodactyl(802) 39(-)
+			Aerodactyl(763) hit Tangela(1048) 39(+)
+			Tangela(1009) hit Aerodactyl(763) 39(-)
+			Aerodactyl(724) hit Tangela(1009) 39(+)
+			Tangela(970) hit Aerodactyl(724) 39(-)
+			Aerodactyl(685) hit Tangela(970) 39(+)
+			Tangela(931) hit Aerodactyl(685) 39(-)
+			Aerodactyl(646) hit Tangela(931) 39(+)
+			Tangela(892) hit Aerodactyl(646) 39(-)
+			Aerodactyl(607) hit Tangela(892) 39(+)
+			Tangela(853) hit Aerodactyl(607) 39(-)
+			Aerodactyl(568) hit Tangela(853) 39(+)
+			Tangela(814) hit Aerodactyl(568) 39(-)
+			Aerodactyl(529) hit Tangela(814) 39(+)
+			Tangela(775) hit Aerodactyl(529) 39(-)
+			Aerodactyl(490) hit Tangela(775) 39(+)
+			Tangela(736) hit Aerodactyl(490) 39(-)
+			Aerodactyl(451) hit Tangela(736) 39(+)
+			Tangela(697) hit Aerodactyl(451) 39(-)
+			Aerodactyl(412) hit Tangela(697) 39(+)
+			Tangela(658) hit Aerodactyl(412) 39(-)
+			Aerodactyl(373) hit Tangela(658) 39(+)
+			Tangela(619) hit Aerodactyl(373) 39(-)
+			Aerodactyl(334) hit Tangela(619) 39(+)
+			Tangela(580) hit Aerodactyl(334) 39(-)
+			Aerodactyl(295) hit Tangela(580) 39(+)
+			Tangela(541) hit Aerodactyl(295) 39(-)
+			Aerodactyl(256) hit Tangela(541) 39(+)
+			Tangela(502) hit Aerodactyl(256) 39(-)
+			Aerodactyl(217) hit Tangela(502) 39(+)
+			Tangela(463) hit Aerodactyl(217) 39(-)
+			Aerodactyl(178) hit Tangela(463) 39(+)
+			Tangela(424) hit Aerodactyl(178) 39(-)
+			Aerodactyl(139) hit Tangela(424) 39(+)
+			Tangela(385) hit Aerodactyl(139) 39(-)
+			Aerodactyl(100) hit Tangela(385) 39(+)
+			Tangela(346) hit Aerodactyl(100) 39(-)
+			Aerodactyl(61) hit Tangela(346) 39(+)
+			Tangela(307) hit Aerodactyl(61) 39(-)
+			Aerodactyl(22) hit Tangela(307) 39(+)
+			Tangela(268) hit Aerodactyl(22) 39(-)
+		WinnerP:Tangela
+			Charmander(500) hit Tangela(348) 1(-)
+			Tangela(347) is burning!!!!
+			Tangela(247) hit Charmander(500) 72(-)
+			Charmander(428) is rooted!!
+			Charmander(408) hit Tangela(247) 1(-)
+			Tangela(246) is burning!!!!
+			Tangela(146) hit Charmander(408) 72(-)
+			Charmander(336) is rooted!!
+			Charmander(316) hit Tangela(146) 1(-)
+			Tangela(145) is burning!!!!
+			Tangela(45) hit Charmander(316) 72(-)
+			Charmander(244) is rooted!!
+			Charmander(224) hit Tangela(45) 1(-)
+			Tangela(44) is burning!!!!
+		WinnerP:Charmander
+			Zubat(815) hit Charmander(284) 59(+)
+			Charmander(225) is rooted!!
+			Charmander(207) hit Zubat(815) 38(-)
+			Zubat(777) hit Charmander(207) 59(+)
+			Charmander(148) is rooted!!
+			Charmander(130) hit Zubat(777) 38(-)
+			Zubat(739) hit Charmander(130) 59(+)
+			Charmander(71) is rooted!!
+			Charmander(53) hit Zubat(739) 38(-)
+			Zubat(701) hit Charmander(53) 59(+)
+		WinnerP:Zubat
+	WinnerT:Iris
+
+	Iris vs Clemont: Stadium
+			Tangela(1840) hit Pidgeot(715) 74(/)
+			Pidgeot(641) hit Tangela(1840) 1(/)
+			Tangela(1839) hit Pidgeot(641) 74(/)
+			Pidgeot(567) hit Tangela(1839) 1(/)
+			Tangela(1838) hit Pidgeot(567) 74(/)
+			Pidgeot(493) hit Tangela(1838) 1(/)
+			Tangela(1837) hit Pidgeot(493) 74(/)
+			Pidgeot(419) hit Tangela(1837) 1(/)
+			Tangela(1836) hit Pidgeot(419) 74(/)
+			Pidgeot(345) hit Tangela(1836) 1(/)
+			Tangela(1835) hit Pidgeot(345) 74(/)
+			Pidgeot(271) hit Tangela(1835) 1(/)
+			Tangela(1834) hit Pidgeot(271) 74(/)
+			Pidgeot(197) hit Tangela(1834) 1(/)
+			Tangela(1833) hit Pidgeot(197) 74(/)
+			Pidgeot(123) hit Tangela(1833) 1(/)
+			Tangela(1832) hit Pidgeot(123) 74(/)
+			Pidgeot(49) hit Tangela(1832) 1(/)
+			Tangela(1831) hit Pidgeot(49) 74(/)
+		WinnerP:Tangela
+			Aerodactyl(1170) hit Tangela(1911) 23(/)
+			Tangela(1888) hit Aerodactyl(1170) 57(/)
+			Aerodactyl(1113) hit Tangela(1888) 23(/)
+			Tangela(1865) hit Aerodactyl(1113) 57(/)
+			Aerodactyl(1056) hit Tangela(1865) 23(/)
+			Tangela(1842) hit Aerodactyl(1056) 57(/)
+			Aerodactyl(999) hit Tangela(1842) 23(/)
+			Tangela(1819) hit Aerodactyl(999) 57(/)
+			Aerodactyl(942) hit Tangela(1819) 23(/)
+			Tangela(1796) hit Aerodactyl(942) 57(/)
+			Aerodactyl(885) hit Tangela(1796) 23(/)
+			Tangela(1773) hit Aerodactyl(885) 57(/)
+			Aerodactyl(828) hit Tangela(1773) 23(/)
+			Tangela(1750) hit Aerodactyl(828) 57(/)
+			Aerodactyl(771) hit Tangela(1750) 23(/)
+			Tangela(1727) hit Aerodactyl(771) 57(/)
+			Aerodactyl(714) hit Tangela(1727) 23(/)
+			Tangela(1704) hit Aerodactyl(714) 57(/)
+			Aerodactyl(657) hit Tangela(1704) 23(/)
+			Tangela(1681) hit Aerodactyl(657) 57(/)
+			Aerodactyl(600) hit Tangela(1681) 23(/)
+			Tangela(1658) hit Aerodactyl(600) 57(/)
+			Aerodactyl(543) hit Tangela(1658) 23(/)
+			Tangela(1635) hit Aerodactyl(543) 57(/)
+			Aerodactyl(486) hit Tangela(1635) 23(/)
+			Tangela(1612) hit Aerodactyl(486) 57(/)
+			Aerodactyl(429) hit Tangela(1612) 23(/)
+			Tangela(1589) hit Aerodactyl(429) 57(/)
+			Aerodactyl(372) hit Tangela(1589) 23(/)
+			Tangela(1566) hit Aerodactyl(372) 57(/)
+			Aerodactyl(315) hit Tangela(1566) 23(/)
+			Tangela(1543) hit Aerodactyl(315) 57(/)
+			Aerodactyl(258) hit Tangela(1543) 23(/)
+			Tangela(1520) hit Aerodactyl(258) 57(/)
+			Aerodactyl(201) hit Tangela(1520) 23(/)
+			Tangela(1497) hit Aerodactyl(201) 57(/)
+			Aerodactyl(144) hit Tangela(1497) 23(/)
+			Tangela(1474) hit Aerodactyl(144) 57(/)
+			Aerodactyl(87) hit Tangela(1474) 23(/)
+			Tangela(1451) hit Aerodactyl(87) 57(/)
+			Aerodactyl(30) hit Tangela(1451) 23(/)
+			Tangela(1428) hit Aerodactyl(30) 57(/)
+		WinnerP:Tangela
+			Charmander(660) hit Tangela(1508) 1(/)
+			Tangela(1507) is burning!!!!
+			Tangela(1407) hit Charmander(660) 89(/)
+			Charmander(571) is rooted!!
+			Charmander(553) hit Tangela(1407) 1(/)
+			Tangela(1406) is burning!!!!
+			Tangela(1306) hit Charmander(553) 89(/)
+			Charmander(464) is rooted!!
+			Charmander(446) hit Tangela(1306) 1(/)
+			Tangela(1305) is burning!!!!
+			Tangela(1205) hit Charmander(446) 89(/)
+			Charmander(357) is rooted!!
+			Charmander(339) hit Tangela(1205) 1(/)
+			Tangela(1204) is burning!!!!
+			Tangela(1104) hit Charmander(339) 89(/)
+			Charmander(250) is rooted!!
+			Charmander(232) hit Tangela(1104) 1(/)
+			Tangela(1103) is burning!!!!
+			Tangela(1003) hit Charmander(232) 89(/)
+			Charmander(143) is rooted!!
+			Charmander(125) hit Tangela(1003) 1(/)
+			Tangela(1002) is burning!!!!
+			Tangela(902) hit Charmander(125) 89(/)
+			Charmander(36) is rooted!!
+			Charmander(18) hit Tangela(902) 1(/)
+			Tangela(901) is burning!!!!
+			Tangela(801) hit Charmander(18) 89(/)
+		WinnerP:Tangela
+	WinnerT:Iris
+
+Round Winner: Iris!
+Started Round: 3 vs 4
+	Meowth vs Clemont: Forest
+			Voltorb(500) hit Gloom(1140) 35(-)
+			Gloom(1105) is electrified!!
+			Gloom(1035) hit Voltorb(500) 62(+)
+			Voltorb(438) is rooted!!!!
+			Voltorb(394) hit Gloom(1035) 35(-)
+			Gloom(1000) is electrified!!
+			Gloom(930) hit Voltorb(394) 62(+)
+			Voltorb(332) is rooted!!!!
+			Voltorb(288) hit Gloom(930) 35(-)
+			Gloom(895) is electrified!!
+			Gloom(825) hit Voltorb(288) 62(+)
+			Voltorb(226) is rooted!!!!
+			Voltorb(182) hit Gloom(825) 35(-)
+			Gloom(790) is electrified!!
+			Gloom(720) hit Voltorb(182) 62(+)
+			Voltorb(120) is rooted!!!!
+			Voltorb(76) hit Gloom(720) 35(-)
+			Gloom(685) is electrified!!
+			Gloom(615) hit Voltorb(76) 62(+)
+			Voltorb(14) is rooted!!!!
+		WinnerP:Gloom
+			Vulpix(840) hit Gloom(695) 42(/)
+			Gloom(653) is burning!!!!
+			Gloom(553) is electrified!!
+			Gloom(483) hit Vulpix(840) 52(+)
+			Vulpix(788) is rooted!!
+			Vulpix(776) hit Gloom(483) 42(/)
+			Gloom(441) is burning!!!!
+			Gloom(341) is electrified!!
+			Gloom(271) hit Vulpix(776) 52(+)
+			Vulpix(724) is rooted!!
+			Vulpix(712) hit Gloom(271) 42(/)
+			Gloom(229) is burning!!!!
+			Gloom(129) is electrified!!
+			Gloom(59) hit Vulpix(712) 52(+)
+			Vulpix(660) is rooted!!
+			Vulpix(648) hit Gloom(59) 42(/)
+			Gloom(17) is burning!!!!
+		WinnerP:Vulpix
+			Articuno(1040) hit Vulpix(708) 70(/)
+			Vulpix(638) is rooted!!
+			Vulpix(628) hit Articuno(1040) 57(/)
+			Articuno(983) hit Vulpix(628) 70(/)
+			Vulpix(558) is rooted!!
+			Vulpix(548) hit Articuno(983) 57(/)
+			Articuno(926) hit Vulpix(548) 70(/)
+			Vulpix(478) is rooted!!
+			Vulpix(468) hit Articuno(926) 57(/)
+			Articuno(869) hit Vulpix(468) 70(/)
+			Vulpix(398) is rooted!!
+			Vulpix(388) hit Articuno(869) 57(/)
+			Articuno(812) hit Vulpix(388) 70(/)
+			Vulpix(318) is rooted!!
+			Vulpix(308) hit Articuno(812) 57(/)
+			Articuno(755) hit Vulpix(308) 70(/)
+			Vulpix(238) is rooted!!
+			Vulpix(228) hit Articuno(755) 57(/)
+			Articuno(698) hit Vulpix(228) 70(/)
+			Vulpix(158) is rooted!!
+			Vulpix(148) hit Articuno(698) 57(/)
+			Articuno(641) hit Vulpix(148) 70(/)
+			Vulpix(78) is rooted!!
+			Vulpix(68) hit Articuno(641) 57(/)
+			Articuno(584) hit Vulpix(68) 70(/)
+		WinnerP:Articuno
+			Victreebel(1140) hit Articuno(649) 26(+)
+			Articuno(623) hit Victreebel(1140) 51(/)
+			Victreebel(1089) hit Articuno(623) 26(+)
+			Articuno(597) hit Victreebel(1089) 51(/)
+			Victreebel(1038) hit Articuno(597) 26(+)
+			Articuno(571) hit Victreebel(1038) 51(/)
+			Victreebel(987) hit Articuno(571) 26(+)
+			Articuno(545) hit Victreebel(987) 51(/)
+			Victreebel(936) hit Articuno(545) 26(+)
+			Articuno(519) hit Victreebel(936) 51(/)
+			Victreebel(885) hit Articuno(519) 26(+)
+			Articuno(493) hit Victreebel(885) 51(/)
+			Victreebel(834) hit Articuno(493) 26(+)
+			Articuno(467) hit Victreebel(834) 51(/)
+			Victreebel(783) hit Articuno(467) 26(+)
+			Articuno(441) hit Victreebel(783) 51(/)
+			Victreebel(732) hit Articuno(441) 26(+)
+			Articuno(415) hit Victreebel(732) 51(/)
+			Victreebel(681) hit Articuno(415) 26(+)
+			Articuno(389) hit Victreebel(681) 51(/)
+			Victreebel(630) hit Articuno(389) 26(+)
+			Articuno(363) hit Victreebel(630) 51(/)
+			Victreebel(579) hit Articuno(363) 26(+)
+			Articuno(337) hit Victreebel(579) 51(/)
+			Victreebel(528) hit Articuno(337) 26(+)
+			Articuno(311) hit Victreebel(528) 51(/)
+			Victreebel(477) hit Articuno(311) 26(+)
+			Articuno(285) hit Victreebel(477) 51(/)
+			Victreebel(426) hit Articuno(285) 26(+)
+			Articuno(259) hit Victreebel(426) 51(/)
+			Victreebel(375) hit Articuno(259) 26(+)
+			Articuno(233) hit Victreebel(375) 51(/)
+			Victreebel(324) hit Articuno(233) 26(+)
+			Articuno(207) hit Victreebel(324) 51(/)
+			Victreebel(273) hit Articuno(207) 26(+)
+			Articuno(181) hit Victreebel(273) 51(/)
+			Victreebel(222) hit Articuno(181) 26(+)
+			Articuno(155) hit Victreebel(222) 51(/)
+			Victreebel(171) hit Articuno(155) 26(+)
+			Articuno(129) hit Victreebel(171) 51(/)
+			Victreebel(120) hit Articuno(129) 26(+)
+			Articuno(103) hit Victreebel(120) 51(/)
+			Victreebel(69) hit Articuno(103) 26(+)
+			Articuno(77) hit Victreebel(69) 51(/)
+			Victreebel(18) hit Articuno(77) 26(+)
+			Articuno(51) hit Victreebel(18) 51(/)
+		WinnerP:Articuno
+	WinnerT:Clemont
+
+	Clemont vs Meowth: Magma
+			Gloom(1020) hit Voltorb(500) 46(-)
+			Voltorb(454) is rooted!!!!
+			Voltorb(410) hit Gloom(1020) 32(-)
+			Gloom(988) is electrified!!
+			Gloom(918) hit Voltorb(410) 46(-)
+			Voltorb(364) is rooted!!!!
+			Voltorb(320) hit Gloom(918) 32(-)
+			Gloom(886) is electrified!!
+			Gloom(816) hit Voltorb(320) 46(-)
+			Voltorb(274) is rooted!!!!
+			Voltorb(230) hit Gloom(816) 32(-)
+			Gloom(784) is electrified!!
+			Gloom(714) hit Voltorb(230) 46(-)
+			Voltorb(184) is rooted!!!!
+			Voltorb(140) hit Gloom(714) 32(-)
+			Gloom(682) is electrified!!
+			Gloom(612) hit Voltorb(140) 46(-)
+			Voltorb(94) is rooted!!!!
+			Voltorb(50) hit Gloom(612) 32(-)
+			Gloom(580) is electrified!!
+			Gloom(510) hit Voltorb(50) 46(-)
+			Voltorb(4) is rooted!!!!
+		WinnerP:Gloom
+			Vulpix(1000) hit Gloom(590) 55(+)
+			Gloom(535) is burning!!!!
+			Gloom(435) is electrified!!
+			Gloom(365) hit Vulpix(1000) 35(-)
+			Vulpix(965) is rooted!!
+			Vulpix(955) hit Gloom(365) 55(+)
+			Gloom(310) is burning!!!!
+			Gloom(210) is electrified!!
+			Gloom(140) hit Vulpix(955) 35(-)
+			Vulpix(920) is rooted!!
+			Vulpix(910) hit Gloom(140) 55(+)
+			Gloom(85) is burning!!!!
+		WinnerP:Vulpix
+			Articuno(1170) hit Vulpix(970) 79(/)
+			Vulpix(891) is rooted!!
+			Vulpix(883) hit Articuno(1170) 67(+)
+			Articuno(1103) hit Vulpix(883) 79(/)
+			Vulpix(804) is rooted!!
+			Vulpix(796) hit Articuno(1103) 67(+)
+			Articuno(1036) hit Vulpix(796) 79(/)
+			Vulpix(717) is rooted!!
+			Vulpix(709) hit Articuno(1036) 67(+)
+			Articuno(969) hit Vulpix(709) 79(/)
+			Vulpix(630) is rooted!!
+			Vulpix(622) hit Articuno(969) 67(+)
+			Articuno(902) hit Vulpix(622) 79(/)
+			Vulpix(543) is rooted!!
+			Vulpix(535) hit Articuno(902) 67(+)
+			Articuno(835) hit Vulpix(535) 79(/)
+			Vulpix(456) is rooted!!
+			Vulpix(448) hit Articuno(835) 67(+)
+			Articuno(768) hit Vulpix(448) 79(/)
+			Vulpix(369) is rooted!!
+			Vulpix(361) hit Articuno(768) 67(+)
+			Articuno(701) hit Vulpix(361) 79(/)
+			Vulpix(282) is rooted!!
+			Vulpix(274) hit Articuno(701) 67(+)
+			Articuno(634) hit Vulpix(274) 79(/)
+			Vulpix(195) is rooted!!
+			Vulpix(187) hit Articuno(634) 67(+)
+			Articuno(567) hit Vulpix(187) 79(/)
+			Vulpix(108) is rooted!!
+			Vulpix(100) hit Articuno(567) 67(+)
+			Articuno(500) hit Vulpix(100) 79(/)
+			Vulpix(21) is rooted!!
+			Vulpix(13) hit Articuno(500) 67(+)
+			Articuno(433) hit Vulpix(13) 79(/)
+		WinnerP:Articuno
+			Victreebel(940) hit Articuno(498) 1(-)
+			Articuno(497) hit Victreebel(940) 61(/)
+			Victreebel(879) hit Articuno(497) 1(-)
+			Articuno(496) hit Victreebel(879) 61(/)
+			Victreebel(818) hit Articuno(496) 1(-)
+			Articuno(495) hit Victreebel(818) 61(/)
+			Victreebel(757) hit Articuno(495) 1(-)
+			Articuno(494) hit Victreebel(757) 61(/)
+			Victreebel(696) hit Articuno(494) 1(-)
+			Articuno(493) hit Victreebel(696) 61(/)
+			Victreebel(635) hit Articuno(493) 1(-)
+			Articuno(492) hit Victreebel(635) 61(/)
+			Victreebel(574) hit Articuno(492) 1(-)
+			Articuno(491) hit Victreebel(574) 61(/)
+			Victreebel(513) hit Articuno(491) 1(-)
+			Articuno(490) hit Victreebel(513) 61(/)
+			Victreebel(452) hit Articuno(490) 1(-)
+			Articuno(489) hit Victreebel(452) 61(/)
+			Victreebel(391) hit Articuno(489) 1(-)
+			Articuno(488) hit Victreebel(391) 61(/)
+			Victreebel(330) hit Articuno(488) 1(-)
+			Articuno(487) hit Victreebel(330) 61(/)
+			Victreebel(269) hit Articuno(487) 1(-)
+			Articuno(486) hit Victreebel(269) 61(/)
+			Victreebel(208) hit Articuno(486) 1(-)
+			Articuno(485) hit Victreebel(208) 61(/)
+			Victreebel(147) hit Articuno(485) 1(-)
+			Articuno(484) hit Victreebel(147) 61(/)
+			Victreebel(86) hit Articuno(484) 1(-)
+			Articuno(483) hit Victreebel(86) 61(/)
+			Victreebel(25) hit Articuno(483) 1(-)
+			Articuno(482) hit Victreebel(25) 61(/)
+		WinnerP:Articuno
+	WinnerT:Clemont
+
+	Meowth vs Clemont: Stadium
+			Voltorb(600) hit Gloom(1200) 39(/)
+			Gloom(1161) is electrified!!
+			Gloom(1091) hit Voltorb(600) 60(/)
+			Voltorb(540) is rooted!!!!
+			Voltorb(496) hit Gloom(1091) 39(/)
+			Gloom(1052) is electrified!!
+			Gloom(982) hit Voltorb(496) 60(/)
+			Voltorb(436) is rooted!!!!
+			Voltorb(392) hit Gloom(982) 39(/)
+			Gloom(943) is electrified!!
+			Gloom(873) hit Voltorb(392) 60(/)
+			Voltorb(332) is rooted!!!!
+			Voltorb(288) hit Gloom(873) 39(/)
+			Gloom(834) is electrified!!
+			Gloom(764) hit Voltorb(288) 60(/)
+			Voltorb(228) is rooted!!!!
+			Voltorb(184) hit Gloom(764) 39(/)
+			Gloom(725) is electrified!!
+			Gloom(655) hit Voltorb(184) 60(/)
+			Voltorb(124) is rooted!!!!
+			Voltorb(80) hit Gloom(655) 39(/)
+			Gloom(616) is electrified!!
+			Gloom(546) hit Voltorb(80) 60(/)
+			Voltorb(20) is rooted!!!!
+		WinnerP:Gloom
+			Vulpix(960) hit Gloom(626) 48(/)
+			Gloom(578) is burning!!!!
+			Gloom(478) is electrified!!
+			Gloom(408) hit Vulpix(960) 48(/)
+			Vulpix(912) is rooted!!
+			Vulpix(904) hit Gloom(408) 48(/)
+			Gloom(360) is burning!!!!
+			Gloom(260) is electrified!!
+			Gloom(190) hit Vulpix(904) 48(/)
+			Vulpix(856) is rooted!!
+			Vulpix(848) hit Gloom(190) 48(/)
+			Gloom(142) is burning!!!!
+			Gloom(42) is electrified!!
+		WinnerP:Vulpix
+			Articuno(1300) hit Vulpix(908) 88(/)
+			Vulpix(820) is rooted!!
+			Vulpix(814) hit Articuno(1300) 57(/)
+			Articuno(1243) hit Vulpix(814) 88(/)
+			Vulpix(726) is rooted!!
+			Vulpix(720) hit Articuno(1243) 57(/)
+			Articuno(1186) hit Vulpix(720) 88(/)
+			Vulpix(632) is rooted!!
+			Vulpix(626) hit Articuno(1186) 57(/)
+			Articuno(1129) hit Vulpix(626) 88(/)
+			Vulpix(538) is rooted!!
+			Vulpix(532) hit Articuno(1129) 57(/)
+			Articuno(1072) hit Vulpix(532) 88(/)
+			Vulpix(444) is rooted!!
+			Vulpix(438) hit Articuno(1072) 57(/)
+			Articuno(1015) hit Vulpix(438) 88(/)
+			Vulpix(350) is rooted!!
+			Vulpix(344) hit Articuno(1015) 57(/)
+			Articuno(958) hit Vulpix(344) 88(/)
+			Vulpix(256) is rooted!!
+			Vulpix(250) hit Articuno(958) 57(/)
+			Articuno(901) hit Vulpix(250) 88(/)
+			Vulpix(162) is rooted!!
+			Vulpix(156) hit Articuno(901) 57(/)
+			Articuno(844) hit Vulpix(156) 88(/)
+			Vulpix(68) is rooted!!
+			Vulpix(62) hit Articuno(844) 57(/)
+			Articuno(787) hit Vulpix(62) 88(/)
+		WinnerP:Articuno
+			Victreebel(1040) hit Articuno(852) 4(/)
+			Articuno(848) hit Victreebel(1040) 71(/)
+			Victreebel(969) hit Articuno(848) 4(/)
+			Articuno(844) hit Victreebel(969) 71(/)
+			Victreebel(898) hit Articuno(844) 4(/)
+			Articuno(840) hit Victreebel(898) 71(/)
+			Victreebel(827) hit Articuno(840) 4(/)
+			Articuno(836) hit Victreebel(827) 71(/)
+			Victreebel(756) hit Articuno(836) 4(/)
+			Articuno(832) hit Victreebel(756) 71(/)
+			Victreebel(685) hit Articuno(832) 4(/)
+			Articuno(828) hit Victreebel(685) 71(/)
+			Victreebel(614) hit Articuno(828) 4(/)
+			Articuno(824) hit Victreebel(614) 71(/)
+			Victreebel(543) hit Articuno(824) 4(/)
+			Articuno(820) hit Victreebel(543) 71(/)
+			Victreebel(472) hit Articuno(820) 4(/)
+			Articuno(816) hit Victreebel(472) 71(/)
+			Victreebel(401) hit Articuno(816) 4(/)
+			Articuno(812) hit Victreebel(401) 71(/)
+			Victreebel(330) hit Articuno(812) 4(/)
+			Articuno(808) hit Victreebel(330) 71(/)
+			Victreebel(259) hit Articuno(808) 4(/)
+			Articuno(804) hit Victreebel(259) 71(/)
+			Victreebel(188) hit Articuno(804) 4(/)
+			Articuno(800) hit Victreebel(188) 71(/)
+			Victreebel(117) hit Articuno(800) 4(/)
+			Articuno(796) hit Victreebel(117) 71(/)
+			Victreebel(46) hit Articuno(796) 4(/)
+			Articuno(792) hit Victreebel(46) 71(/)
+		WinnerP:Articuno
+	WinnerT:Clemont
+
+Round Winner: Clemont!
+Started Round: 0 vs 3
+	Gary vs Clemont: Sky
+			Pidgey(1855) hit Gloom(1180) 102(+)
+			Gloom(1078) hit Pidgey(1855) 1(-)
+			Pidgey(1854) hit Gloom(1078) 102(+)
+			Gloom(976) hit Pidgey(1854) 1(-)
+			Pidgey(1853) hit Gloom(976) 102(+)
+			Gloom(874) hit Pidgey(1853) 1(-)
+			Pidgey(1852) hit Gloom(874) 102(+)
+			Gloom(772) hit Pidgey(1852) 1(-)
+			Pidgey(1851) hit Gloom(772) 102(+)
+			Gloom(670) hit Pidgey(1851) 1(-)
+			Pidgey(1850) hit Gloom(670) 102(+)
+			Gloom(568) hit Pidgey(1850) 1(-)
+			Pidgey(1849) hit Gloom(568) 102(+)
+			Gloom(466) hit Pidgey(1849) 1(-)
+			Pidgey(1848) hit Gloom(466) 102(+)
+			Gloom(364) hit Pidgey(1848) 1(-)
+			Pidgey(1847) hit Gloom(364) 102(+)
+			Gloom(262) hit Pidgey(1847) 1(-)
+			Pidgey(1846) hit Gloom(262) 102(+)
+			Gloom(160) hit Pidgey(1846) 1(-)
+			Pidgey(1845) hit Gloom(160) 102(+)
+			Gloom(58) hit Pidgey(1845) 1(-)
+			Pidgey(1844) hit Gloom(58) 102(+)
+		WinnerP:Pidgey
+			Articuno(1530) hit Pidgey(1909) 56(+)
+			Pidgey(1853) hit Articuno(1530) 104(+)
+			Articuno(1426) hit Pidgey(1853) 56(+)
+			Pidgey(1797) hit Articuno(1426) 104(+)
+			Articuno(1322) hit Pidgey(1797) 56(+)
+			Pidgey(1741) hit Articuno(1322) 104(+)
+			Articuno(1218) hit Pidgey(1741) 56(+)
+			Pidgey(1685) hit Articuno(1218) 104(+)
+			Articuno(1114) hit Pidgey(1685) 56(+)
+			Pidgey(1629) hit Articuno(1114) 104(+)
+			Articuno(1010) hit Pidgey(1629) 56(+)
+			Pidgey(1573) hit Articuno(1010) 104(+)
+			Articuno(906) hit Pidgey(1573) 56(+)
+			Pidgey(1517) hit Articuno(906) 104(+)
+			Articuno(802) hit Pidgey(1517) 56(+)
+			Pidgey(1461) hit Articuno(802) 104(+)
+			Articuno(698) hit Pidgey(1461) 56(+)
+			Pidgey(1405) hit Articuno(698) 104(+)
+			Articuno(594) hit Pidgey(1405) 56(+)
+			Pidgey(1349) hit Articuno(594) 104(+)
+			Articuno(490) hit Pidgey(1349) 56(+)
+			Pidgey(1293) hit Articuno(490) 104(+)
+			Articuno(386) hit Pidgey(1293) 56(+)
+			Pidgey(1237) hit Articuno(386) 104(+)
+			Articuno(282) hit Pidgey(1237) 56(+)
+			Pidgey(1181) hit Articuno(282) 104(+)
+			Articuno(178) hit Pidgey(1181) 56(+)
+			Pidgey(1125) hit Articuno(178) 104(+)
+			Articuno(74) hit Pidgey(1125) 56(+)
+			Pidgey(1069) hit Articuno(74) 104(+)
+		WinnerP:Pidgey
+			Gyarados(700) hit Pidgey(1134) 1(/)
+			Pidgey(1133) hit Gyarados(700) 140(+)
+			Gyarados(560) hit Pidgey(1133) 1(/)
+			Pidgey(1132) hit Gyarados(560) 140(+)
+			Gyarados(420) hit Pidgey(1132) 1(/)
+			Pidgey(1131) hit Gyarados(420) 140(+)
+			Gyarados(280) hit Pidgey(1131) 1(/)
+			Pidgey(1130) hit Gyarados(280) 140(+)
+			Gyarados(140) hit Pidgey(1130) 1(/)
+			Pidgey(1129) hit Gyarados(140) 140(+)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+	Clemont vs Gary: Magma
+			Gloom(1180) hit Pidgey(1950) 1(-)
+			Pidgey(1949) hit Gloom(1180) 107(/)
+			Gloom(1073) hit Pidgey(1949) 1(-)
+			Pidgey(1948) hit Gloom(1073) 107(/)
+			Gloom(966) hit Pidgey(1948) 1(-)
+			Pidgey(1947) hit Gloom(966) 107(/)
+			Gloom(859) hit Pidgey(1947) 1(-)
+			Pidgey(1946) hit Gloom(859) 107(/)
+			Gloom(752) hit Pidgey(1946) 1(-)
+			Pidgey(1945) hit Gloom(752) 107(/)
+			Gloom(645) hit Pidgey(1945) 1(-)
+			Pidgey(1944) hit Gloom(645) 107(/)
+			Gloom(538) hit Pidgey(1944) 1(-)
+			Pidgey(1943) hit Gloom(538) 107(/)
+			Gloom(431) hit Pidgey(1943) 1(-)
+			Pidgey(1942) hit Gloom(431) 107(/)
+			Gloom(324) hit Pidgey(1942) 1(-)
+			Pidgey(1941) hit Gloom(324) 107(/)
+			Gloom(217) hit Pidgey(1941) 1(-)
+			Pidgey(1940) hit Gloom(217) 107(/)
+			Gloom(110) hit Pidgey(1940) 1(-)
+			Pidgey(1939) hit Gloom(110) 107(/)
+			Gloom(3) hit Pidgey(1939) 1(-)
+			Pidgey(1938) hit Gloom(3) 107(/)
+		WinnerP:Pidgey
+			Articuno(1430) hit Pidgey(2003) 37(/)
+			Pidgey(1966) hit Articuno(1430) 109(/)
+			Articuno(1321) hit Pidgey(1966) 37(/)
+			Pidgey(1929) hit Articuno(1321) 109(/)
+			Articuno(1212) hit Pidgey(1929) 37(/)
+			Pidgey(1892) hit Articuno(1212) 109(/)
+			Articuno(1103) hit Pidgey(1892) 37(/)
+			Pidgey(1855) hit Articuno(1103) 109(/)
+			Articuno(994) hit Pidgey(1855) 37(/)
+			Pidgey(1818) hit Articuno(994) 109(/)
+			Articuno(885) hit Pidgey(1818) 37(/)
+			Pidgey(1781) hit Articuno(885) 109(/)
+			Articuno(776) hit Pidgey(1781) 37(/)
+			Pidgey(1744) hit Articuno(776) 109(/)
+			Articuno(667) hit Pidgey(1744) 37(/)
+			Pidgey(1707) hit Articuno(667) 109(/)
+			Articuno(558) hit Pidgey(1707) 37(/)
+			Pidgey(1670) hit Articuno(558) 109(/)
+			Articuno(449) hit Pidgey(1670) 37(/)
+			Pidgey(1633) hit Articuno(449) 109(/)
+			Articuno(340) hit Pidgey(1633) 37(/)
+			Pidgey(1596) hit Articuno(340) 109(/)
+			Articuno(231) hit Pidgey(1596) 37(/)
+			Pidgey(1559) hit Articuno(231) 109(/)
+			Articuno(122) hit Pidgey(1559) 37(/)
+			Pidgey(1522) hit Articuno(122) 109(/)
+			Articuno(13) hit Pidgey(1522) 37(/)
+			Pidgey(1485) hit Articuno(13) 109(/)
+		WinnerP:Pidgey
+			Gyarados(700) hit Pidgey(1550) 1(/)
+			Pidgey(1549) hit Gyarados(700) 145(/)
+			Gyarados(555) hit Pidgey(1549) 1(/)
+			Pidgey(1548) hit Gyarados(555) 145(/)
+			Gyarados(410) hit Pidgey(1548) 1(/)
+			Pidgey(1547) hit Gyarados(410) 145(/)
+			Gyarados(265) hit Pidgey(1547) 1(/)
+			Pidgey(1546) hit Gyarados(265) 145(/)
+			Gyarados(120) hit Pidgey(1546) 1(/)
+			Pidgey(1545) hit Gyarados(120) 145(/)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+	Gary vs Clemont: Stadium
+			Pidgey(2145) hit Gloom(1280) 122(/)
+			Gloom(1158) hit Pidgey(2145) 1(/)
+			Pidgey(2144) hit Gloom(1158) 122(/)
+			Gloom(1036) hit Pidgey(2144) 1(/)
+			Pidgey(2143) hit Gloom(1036) 122(/)
+			Gloom(914) hit Pidgey(2143) 1(/)
+			Pidgey(2142) hit Gloom(914) 122(/)
+			Gloom(792) hit Pidgey(2142) 1(/)
+			Pidgey(2141) hit Gloom(792) 122(/)
+			Gloom(670) hit Pidgey(2141) 1(/)
+			Pidgey(2140) hit Gloom(670) 122(/)
+			Gloom(548) hit Pidgey(2140) 1(/)
+			Pidgey(2139) hit Gloom(548) 122(/)
+			Gloom(426) hit Pidgey(2139) 1(/)
+			Pidgey(2138) hit Gloom(426) 122(/)
+			Gloom(304) hit Pidgey(2138) 1(/)
+			Pidgey(2137) hit Gloom(304) 122(/)
+			Gloom(182) hit Pidgey(2137) 1(/)
+			Pidgey(2136) hit Gloom(182) 122(/)
+			Gloom(60) hit Pidgey(2136) 1(/)
+			Pidgey(2135) hit Gloom(60) 122(/)
+		WinnerP:Pidgey
+			Articuno(1430) hit Pidgey(2200) 28(/)
+			Pidgey(2172) hit Articuno(1430) 124(/)
+			Articuno(1306) hit Pidgey(2172) 28(/)
+			Pidgey(2144) hit Articuno(1306) 124(/)
+			Articuno(1182) hit Pidgey(2144) 28(/)
+			Pidgey(2116) hit Articuno(1182) 124(/)
+			Articuno(1058) hit Pidgey(2116) 28(/)
+			Pidgey(2088) hit Articuno(1058) 124(/)
+			Articuno(934) hit Pidgey(2088) 28(/)
+			Pidgey(2060) hit Articuno(934) 124(/)
+			Articuno(810) hit Pidgey(2060) 28(/)
+			Pidgey(2032) hit Articuno(810) 124(/)
+			Articuno(686) hit Pidgey(2032) 28(/)
+			Pidgey(2004) hit Articuno(686) 124(/)
+			Articuno(562) hit Pidgey(2004) 28(/)
+			Pidgey(1976) hit Articuno(562) 124(/)
+			Articuno(438) hit Pidgey(1976) 28(/)
+			Pidgey(1948) hit Articuno(438) 124(/)
+			Articuno(314) hit Pidgey(1948) 28(/)
+			Pidgey(1920) hit Articuno(314) 124(/)
+			Articuno(190) hit Pidgey(1920) 28(/)
+			Pidgey(1892) hit Articuno(190) 124(/)
+			Articuno(66) hit Pidgey(1892) 28(/)
+			Pidgey(1864) hit Articuno(66) 124(/)
+		WinnerP:Pidgey
+			Gyarados(700) hit Pidgey(1929) 1(/)
+			Pidgey(1928) hit Gyarados(700) 160(/)
+			Gyarados(540) hit Pidgey(1928) 1(/)
+			Pidgey(1927) hit Gyarados(540) 160(/)
+			Gyarados(380) hit Pidgey(1927) 1(/)
+			Pidgey(1926) hit Gyarados(380) 160(/)
+			Gyarados(220) hit Pidgey(1926) 1(/)
+			Pidgey(1925) hit Gyarados(220) 160(/)
+			Gyarados(60) hit Pidgey(1925) 1(/)
+			Pidgey(1924) hit Gyarados(60) 160(/)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+Round Winner: Gary!
+Started Round: 1 vs 2
+	Cilan vs Iris: Sky
+			Articuno(1140) hit Tangela(1980) 17(+)
+			Tangela(1963) hit Articuno(1140) 61(-)
+			Articuno(1079) hit Tangela(1963) 17(+)
+			Tangela(1946) hit Articuno(1079) 61(-)
+			Articuno(1018) hit Tangela(1946) 17(+)
+			Tangela(1929) hit Articuno(1018) 61(-)
+			Articuno(957) hit Tangela(1929) 17(+)
+			Tangela(1912) hit Articuno(957) 61(-)
+			Articuno(896) hit Tangela(1912) 17(+)
+			Tangela(1895) hit Articuno(896) 61(-)
+			Articuno(835) hit Tangela(1895) 17(+)
+			Tangela(1878) hit Articuno(835) 61(-)
+			Articuno(774) hit Tangela(1878) 17(+)
+			Tangela(1861) hit Articuno(774) 61(-)
+			Articuno(713) hit Tangela(1861) 17(+)
+			Tangela(1844) hit Articuno(713) 61(-)
+			Articuno(652) hit Tangela(1844) 17(+)
+			Tangela(1827) hit Articuno(652) 61(-)
+			Articuno(591) hit Tangela(1827) 17(+)
+			Tangela(1810) hit Articuno(591) 61(-)
+			Articuno(530) hit Tangela(1810) 17(+)
+			Tangela(1793) hit Articuno(530) 61(-)
+			Articuno(469) hit Tangela(1793) 17(+)
+			Tangela(1776) hit Articuno(469) 61(-)
+			Articuno(408) hit Tangela(1776) 17(+)
+			Tangela(1759) hit Articuno(408) 61(-)
+			Articuno(347) hit Tangela(1759) 17(+)
+			Tangela(1742) hit Articuno(347) 61(-)
+			Articuno(286) hit Tangela(1742) 17(+)
+			Tangela(1725) hit Articuno(286) 61(-)
+			Articuno(225) hit Tangela(1725) 17(+)
+			Tangela(1708) hit Articuno(225) 61(-)
+			Articuno(164) hit Tangela(1708) 17(+)
+			Tangela(1691) hit Articuno(164) 61(-)
+			Articuno(103) hit Tangela(1691) 17(+)
+			Tangela(1674) hit Articuno(103) 61(-)
+			Articuno(42) hit Tangela(1674) 17(+)
+			Tangela(1657) hit Articuno(42) 61(-)
+		WinnerP:Tangela
+			Zapdos(1465) hit Tangela(1737) 39(+)
+			Tangela(1698) hit Zapdos(1465) 50(-)
+			Zapdos(1415) hit Tangela(1698) 39(+)
+			Tangela(1659) hit Zapdos(1415) 50(-)
+			Zapdos(1365) hit Tangela(1659) 39(+)
+			Tangela(1620) hit Zapdos(1365) 50(-)
+			Zapdos(1315) hit Tangela(1620) 39(+)
+			Tangela(1581) hit Zapdos(1315) 50(-)
+			Zapdos(1265) hit Tangela(1581) 39(+)
+			Tangela(1542) hit Zapdos(1265) 50(-)
+			Zapdos(1215) hit Tangela(1542) 39(+)
+			Tangela(1503) hit Zapdos(1215) 50(-)
+			Zapdos(1165) hit Tangela(1503) 39(+)
+			Tangela(1464) hit Zapdos(1165) 50(-)
+			Zapdos(1115) hit Tangela(1464) 39(+)
+			Tangela(1425) hit Zapdos(1115) 50(-)
+			Zapdos(1065) hit Tangela(1425) 39(+)
+			Tangela(1386) hit Zapdos(1065) 50(-)
+			Zapdos(1015) hit Tangela(1386) 39(+)
+			Tangela(1347) hit Zapdos(1015) 50(-)
+			Zapdos(965) hit Tangela(1347) 39(+)
+			Tangela(1308) hit Zapdos(965) 50(-)
+			Zapdos(915) hit Tangela(1308) 39(+)
+			Tangela(1269) hit Zapdos(915) 50(-)
+			Zapdos(865) hit Tangela(1269) 39(+)
+			Tangela(1230) hit Zapdos(865) 50(-)
+			Zapdos(815) hit Tangela(1230) 39(+)
+			Tangela(1191) hit Zapdos(815) 50(-)
+			Zapdos(765) hit Tangela(1191) 39(+)
+			Tangela(1152) hit Zapdos(765) 50(-)
+			Zapdos(715) hit Tangela(1152) 39(+)
+			Tangela(1113) hit Zapdos(715) 50(-)
+			Zapdos(665) hit Tangela(1113) 39(+)
+			Tangela(1074) hit Zapdos(665) 50(-)
+			Zapdos(615) hit Tangela(1074) 39(+)
+			Tangela(1035) hit Zapdos(615) 50(-)
+			Zapdos(565) hit Tangela(1035) 39(+)
+			Tangela(996) hit Zapdos(565) 50(-)
+			Zapdos(515) hit Tangela(996) 39(+)
+			Tangela(957) hit Zapdos(515) 50(-)
+			Zapdos(465) hit Tangela(957) 39(+)
+			Tangela(918) hit Zapdos(465) 50(-)
+			Zapdos(415) hit Tangela(918) 39(+)
+			Tangela(879) hit Zapdos(415) 50(-)
+			Zapdos(365) hit Tangela(879) 39(+)
+			Tangela(840) hit Zapdos(365) 50(-)
+			Zapdos(315) hit Tangela(840) 39(+)
+			Tangela(801) hit Zapdos(315) 50(-)
+			Zapdos(265) hit Tangela(801) 39(+)
+			Tangela(762) hit Zapdos(265) 50(-)
+			Zapdos(215) hit Tangela(762) 39(+)
+			Tangela(723) hit Zapdos(215) 50(-)
+			Zapdos(165) hit Tangela(723) 39(+)
+			Tangela(684) hit Zapdos(165) 50(-)
+			Zapdos(115) hit Tangela(684) 39(+)
+			Tangela(645) hit Zapdos(115) 50(-)
+			Zapdos(65) hit Tangela(645) 39(+)
+			Tangela(606) hit Zapdos(65) 50(-)
+			Zapdos(15) hit Tangela(606) 39(+)
+			Tangela(567) hit Zapdos(15) 50(-)
+		WinnerP:Tangela
+			Charmander(560) hit Tangela(647) 1(-)
+			Tangela(646) is burning!!!!
+			Tangela(546) hit Charmander(560) 91(-)
+			Charmander(469) is rooted!!
+			Charmander(451) hit Tangela(546) 1(-)
+			Tangela(545) is burning!!!!
+			Tangela(445) hit Charmander(451) 91(-)
+			Charmander(360) is rooted!!
+			Charmander(342) hit Tangela(445) 1(-)
+			Tangela(444) is burning!!!!
+			Tangela(344) hit Charmander(342) 91(-)
+			Charmander(251) is rooted!!
+			Charmander(233) hit Tangela(344) 1(-)
+			Tangela(343) is burning!!!!
+			Tangela(243) hit Charmander(233) 91(-)
+			Charmander(142) is rooted!!
+			Charmander(124) hit Tangela(243) 1(-)
+			Tangela(242) is burning!!!!
+			Tangela(142) hit Charmander(124) 91(-)
+			Charmander(33) is rooted!!
+			Charmander(15) hit Tangela(142) 1(-)
+			Tangela(141) is burning!!!!
+			Tangela(41) hit Charmander(15) 91(-)
+		WinnerP:Tangela
+	WinnerT:Iris
+
+	Iris vs Cilan: ElectriCity
+			Tangela(2320) hit Articuno(940) 83(/)
+			Articuno(857) hit Tangela(2320) 1(-)
+			Tangela(2319) hit Articuno(857) 83(/)
+			Articuno(774) hit Tangela(2319) 1(-)
+			Tangela(2318) hit Articuno(774) 83(/)
+			Articuno(691) hit Tangela(2318) 1(-)
+			Tangela(2317) hit Articuno(691) 83(/)
+			Articuno(608) hit Tangela(2317) 1(-)
+			Tangela(2316) hit Articuno(608) 83(/)
+			Articuno(525) hit Tangela(2316) 1(-)
+			Tangela(2315) hit Articuno(525) 83(/)
+			Articuno(442) hit Tangela(2315) 1(-)
+			Tangela(2314) hit Articuno(442) 83(/)
+			Articuno(359) hit Tangela(2314) 1(-)
+			Tangela(2313) hit Articuno(359) 83(/)
+			Articuno(276) hit Tangela(2313) 1(-)
+			Tangela(2312) hit Articuno(276) 83(/)
+			Articuno(193) hit Tangela(2312) 1(-)
+			Tangela(2311) hit Articuno(193) 83(/)
+			Articuno(110) hit Tangela(2311) 1(-)
+			Tangela(2310) hit Articuno(110) 83(/)
+			Articuno(27) hit Tangela(2310) 1(-)
+			Tangela(2309) hit Articuno(27) 83(/)
+		WinnerP:Tangela
+			Zapdos(1265) hit Tangela(2389) 10(-)
+			Tangela(2379) hit Zapdos(1265) 72(/)
+			Zapdos(1193) hit Tangela(2379) 10(-)
+			Tangela(2369) hit Zapdos(1193) 72(/)
+			Zapdos(1121) hit Tangela(2369) 10(-)
+			Tangela(2359) hit Zapdos(1121) 72(/)
+			Zapdos(1049) hit Tangela(2359) 10(-)
+			Tangela(2349) hit Zapdos(1049) 72(/)
+			Zapdos(977) hit Tangela(2349) 10(-)
+			Tangela(2339) hit Zapdos(977) 72(/)
+			Zapdos(905) hit Tangela(2339) 10(-)
+			Tangela(2329) hit Zapdos(905) 72(/)
+			Zapdos(833) hit Tangela(2329) 10(-)
+			Tangela(2319) hit Zapdos(833) 72(/)
+			Zapdos(761) hit Tangela(2319) 10(-)
+			Tangela(2309) hit Zapdos(761) 72(/)
+			Zapdos(689) hit Tangela(2309) 10(-)
+			Tangela(2299) hit Zapdos(689) 72(/)
+			Zapdos(617) hit Tangela(2299) 10(-)
+			Tangela(2289) hit Zapdos(617) 72(/)
+			Zapdos(545) hit Tangela(2289) 10(-)
+			Tangela(2279) hit Zapdos(545) 72(/)
+			Zapdos(473) hit Tangela(2279) 10(-)
+			Tangela(2269) hit Zapdos(473) 72(/)
+			Zapdos(401) hit Tangela(2269) 10(-)
+			Tangela(2259) hit Zapdos(401) 72(/)
+			Zapdos(329) hit Tangela(2259) 10(-)
+			Tangela(2249) hit Zapdos(329) 72(/)
+			Zapdos(257) hit Tangela(2249) 10(-)
+			Tangela(2239) hit Zapdos(257) 72(/)
+			Zapdos(185) hit Tangela(2239) 10(-)
+			Tangela(2229) hit Zapdos(185) 72(/)
+			Zapdos(113) hit Tangela(2229) 10(-)
+			Tangela(2219) hit Zapdos(113) 72(/)
+			Zapdos(41) hit Tangela(2219) 10(-)
+			Tangela(2209) hit Zapdos(41) 72(/)
+		WinnerP:Tangela
+			Charmander(660) hit Tangela(2289) 1(/)
+			Tangela(2288) is burning!!!!
+			Tangela(2188) hit Charmander(660) 113(/)
+			Charmander(547) is rooted!!
+			Charmander(529) hit Tangela(2188) 1(/)
+			Tangela(2187) is burning!!!!
+			Tangela(2087) hit Charmander(529) 113(/)
+			Charmander(416) is rooted!!
+			Charmander(398) hit Tangela(2087) 1(/)
+			Tangela(2086) is burning!!!!
+			Tangela(1986) hit Charmander(398) 113(/)
+			Charmander(285) is rooted!!
+			Charmander(267) hit Tangela(1986) 1(/)
+			Tangela(1985) is burning!!!!
+			Tangela(1885) hit Charmander(267) 113(/)
+			Charmander(154) is rooted!!
+			Charmander(136) hit Tangela(1885) 1(/)
+			Tangela(1884) is burning!!!!
+			Tangela(1784) hit Charmander(136) 113(/)
+			Charmander(23) is rooted!!
+			Charmander(5) hit Tangela(1784) 1(/)
+			Tangela(1783) is burning!!!!
+			Tangela(1683) hit Charmander(5) 113(/)
+		WinnerP:Tangela
+	WinnerT:Iris
+
+	Cilan vs Iris: Stadium
+			Articuno(1040) hit Tangela(2560) 1(/)
+			Tangela(2559) hit Articuno(1040) 95(/)
+			Articuno(945) hit Tangela(2559) 1(/)
+			Tangela(2558) hit Articuno(945) 95(/)
+			Articuno(850) hit Tangela(2558) 1(/)
+			Tangela(2557) hit Articuno(850) 95(/)
+			Articuno(755) hit Tangela(2557) 1(/)
+			Tangela(2556) hit Articuno(755) 95(/)
+			Articuno(660) hit Tangela(2556) 1(/)
+			Tangela(2555) hit Articuno(660) 95(/)
+			Articuno(565) hit Tangela(2555) 1(/)
+			Tangela(2554) hit Articuno(565) 95(/)
+			Articuno(470) hit Tangela(2554) 1(/)
+			Tangela(2553) hit Articuno(470) 95(/)
+			Articuno(375) hit Tangela(2553) 1(/)
+			Tangela(2552) hit Articuno(375) 95(/)
+			Articuno(280) hit Tangela(2552) 1(/)
+			Tangela(2551) hit Articuno(280) 95(/)
+			Articuno(185) hit Tangela(2551) 1(/)
+			Tangela(2550) hit Articuno(185) 95(/)
+			Articuno(90) hit Tangela(2550) 1(/)
+			Tangela(2549) hit Articuno(90) 95(/)
+		WinnerP:Tangela
+			Zapdos(1365) hit Tangela(2629) 11(/)
+			Tangela(2618) hit Zapdos(1365) 84(/)
+			Zapdos(1281) hit Tangela(2618) 11(/)
+			Tangela(2607) hit Zapdos(1281) 84(/)
+			Zapdos(1197) hit Tangela(2607) 11(/)
+			Tangela(2596) hit Zapdos(1197) 84(/)
+			Zapdos(1113) hit Tangela(2596) 11(/)
+			Tangela(2585) hit Zapdos(1113) 84(/)
+			Zapdos(1029) hit Tangela(2585) 11(/)
+			Tangela(2574) hit Zapdos(1029) 84(/)
+			Zapdos(945) hit Tangela(2574) 11(/)
+			Tangela(2563) hit Zapdos(945) 84(/)
+			Zapdos(861) hit Tangela(2563) 11(/)
+			Tangela(2552) hit Zapdos(861) 84(/)
+			Zapdos(777) hit Tangela(2552) 11(/)
+			Tangela(2541) hit Zapdos(777) 84(/)
+			Zapdos(693) hit Tangela(2541) 11(/)
+			Tangela(2530) hit Zapdos(693) 84(/)
+			Zapdos(609) hit Tangela(2530) 11(/)
+			Tangela(2519) hit Zapdos(609) 84(/)
+			Zapdos(525) hit Tangela(2519) 11(/)
+			Tangela(2508) hit Zapdos(525) 84(/)
+			Zapdos(441) hit Tangela(2508) 11(/)
+			Tangela(2497) hit Zapdos(441) 84(/)
+			Zapdos(357) hit Tangela(2497) 11(/)
+			Tangela(2486) hit Zapdos(357) 84(/)
+			Zapdos(273) hit Tangela(2486) 11(/)
+			Tangela(2475) hit Zapdos(273) 84(/)
+			Zapdos(189) hit Tangela(2475) 11(/)
+			Tangela(2464) hit Zapdos(189) 84(/)
+			Zapdos(105) hit Tangela(2464) 11(/)
+			Tangela(2453) hit Zapdos(105) 84(/)
+			Zapdos(21) hit Tangela(2453) 11(/)
+			Tangela(2442) hit Zapdos(21) 84(/)
+		WinnerP:Tangela
+			Charmander(660) hit Tangela(2522) 1(/)
+			Tangela(2521) is burning!!!!
+			Tangela(2421) hit Charmander(660) 125(/)
+			Charmander(535) is rooted!!
+			Charmander(517) hit Tangela(2421) 1(/)
+			Tangela(2420) is burning!!!!
+			Tangela(2320) hit Charmander(517) 125(/)
+			Charmander(392) is rooted!!
+			Charmander(374) hit Tangela(2320) 1(/)
+			Tangela(2319) is burning!!!!
+			Tangela(2219) hit Charmander(374) 125(/)
+			Charmander(249) is rooted!!
+			Charmander(231) hit Tangela(2219) 1(/)
+			Tangela(2218) is burning!!!!
+			Tangela(2118) hit Charmander(231) 125(/)
+			Charmander(106) is rooted!!
+			Charmander(88) hit Tangela(2118) 1(/)
+			Tangela(2117) is burning!!!!
+			Tangela(2017) hit Charmander(88) 125(/)
+		WinnerP:Tangela
+	WinnerT:Iris
+
+Round Winner: Iris!
+Started Round: 0 vs 1
+	Gary vs Iris: Sky
+			Pidgey(2440) hit Tangela(2700) 90(+)
+			Tangela(2610) hit Pidgey(2440) 37(-)
+			Pidgey(2403) hit Tangela(2610) 90(+)
+			Tangela(2520) hit Pidgey(2403) 37(-)
+			Pidgey(2366) hit Tangela(2520) 90(+)
+			Tangela(2430) hit Pidgey(2366) 37(-)
+			Pidgey(2329) hit Tangela(2430) 90(+)
+			Tangela(2340) hit Pidgey(2329) 37(-)
+			Pidgey(2292) hit Tangela(2340) 90(+)
+			Tangela(2250) hit Pidgey(2292) 37(-)
+			Pidgey(2255) hit Tangela(2250) 90(+)
+			Tangela(2160) hit Pidgey(2255) 37(-)
+			Pidgey(2218) hit Tangela(2160) 90(+)
+			Tangela(2070) hit Pidgey(2218) 37(-)
+			Pidgey(2181) hit Tangela(2070) 90(+)
+			Tangela(1980) hit Pidgey(2181) 37(-)
+			Pidgey(2144) hit Tangela(1980) 90(+)
+			Tangela(1890) hit Pidgey(2144) 37(-)
+			Pidgey(2107) hit Tangela(1890) 90(+)
+			Tangela(1800) hit Pidgey(2107) 37(-)
+			Pidgey(2070) hit Tangela(1800) 90(+)
+			Tangela(1710) hit Pidgey(2070) 37(-)
+			Pidgey(2033) hit Tangela(1710) 90(+)
+			Tangela(1620) hit Pidgey(2033) 37(-)
+			Pidgey(1996) hit Tangela(1620) 90(+)
+			Tangela(1530) hit Pidgey(1996) 37(-)
+			Pidgey(1959) hit Tangela(1530) 90(+)
+			Tangela(1440) hit Pidgey(1959) 37(-)
+			Pidgey(1922) hit Tangela(1440) 90(+)
+			Tangela(1350) hit Pidgey(1922) 37(-)
+			Pidgey(1885) hit Tangela(1350) 90(+)
+			Tangela(1260) hit Pidgey(1885) 37(-)
+			Pidgey(1848) hit Tangela(1260) 90(+)
+			Tangela(1170) hit Pidgey(1848) 37(-)
+			Pidgey(1811) hit Tangela(1170) 90(+)
+			Tangela(1080) hit Pidgey(1811) 37(-)
+			Pidgey(1774) hit Tangela(1080) 90(+)
+			Tangela(990) hit Pidgey(1774) 37(-)
+			Pidgey(1737) hit Tangela(990) 90(+)
+			Tangela(900) hit Pidgey(1737) 37(-)
+			Pidgey(1700) hit Tangela(900) 90(+)
+			Tangela(810) hit Pidgey(1700) 37(-)
+			Pidgey(1663) hit Tangela(810) 90(+)
+			Tangela(720) hit Pidgey(1663) 37(-)
+			Pidgey(1626) hit Tangela(720) 90(+)
+			Tangela(630) hit Pidgey(1626) 37(-)
+			Pidgey(1589) hit Tangela(630) 90(+)
+			Tangela(540) hit Pidgey(1589) 37(-)
+			Pidgey(1552) hit Tangela(540) 90(+)
+			Tangela(450) hit Pidgey(1552) 37(-)
+			Pidgey(1515) hit Tangela(450) 90(+)
+			Tangela(360) hit Pidgey(1515) 37(-)
+			Pidgey(1478) hit Tangela(360) 90(+)
+			Tangela(270) hit Pidgey(1478) 37(-)
+			Pidgey(1441) hit Tangela(270) 90(+)
+			Tangela(180) hit Pidgey(1441) 37(-)
+			Pidgey(1404) hit Tangela(180) 90(+)
+			Tangela(90) hit Pidgey(1404) 37(-)
+			Pidgey(1367) hit Tangela(90) 90(+)
+		WinnerP:Pidgey
+			Zubat(880) hit Pidgey(1432) 1(+)
+			Pidgey(1431) hit Zubat(880) 179(+)
+			Zubat(701) hit Pidgey(1431) 1(+)
+			Pidgey(1430) hit Zubat(701) 179(+)
+			Zubat(522) hit Pidgey(1430) 1(+)
+			Pidgey(1429) hit Zubat(522) 179(+)
+			Zubat(343) hit Pidgey(1429) 1(+)
+			Pidgey(1428) hit Zubat(343) 179(+)
+			Zubat(164) hit Pidgey(1428) 1(+)
+			Pidgey(1427) hit Zubat(164) 179(+)
+		WinnerP:Pidgey
+			Pidgeotto(750) hit Pidgey(1492) 1(+)
+			Pidgey(1491) hit Pidgeotto(750) 190(+)
+			Pidgeotto(560) hit Pidgey(1491) 1(+)
+			Pidgey(1490) hit Pidgeotto(560) 190(+)
+			Pidgeotto(370) hit Pidgey(1490) 1(+)
+			Pidgey(1489) hit Pidgeotto(370) 190(+)
+			Pidgeotto(180) hit Pidgey(1489) 1(+)
+			Pidgey(1488) hit Pidgeotto(180) 190(+)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+	Iris vs Gary: ElectriCity
+			Tangela(2800) hit Pidgey(2435) 38(/)
+			Pidgey(2397) hit Tangela(2800) 85(-)
+			Tangela(2715) hit Pidgey(2397) 38(/)
+			Pidgey(2359) hit Tangela(2715) 85(-)
+			Tangela(2630) hit Pidgey(2359) 38(/)
+			Pidgey(2321) hit Tangela(2630) 85(-)
+			Tangela(2545) hit Pidgey(2321) 38(/)
+			Pidgey(2283) hit Tangela(2545) 85(-)
+			Tangela(2460) hit Pidgey(2283) 38(/)
+			Pidgey(2245) hit Tangela(2460) 85(-)
+			Tangela(2375) hit Pidgey(2245) 38(/)
+			Pidgey(2207) hit Tangela(2375) 85(-)
+			Tangela(2290) hit Pidgey(2207) 38(/)
+			Pidgey(2169) hit Tangela(2290) 85(-)
+			Tangela(2205) hit Pidgey(2169) 38(/)
+			Pidgey(2131) hit Tangela(2205) 85(-)
+			Tangela(2120) hit Pidgey(2131) 38(/)
+			Pidgey(2093) hit Tangela(2120) 85(-)
+			Tangela(2035) hit Pidgey(2093) 38(/)
+			Pidgey(2055) hit Tangela(2035) 85(-)
+			Tangela(1950) hit Pidgey(2055) 38(/)
+			Pidgey(2017) hit Tangela(1950) 85(-)
+			Tangela(1865) hit Pidgey(2017) 38(/)
+			Pidgey(1979) hit Tangela(1865) 85(-)
+			Tangela(1780) hit Pidgey(1979) 38(/)
+			Pidgey(1941) hit Tangela(1780) 85(-)
+			Tangela(1695) hit Pidgey(1941) 38(/)
+			Pidgey(1903) hit Tangela(1695) 85(-)
+			Tangela(1610) hit Pidgey(1903) 38(/)
+			Pidgey(1865) hit Tangela(1610) 85(-)
+			Tangela(1525) hit Pidgey(1865) 38(/)
+			Pidgey(1827) hit Tangela(1525) 85(-)
+			Tangela(1440) hit Pidgey(1827) 38(/)
+			Pidgey(1789) hit Tangela(1440) 85(-)
+			Tangela(1355) hit Pidgey(1789) 38(/)
+			Pidgey(1751) hit Tangela(1355) 85(-)
+			Tangela(1270) hit Pidgey(1751) 38(/)
+			Pidgey(1713) hit Tangela(1270) 85(-)
+			Tangela(1185) hit Pidgey(1713) 38(/)
+			Pidgey(1675) hit Tangela(1185) 85(-)
+			Tangela(1100) hit Pidgey(1675) 38(/)
+			Pidgey(1637) hit Tangela(1100) 85(-)
+			Tangela(1015) hit Pidgey(1637) 38(/)
+			Pidgey(1599) hit Tangela(1015) 85(-)
+			Tangela(930) hit Pidgey(1599) 38(/)
+			Pidgey(1561) hit Tangela(930) 85(-)
+			Tangela(845) hit Pidgey(1561) 38(/)
+			Pidgey(1523) hit Tangela(845) 85(-)
+			Tangela(760) hit Pidgey(1523) 38(/)
+			Pidgey(1485) hit Tangela(760) 85(-)
+			Tangela(675) hit Pidgey(1485) 38(/)
+			Pidgey(1447) hit Tangela(675) 85(-)
+			Tangela(590) hit Pidgey(1447) 38(/)
+			Pidgey(1409) hit Tangela(590) 85(-)
+			Tangela(505) hit Pidgey(1409) 38(/)
+			Pidgey(1371) hit Tangela(505) 85(-)
+			Tangela(420) hit Pidgey(1371) 38(/)
+			Pidgey(1333) hit Tangela(420) 85(-)
+			Tangela(335) hit Pidgey(1333) 38(/)
+			Pidgey(1295) hit Tangela(335) 85(-)
+			Tangela(250) hit Pidgey(1295) 38(/)
+			Pidgey(1257) hit Tangela(250) 85(-)
+			Tangela(165) hit Pidgey(1257) 38(/)
+			Pidgey(1219) hit Tangela(165) 85(-)
+			Tangela(80) hit Pidgey(1219) 38(/)
+			Pidgey(1181) hit Tangela(80) 85(-)
+		WinnerP:Pidgey
+			Zubat(680) hit Pidgey(1246) 1(-)
+			Pidgey(1245) hit Zubat(680) 174(-)
+			Zubat(506) hit Pidgey(1245) 1(-)
+			Pidgey(1244) hit Zubat(506) 174(-)
+			Zubat(332) hit Pidgey(1244) 1(-)
+			Pidgey(1243) hit Zubat(332) 174(-)
+			Zubat(158) hit Pidgey(1243) 1(-)
+			Pidgey(1242) hit Zubat(158) 174(-)
+		WinnerP:Pidgey
+			Pidgeotto(550) hit Pidgey(1307) 1(-)
+			Pidgey(1306) hit Pidgeotto(550) 185(-)
+			Pidgeotto(365) hit Pidgey(1306) 1(-)
+			Pidgey(1305) hit Pidgeotto(365) 185(-)
+			Pidgeotto(180) hit Pidgey(1305) 1(-)
+			Pidgey(1304) hit Pidgeotto(180) 185(-)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+	Gary vs Iris: Stadium
+			Pidgey(2730) hit Tangela(2800) 110(/)
+			Tangela(2690) hit Pidgey(2730) 29(/)
+			Pidgey(2701) hit Tangela(2690) 110(/)
+			Tangela(2580) hit Pidgey(2701) 29(/)
+			Pidgey(2672) hit Tangela(2580) 110(/)
+			Tangela(2470) hit Pidgey(2672) 29(/)
+			Pidgey(2643) hit Tangela(2470) 110(/)
+			Tangela(2360) hit Pidgey(2643) 29(/)
+			Pidgey(2614) hit Tangela(2360) 110(/)
+			Tangela(2250) hit Pidgey(2614) 29(/)
+			Pidgey(2585) hit Tangela(2250) 110(/)
+			Tangela(2140) hit Pidgey(2585) 29(/)
+			Pidgey(2556) hit Tangela(2140) 110(/)
+			Tangela(2030) hit Pidgey(2556) 29(/)
+			Pidgey(2527) hit Tangela(2030) 110(/)
+			Tangela(1920) hit Pidgey(2527) 29(/)
+			Pidgey(2498) hit Tangela(1920) 110(/)
+			Tangela(1810) hit Pidgey(2498) 29(/)
+			Pidgey(2469) hit Tangela(1810) 110(/)
+			Tangela(1700) hit Pidgey(2469) 29(/)
+			Pidgey(2440) hit Tangela(1700) 110(/)
+			Tangela(1590) hit Pidgey(2440) 29(/)
+			Pidgey(2411) hit Tangela(1590) 110(/)
+			Tangela(1480) hit Pidgey(2411) 29(/)
+			Pidgey(2382) hit Tangela(1480) 110(/)
+			Tangela(1370) hit Pidgey(2382) 29(/)
+			Pidgey(2353) hit Tangela(1370) 110(/)
+			Tangela(1260) hit Pidgey(2353) 29(/)
+			Pidgey(2324) hit Tangela(1260) 110(/)
+			Tangela(1150) hit Pidgey(2324) 29(/)
+			Pidgey(2295) hit Tangela(1150) 110(/)
+			Tangela(1040) hit Pidgey(2295) 29(/)
+			Pidgey(2266) hit Tangela(1040) 110(/)
+			Tangela(930) hit Pidgey(2266) 29(/)
+			Pidgey(2237) hit Tangela(930) 110(/)
+			Tangela(820) hit Pidgey(2237) 29(/)
+			Pidgey(2208) hit Tangela(820) 110(/)
+			Tangela(710) hit Pidgey(2208) 29(/)
+			Pidgey(2179) hit Tangela(710) 110(/)
+			Tangela(600) hit Pidgey(2179) 29(/)
+			Pidgey(2150) hit Tangela(600) 110(/)
+			Tangela(490) hit Pidgey(2150) 29(/)
+			Pidgey(2121) hit Tangela(490) 110(/)
+			Tangela(380) hit Pidgey(2121) 29(/)
+			Pidgey(2092) hit Tangela(380) 110(/)
+			Tangela(270) hit Pidgey(2092) 29(/)
+			Pidgey(2063) hit Tangela(270) 110(/)
+			Tangela(160) hit Pidgey(2063) 29(/)
+			Pidgey(2034) hit Tangela(160) 110(/)
+			Tangela(50) hit Pidgey(2034) 29(/)
+			Pidgey(2005) hit Tangela(50) 110(/)
+		WinnerP:Pidgey
+			Zubat(780) hit Pidgey(2070) 1(/)
+			Pidgey(2069) hit Zubat(780) 199(/)
+			Zubat(581) hit Pidgey(2069) 1(/)
+			Pidgey(2068) hit Zubat(581) 199(/)
+			Zubat(382) hit Pidgey(2068) 1(/)
+			Pidgey(2067) hit Zubat(382) 199(/)
+			Zubat(183) hit Pidgey(2067) 1(/)
+			Pidgey(2066) hit Zubat(183) 199(/)
+		WinnerP:Pidgey
+			Pidgeotto(650) hit Pidgey(2131) 1(/)
+			Pidgey(2130) hit Pidgeotto(650) 210(/)
+			Pidgeotto(440) hit Pidgey(2130) 1(/)
+			Pidgey(2129) hit Pidgeotto(440) 210(/)
+			Pidgeotto(230) hit Pidgey(2129) 1(/)
+			Pidgey(2128) hit Pidgeotto(230) 210(/)
+			Pidgeotto(20) hit Pidgey(2128) 1(/)
+			Pidgey(2127) hit Pidgeotto(20) 210(/)
+		WinnerP:Pidgey
+	WinnerT:Gary
+
+Round Winner: Gary!
+MegaTournament has finished! The champion is Gary.

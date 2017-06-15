@@ -1,0 +1,3756 @@
+Started Round: 0 vs 15
+	Gary vs Dawn: ElectriCity
+			Dewgong(600) hit Jolteon(600) 40(-)
+			Jolteon(560) is drowning!!
+			Jolteon(530) hit Dewgong(600) 60(+)
+			Dewgong(540) is electrified!!!!
+			Dewgong(410) hit Jolteon(530) 40(-)
+			Jolteon(490) is drowning!!
+			Jolteon(460) hit Dewgong(410) 60(+)
+			Dewgong(350) is electrified!!!!
+			Dewgong(220) hit Jolteon(460) 40(-)
+			Jolteon(420) is drowning!!
+			Jolteon(390) hit Dewgong(220) 60(+)
+			Dewgong(160) is electrified!!!!
+			Dewgong(30) hit Jolteon(390) 40(-)
+			Jolteon(350) is drowning!!
+			Jolteon(320) hit Dewgong(30) 60(+)
+		WinnerP:Jolteon
+			Magnemite(600) hit Jolteon(370) 80(+)
+			Jolteon(290) is drowning!!
+			Jolteon(263) hit Magnemite(600) 87(+)
+			Magnemite(513) hit Jolteon(263) 80(+)
+			Jolteon(183) is drowning!!
+			Jolteon(156) hit Magnemite(513) 87(+)
+			Magnemite(426) hit Jolteon(156) 80(+)
+			Jolteon(76) is drowning!!
+			Jolteon(49) hit Magnemite(426) 87(+)
+			Magnemite(339) hit Jolteon(49) 80(+)
+		WinnerP:Magnemite
+			Zubat(550) hit Magnemite(389) 45(-)
+			Magnemite(344) hit Zubat(550) 72(+)
+			Zubat(478) hit Magnemite(344) 45(-)
+			Magnemite(299) hit Zubat(478) 72(+)
+			Zubat(406) hit Magnemite(299) 45(-)
+			Magnemite(254) hit Zubat(406) 72(+)
+			Zubat(334) hit Magnemite(254) 45(-)
+			Magnemite(209) hit Zubat(334) 72(+)
+			Zubat(262) hit Magnemite(209) 45(-)
+			Magnemite(164) hit Zubat(262) 72(+)
+			Zubat(190) hit Magnemite(164) 45(-)
+			Magnemite(119) hit Zubat(190) 72(+)
+			Zubat(118) hit Magnemite(119) 45(-)
+			Magnemite(74) hit Zubat(118) 72(+)
+			Zubat(46) hit Magnemite(74) 45(-)
+			Magnemite(29) hit Zubat(46) 72(+)
+		WinnerP:Magnemite
+			Ivysaur(800) hit Magnemite(79) 40(/)
+			Magnemite(39) is rooted!!!!
+		WinnerP:Ivysaur
+			Growlithe(600) hit Ivysaur(880) 27(/)
+			Ivysaur(853) is burning!!!!
+			Ivysaur(753) hit Growlithe(600) 34(/)
+			Growlithe(566) is rooted!!
+			Growlithe(546) hit Ivysaur(753) 27(/)
+			Ivysaur(726) is burning!!!!
+			Ivysaur(626) hit Growlithe(546) 34(/)
+			Growlithe(512) is rooted!!
+			Growlithe(492) hit Ivysaur(626) 27(/)
+			Ivysaur(599) is burning!!!!
+			Ivysaur(499) hit Growlithe(492) 34(/)
+			Growlithe(458) is rooted!!
+			Growlithe(438) hit Ivysaur(499) 27(/)
+			Ivysaur(472) is burning!!!!
+			Ivysaur(372) hit Growlithe(438) 34(/)
+			Growlithe(404) is rooted!!
+			Growlithe(384) hit Ivysaur(372) 27(/)
+			Ivysaur(345) is burning!!!!
+			Ivysaur(245) hit Growlithe(384) 34(/)
+			Growlithe(350) is rooted!!
+			Growlithe(330) hit Ivysaur(245) 27(/)
+			Ivysaur(218) is burning!!!!
+			Ivysaur(118) hit Growlithe(330) 34(/)
+			Growlithe(296) is rooted!!
+			Growlithe(276) hit Ivysaur(118) 27(/)
+			Ivysaur(91) is burning!!!!
+		WinnerP:Growlithe
+	WinnerT:Gary
+
+	Dawn vs Gary: ElectriCity
+			Jolteon(650) hit Dewgong(600) 67(+)
+			Dewgong(533) is electrified!!!!
+			Dewgong(403) hit Jolteon(650) 40(-)
+			Jolteon(610) is drowning!!
+			Jolteon(583) hit Dewgong(403) 67(+)
+			Dewgong(336) is electrified!!!!
+			Dewgong(206) hit Jolteon(583) 40(-)
+			Jolteon(543) is drowning!!
+			Jolteon(516) hit Dewgong(206) 67(+)
+			Dewgong(139) is electrified!!!!
+			Dewgong(9) hit Jolteon(516) 40(-)
+			Jolteon(476) is drowning!!
+			Jolteon(449) hit Dewgong(9) 67(+)
+		WinnerP:Jolteon
+			Magnemite(700) hit Jolteon(499) 94(+)
+			Jolteon(405) is drowning!!
+			Jolteon(381) hit Magnemite(700) 94(+)
+			Magnemite(606) hit Jolteon(381) 94(+)
+			Jolteon(287) is drowning!!
+			Jolteon(263) hit Magnemite(606) 94(+)
+			Magnemite(512) hit Jolteon(263) 94(+)
+			Jolteon(169) is drowning!!
+			Jolteon(145) hit Magnemite(512) 94(+)
+			Magnemite(418) hit Jolteon(145) 94(+)
+			Jolteon(51) is drowning!!
+			Jolteon(27) hit Magnemite(418) 94(+)
+			Magnemite(324) hit Jolteon(27) 94(+)
+		WinnerP:Magnemite
+			Zubat(550) hit Magnemite(374) 45(-)
+			Magnemite(329) hit Zubat(550) 86(+)
+			Zubat(464) hit Magnemite(329) 45(-)
+			Magnemite(284) hit Zubat(464) 86(+)
+			Zubat(378) hit Magnemite(284) 45(-)
+			Magnemite(239) hit Zubat(378) 86(+)
+			Zubat(292) hit Magnemite(239) 45(-)
+			Magnemite(194) hit Zubat(292) 86(+)
+			Zubat(206) hit Magnemite(194) 45(-)
+			Magnemite(149) hit Zubat(206) 86(+)
+			Zubat(120) hit Magnemite(149) 45(-)
+			Magnemite(104) hit Zubat(120) 86(+)
+			Zubat(34) hit Magnemite(104) 45(-)
+			Magnemite(59) hit Zubat(34) 86(+)
+		WinnerP:Magnemite
+			Ivysaur(880) hit Magnemite(109) 44(/)
+			Magnemite(65) is rooted!!!!
+			Magnemite(27) hit Ivysaur(880) 75(+)
+			Ivysaur(805) is electrified!!
+			Ivysaur(735) hit Magnemite(27) 44(/)
+		WinnerP:Ivysaur
+			Growlithe(660) hit Ivysaur(815) 30(/)
+			Ivysaur(785) is burning!!!!
+			Ivysaur(685) is electrified!!
+			Ivysaur(615) hit Growlithe(660) 37(/)
+			Growlithe(623) is rooted!!
+			Growlithe(605) hit Ivysaur(615) 30(/)
+			Ivysaur(585) is burning!!!!
+			Ivysaur(485) is electrified!!
+			Ivysaur(415) hit Growlithe(605) 37(/)
+			Growlithe(568) is rooted!!
+			Growlithe(550) hit Ivysaur(415) 30(/)
+			Ivysaur(385) is burning!!!!
+			Ivysaur(285) is electrified!!
+			Ivysaur(215) hit Growlithe(550) 37(/)
+			Growlithe(513) is rooted!!
+			Growlithe(495) hit Ivysaur(215) 30(/)
+			Ivysaur(185) is burning!!!!
+			Ivysaur(85) is electrified!!
+			Ivysaur(15) hit Growlithe(495) 37(/)
+			Growlithe(458) is rooted!!
+			Growlithe(440) hit Ivysaur(15) 30(/)
+		WinnerP:Growlithe
+	WinnerT:Gary
+
+	Gary vs Dawn: Stadium
+			Dewgong(700) hit Jolteon(600) 50(/)
+			Jolteon(550) is drowning!!
+			Jolteon(526) hit Dewgong(700) 64(/)
+			Dewgong(636) is electrified!!!!
+			Dewgong(506) hit Jolteon(526) 50(/)
+			Jolteon(476) is drowning!!
+			Jolteon(452) hit Dewgong(506) 64(/)
+			Dewgong(442) is electrified!!!!
+			Dewgong(312) hit Jolteon(452) 50(/)
+			Jolteon(402) is drowning!!
+			Jolteon(378) hit Dewgong(312) 64(/)
+			Dewgong(248) is electrified!!!!
+			Dewgong(118) hit Jolteon(378) 50(/)
+			Jolteon(328) is drowning!!
+			Jolteon(304) hit Dewgong(118) 64(/)
+			Dewgong(54) is electrified!!!!
+		WinnerP:Jolteon
+			Magnemite(700) hit Jolteon(354) 98(/)
+			Jolteon(256) is drowning!!
+			Jolteon(235) hit Magnemite(700) 91(/)
+			Magnemite(609) hit Jolteon(235) 98(/)
+			Jolteon(137) is drowning!!
+			Jolteon(116) hit Magnemite(609) 91(/)
+			Magnemite(518) hit Jolteon(116) 98(/)
+			Jolteon(18) is drowning!!
+		WinnerP:Magnemite
+			Zubat(650) hit Magnemite(568) 55(/)
+			Magnemite(513) hit Zubat(650) 90(/)
+			Zubat(560) hit Magnemite(513) 55(/)
+			Magnemite(458) hit Zubat(560) 90(/)
+			Zubat(470) hit Magnemite(458) 55(/)
+			Magnemite(403) hit Zubat(470) 90(/)
+			Zubat(380) hit Magnemite(403) 55(/)
+			Magnemite(348) hit Zubat(380) 90(/)
+			Zubat(290) hit Magnemite(348) 55(/)
+			Magnemite(293) hit Zubat(290) 90(/)
+			Zubat(200) hit Magnemite(293) 55(/)
+			Magnemite(238) hit Zubat(200) 90(/)
+			Zubat(110) hit Magnemite(238) 55(/)
+			Magnemite(183) hit Zubat(110) 90(/)
+			Zubat(20) hit Magnemite(183) 55(/)
+			Magnemite(128) hit Zubat(20) 90(/)
+		WinnerP:Magnemite
+			Ivysaur(960) hit Magnemite(178) 48(/)
+			Magnemite(130) is rooted!!!!
+			Magnemite(98) hit Ivysaur(960) 76(/)
+			Ivysaur(884) is electrified!!
+			Ivysaur(814) hit Magnemite(98) 48(/)
+			Magnemite(50) is rooted!!!!
+			Magnemite(18) hit Ivysaur(814) 76(/)
+			Ivysaur(738) is electrified!!
+			Ivysaur(668) hit Magnemite(18) 48(/)
+		WinnerP:Ivysaur
+			Growlithe(720) hit Ivysaur(748) 33(/)
+			Ivysaur(715) is burning!!!!
+			Ivysaur(615) is electrified!!
+			Ivysaur(545) hit Growlithe(720) 40(/)
+			Growlithe(680) is rooted!!
+			Growlithe(664) hit Ivysaur(545) 33(/)
+			Ivysaur(512) is burning!!!!
+			Ivysaur(412) is electrified!!
+			Ivysaur(342) hit Growlithe(664) 40(/)
+			Growlithe(624) is rooted!!
+			Growlithe(608) hit Ivysaur(342) 33(/)
+			Ivysaur(309) is burning!!!!
+			Ivysaur(209) is electrified!!
+			Ivysaur(139) hit Growlithe(608) 40(/)
+			Growlithe(568) is rooted!!
+			Growlithe(552) hit Ivysaur(139) 33(/)
+			Ivysaur(106) is burning!!!!
+			Ivysaur(6) is electrified!!
+		WinnerP:Growlithe
+	WinnerT:Gary
+
+Round Winner: Gary!
+Started Round: 1 vs 14
+	James vs Cilan: Ocean
+			Electabuzz(500) hit Rapidash(500) 60(/)
+			Rapidash(440) is electrified!!
+			Rapidash(390) hit Electabuzz(500) 50(-)
+			Electabuzz(450) is burning!!
+			Electabuzz(430) hit Rapidash(390) 60(/)
+			Rapidash(330) is electrified!!
+			Rapidash(280) hit Electabuzz(430) 50(-)
+			Electabuzz(380) is burning!!
+			Electabuzz(360) hit Rapidash(280) 60(/)
+			Rapidash(220) is electrified!!
+			Rapidash(170) hit Electabuzz(360) 50(-)
+			Electabuzz(310) is burning!!
+			Electabuzz(290) hit Rapidash(170) 60(/)
+			Rapidash(110) is electrified!!
+			Rapidash(60) hit Electabuzz(290) 50(-)
+			Electabuzz(240) is burning!!
+			Electabuzz(220) hit Rapidash(60) 60(/)
+		WinnerP:Electabuzz
+			Flareon(500) hit Electabuzz(270) 50(-)
+			Electabuzz(220) is burning!!
+			Electabuzz(203) hit Flareon(500) 67(/)
+			Flareon(433) is electrified!!
+			Flareon(383) hit Electabuzz(203) 50(-)
+			Electabuzz(153) is burning!!
+			Electabuzz(136) hit Flareon(383) 67(/)
+			Flareon(316) is electrified!!
+			Flareon(266) hit Electabuzz(136) 50(-)
+			Electabuzz(86) is burning!!
+			Electabuzz(69) hit Flareon(266) 67(/)
+			Flareon(199) is electrified!!
+			Flareon(149) hit Electabuzz(69) 50(-)
+			Electabuzz(19) is burning!!
+			Electabuzz(2) hit Flareon(149) 67(/)
+			Flareon(82) is electrified!!
+			Flareon(32) hit Electabuzz(2) 50(-)
+		WinnerP:Flareon
+			Electabuzz(500) hit Flareon(92) 59(/)
+			Flareon(33) is electrified!!
+		WinnerP:Electabuzz
+			Charizard(500) hit Electabuzz(550) 50(-)
+			Electabuzz(500) is burning!!
+			Electabuzz(483) hit Charizard(500) 67(/)
+			Charizard(433) is electrified!!
+			Charizard(383) hit Electabuzz(483) 50(-)
+			Electabuzz(433) is burning!!
+			Electabuzz(416) hit Charizard(383) 67(/)
+			Charizard(316) is electrified!!
+			Charizard(266) hit Electabuzz(416) 50(-)
+			Electabuzz(366) is burning!!
+			Electabuzz(349) hit Charizard(266) 67(/)
+			Charizard(199) is electrified!!
+			Charizard(149) hit Electabuzz(349) 50(-)
+			Electabuzz(299) is burning!!
+			Electabuzz(282) hit Charizard(149) 67(/)
+			Charizard(82) is electrified!!
+			Charizard(32) hit Electabuzz(282) 50(-)
+			Electabuzz(232) is burning!!
+			Electabuzz(215) hit Charizard(32) 67(/)
+		WinnerP:Electabuzz
+	WinnerT:James
+
+	Cilan vs James: ElectriCity
+			Rapidash(600) hit Electabuzz(650) 60(/)
+			Electabuzz(590) is burning!!
+			Electabuzz(573) hit Rapidash(600) 77(+)
+			Rapidash(523) is electrified!!
+			Rapidash(473) hit Electabuzz(573) 60(/)
+			Electabuzz(513) is burning!!
+			Electabuzz(496) hit Rapidash(473) 77(+)
+			Rapidash(396) is electrified!!
+			Rapidash(346) hit Electabuzz(496) 60(/)
+			Electabuzz(436) is burning!!
+			Electabuzz(419) hit Rapidash(346) 77(+)
+			Rapidash(269) is electrified!!
+			Rapidash(219) hit Electabuzz(419) 60(/)
+			Electabuzz(359) is burning!!
+			Electabuzz(342) hit Rapidash(219) 77(+)
+			Rapidash(142) is electrified!!
+			Rapidash(92) hit Electabuzz(342) 60(/)
+			Electabuzz(282) is burning!!
+			Electabuzz(265) hit Rapidash(92) 77(+)
+			Rapidash(15) is electrified!!
+		WinnerP:Electabuzz
+			Flareon(660) hit Electabuzz(315) 66(/)
+			Electabuzz(249) is burning!!
+			Electabuzz(235) hit Flareon(660) 83(+)
+			Flareon(577) is electrified!!
+			Flareon(529) hit Electabuzz(235) 66(/)
+			Electabuzz(169) is burning!!
+			Electabuzz(155) hit Flareon(529) 83(+)
+			Flareon(446) is electrified!!
+			Flareon(398) hit Electabuzz(155) 66(/)
+			Electabuzz(89) is burning!!
+			Electabuzz(75) hit Flareon(398) 83(+)
+			Flareon(315) is electrified!!
+			Flareon(267) hit Electabuzz(75) 66(/)
+			Electabuzz(9) is burning!!
+		WinnerP:Flareon
+			Electabuzz(700) hit Flareon(327) 82(+)
+			Flareon(245) is electrified!!
+			Flareon(199) hit Electabuzz(700) 72(/)
+			Electabuzz(628) is burning!!
+			Electabuzz(614) hit Flareon(199) 82(+)
+			Flareon(117) is electrified!!
+			Flareon(71) hit Electabuzz(614) 72(/)
+			Electabuzz(542) is burning!!
+			Electabuzz(528) hit Flareon(71) 82(+)
+		WinnerP:Electabuzz
+			Charizard(600) hit Electabuzz(578) 60(/)
+			Electabuzz(518) is burning!!
+			Electabuzz(507) hit Charizard(600) 91(+)
+			Charizard(509) is electrified!!
+			Charizard(459) hit Electabuzz(507) 60(/)
+			Electabuzz(447) is burning!!
+			Electabuzz(436) hit Charizard(459) 91(+)
+			Charizard(368) is electrified!!
+			Charizard(318) hit Electabuzz(436) 60(/)
+			Electabuzz(376) is burning!!
+			Electabuzz(365) hit Charizard(318) 91(+)
+			Charizard(227) is electrified!!
+			Charizard(177) hit Electabuzz(365) 60(/)
+			Electabuzz(305) is burning!!
+			Electabuzz(294) hit Charizard(177) 91(+)
+			Charizard(86) is electrified!!
+			Charizard(36) hit Electabuzz(294) 60(/)
+			Electabuzz(234) is burning!!
+			Electabuzz(223) hit Charizard(36) 91(+)
+		WinnerP:Electabuzz
+	WinnerT:James
+
+	James vs Cilan: Stadium
+			Electabuzz(600) hit Rapidash(600) 74(/)
+			Rapidash(526) is electrified!!
+			Rapidash(476) hit Electabuzz(600) 60(/)
+			Electabuzz(540) is burning!!
+			Electabuzz(526) hit Rapidash(476) 74(/)
+			Rapidash(402) is electrified!!
+			Rapidash(352) hit Electabuzz(526) 60(/)
+			Electabuzz(466) is burning!!
+			Electabuzz(452) hit Rapidash(352) 74(/)
+			Rapidash(278) is electrified!!
+			Rapidash(228) hit Electabuzz(452) 60(/)
+			Electabuzz(392) is burning!!
+			Electabuzz(378) hit Rapidash(228) 74(/)
+			Rapidash(154) is electrified!!
+			Rapidash(104) hit Electabuzz(378) 60(/)
+			Electabuzz(318) is burning!!
+			Electabuzz(304) hit Rapidash(104) 74(/)
+			Rapidash(30) is electrified!!
+		WinnerP:Electabuzz
+			Flareon(720) hit Electabuzz(354) 72(/)
+			Electabuzz(282) is burning!!
+			Electabuzz(271) hit Flareon(720) 79(/)
+			Flareon(641) is electrified!!
+			Flareon(595) hit Electabuzz(271) 72(/)
+			Electabuzz(199) is burning!!
+			Electabuzz(188) hit Flareon(595) 79(/)
+			Flareon(516) is electrified!!
+			Flareon(470) hit Electabuzz(188) 72(/)
+			Electabuzz(116) is burning!!
+			Electabuzz(105) hit Flareon(470) 79(/)
+			Flareon(391) is electrified!!
+			Flareon(345) hit Electabuzz(105) 72(/)
+			Electabuzz(33) is burning!!
+			Electabuzz(22) hit Flareon(345) 79(/)
+			Flareon(266) is electrified!!
+			Flareon(220) hit Electabuzz(22) 72(/)
+		WinnerP:Flareon
+			Electabuzz(700) hit Flareon(280) 85(/)
+			Flareon(195) is electrified!!
+			Flareon(151) hit Electabuzz(700) 78(/)
+			Electabuzz(622) is burning!!
+			Electabuzz(614) hit Flareon(151) 85(/)
+			Flareon(66) is electrified!!
+			Flareon(22) hit Electabuzz(614) 78(/)
+			Electabuzz(536) is burning!!
+			Electabuzz(528) hit Flareon(22) 85(/)
+		WinnerP:Electabuzz
+			Charizard(600) hit Electabuzz(578) 60(/)
+			Electabuzz(518) is burning!!
+			Electabuzz(513) hit Charizard(600) 95(/)
+			Charizard(505) is electrified!!
+			Charizard(455) hit Electabuzz(513) 60(/)
+			Electabuzz(453) is burning!!
+			Electabuzz(448) hit Charizard(455) 95(/)
+			Charizard(360) is electrified!!
+			Charizard(310) hit Electabuzz(448) 60(/)
+			Electabuzz(388) is burning!!
+			Electabuzz(383) hit Charizard(310) 95(/)
+			Charizard(215) is electrified!!
+			Charizard(165) hit Electabuzz(383) 60(/)
+			Electabuzz(323) is burning!!
+			Electabuzz(318) hit Charizard(165) 95(/)
+			Charizard(70) is electrified!!
+			Charizard(20) hit Electabuzz(318) 60(/)
+			Electabuzz(258) is burning!!
+			Electabuzz(253) hit Charizard(20) 95(/)
+		WinnerP:Electabuzz
+	WinnerT:James
+
+Round Winner: James!
+Started Round: 2 vs 13
+	Ash vs May: Forest
+			Gloom(900) hit Magmar(600) 40(+)
+			Magmar(560) is rooted!!
+			Magmar(540) hit Gloom(900) 30(/)
+			Gloom(870) is burning!!!!
+			Gloom(770) hit Magmar(540) 40(+)
+			Magmar(500) is rooted!!
+			Magmar(480) hit Gloom(770) 30(/)
+			Gloom(740) is burning!!!!
+			Gloom(640) hit Magmar(480) 40(+)
+			Magmar(440) is rooted!!
+			Magmar(420) hit Gloom(640) 30(/)
+			Gloom(610) is burning!!!!
+			Gloom(510) hit Magmar(420) 40(+)
+			Magmar(380) is rooted!!
+			Magmar(360) hit Gloom(510) 30(/)
+			Gloom(480) is burning!!!!
+			Gloom(380) hit Magmar(360) 40(+)
+			Magmar(320) is rooted!!
+			Magmar(300) hit Gloom(380) 30(/)
+			Gloom(350) is burning!!!!
+			Gloom(250) hit Magmar(300) 40(+)
+			Magmar(260) is rooted!!
+			Magmar(240) hit Gloom(250) 30(/)
+			Gloom(220) is burning!!!!
+			Gloom(120) hit Magmar(240) 40(+)
+			Magmar(200) is rooted!!
+			Magmar(180) hit Gloom(120) 30(/)
+			Gloom(90) is burning!!!!
+		WinnerP:Magmar
+			Flareon(600) hit Magmar(240) 49(/)
+			Magmar(191) is rooted!!
+			Magmar(173) hit Flareon(600) 56(/)
+			Flareon(544) hit Magmar(173) 49(/)
+			Magmar(124) is rooted!!
+			Magmar(106) hit Flareon(544) 56(/)
+			Flareon(488) hit Magmar(106) 49(/)
+			Magmar(57) is rooted!!
+			Magmar(39) hit Flareon(488) 56(/)
+			Flareon(432) hit Magmar(39) 49(/)
+		WinnerP:Flareon
+			Parasect(900) hit Flareon(492) 39(+)
+			Flareon(453) is rooted!!
+			Flareon(435) hit Parasect(900) 36(/)
+			Parasect(864) is burning!!!!
+			Parasect(764) hit Flareon(435) 39(+)
+			Flareon(396) is rooted!!
+			Flareon(378) hit Parasect(764) 36(/)
+			Parasect(728) is burning!!!!
+			Parasect(628) hit Flareon(378) 39(+)
+			Flareon(339) is rooted!!
+			Flareon(321) hit Parasect(628) 36(/)
+			Parasect(592) is burning!!!!
+			Parasect(492) hit Flareon(321) 39(+)
+			Flareon(282) is rooted!!
+			Flareon(264) hit Parasect(492) 36(/)
+			Parasect(456) is burning!!!!
+			Parasect(356) hit Flareon(264) 39(+)
+			Flareon(225) is rooted!!
+			Flareon(207) hit Parasect(356) 36(/)
+			Parasect(320) is burning!!!!
+			Parasect(220) hit Flareon(207) 39(+)
+			Flareon(168) is rooted!!
+			Flareon(150) hit Parasect(220) 36(/)
+			Parasect(184) is burning!!!!
+			Parasect(84) hit Flareon(150) 39(+)
+			Flareon(111) is rooted!!
+			Flareon(93) hit Parasect(84) 36(/)
+			Parasect(48) is burning!!!!
+		WinnerP:Flareon
+			Magneton(400) hit Flareon(153) 48(-)
+			Flareon(105) is electrified!!
+			Flareon(59) is rooted!!
+			Flareon(43) hit Magneton(400) 72(/)
+			Magneton(328) is burning!!
+			Magneton(308) hit Flareon(43) 48(-)
+		WinnerP:Magneton
+			Zapdos(650) hit Magneton(358) 55(/)
+			Magneton(303) is burning!!
+			Magneton(286) hit Zapdos(650) 52(-)
+			Zapdos(598) hit Magneton(286) 55(/)
+			Magneton(231) is burning!!
+			Magneton(214) hit Zapdos(598) 52(-)
+			Zapdos(546) hit Magneton(214) 55(/)
+			Magneton(159) is burning!!
+			Magneton(142) hit Zapdos(546) 52(-)
+			Zapdos(494) hit Magneton(142) 55(/)
+			Magneton(87) is burning!!
+			Magneton(70) hit Zapdos(494) 52(-)
+			Zapdos(442) hit Magneton(70) 55(/)
+			Magneton(15) is burning!!
+		WinnerP:Zapdos
+	WinnerT:Ash
+
+	May vs Ash: Magma
+			Magmar(760) hit Gloom(700) 46(+)
+			Gloom(654) is burning!!!!
+			Gloom(554) hit Magmar(760) 19(-)
+			Magmar(741) is rooted!!
+			Magmar(723) hit Gloom(554) 46(+)
+			Gloom(508) is burning!!!!
+			Gloom(408) hit Magmar(723) 19(-)
+			Magmar(704) is rooted!!
+			Magmar(686) hit Gloom(408) 46(+)
+			Gloom(362) is burning!!!!
+			Gloom(262) hit Magmar(686) 19(-)
+			Magmar(667) is rooted!!
+			Magmar(649) hit Gloom(262) 46(+)
+			Gloom(216) is burning!!!!
+			Gloom(116) hit Magmar(649) 19(-)
+			Magmar(630) is rooted!!
+			Magmar(612) hit Gloom(116) 46(+)
+			Gloom(70) is burning!!!!
+		WinnerP:Magmar
+			Flareon(820) hit Magmar(672) 70(+)
+			Magmar(602) is rooted!!
+			Magmar(586) hit Flareon(820) 70(+)
+			Flareon(750) hit Magmar(586) 70(+)
+			Magmar(516) is rooted!!
+			Magmar(500) hit Flareon(750) 70(+)
+			Flareon(680) hit Magmar(500) 70(+)
+			Magmar(430) is rooted!!
+			Magmar(414) hit Flareon(680) 70(+)
+			Flareon(610) hit Magmar(414) 70(+)
+			Magmar(344) is rooted!!
+			Magmar(328) hit Flareon(610) 70(+)
+			Flareon(540) hit Magmar(328) 70(+)
+			Magmar(258) is rooted!!
+			Magmar(242) hit Flareon(540) 70(+)
+			Flareon(470) hit Magmar(242) 70(+)
+			Magmar(172) is rooted!!
+			Magmar(156) hit Flareon(470) 70(+)
+			Flareon(400) hit Magmar(156) 70(+)
+			Magmar(86) is rooted!!
+			Magmar(70) hit Flareon(400) 70(+)
+			Flareon(330) hit Magmar(70) 70(+)
+		WinnerP:Flareon
+			Parasect(700) hit Flareon(390) 17(-)
+			Flareon(373) is rooted!!
+			Flareon(359) hit Parasect(700) 58(+)
+			Parasect(642) is burning!!!!
+			Parasect(542) hit Flareon(359) 17(-)
+			Flareon(342) is rooted!!
+			Flareon(328) hit Parasect(542) 58(+)
+			Parasect(484) is burning!!!!
+			Parasect(384) hit Flareon(328) 17(-)
+			Flareon(311) is rooted!!
+			Flareon(297) hit Parasect(384) 58(+)
+			Parasect(326) is burning!!!!
+			Parasect(226) hit Flareon(297) 17(-)
+			Flareon(280) is rooted!!
+			Flareon(266) hit Parasect(226) 58(+)
+			Parasect(168) is burning!!!!
+			Parasect(68) hit Flareon(266) 17(-)
+			Flareon(249) is rooted!!
+			Flareon(235) hit Parasect(68) 58(+)
+			Parasect(10) is burning!!!!
+		WinnerP:Flareon
+			Magneton(450) hit Flareon(295) 53(-)
+			Flareon(242) is electrified!!
+			Flareon(200) is rooted!!
+			Flareon(188) hit Magneton(450) 94(+)
+			Magneton(356) is burning!!
+			Magneton(339) hit Flareon(188) 53(-)
+			Flareon(135) is electrified!!
+			Flareon(93) is rooted!!
+			Flareon(81) hit Magneton(339) 94(+)
+			Magneton(245) is burning!!
+			Magneton(228) hit Flareon(81) 53(-)
+			Flareon(28) is electrified!!
+		WinnerP:Magneton
+			Zapdos(715) hit Magneton(278) 60(/)
+			Magneton(218) is burning!!
+			Magneton(204) hit Zapdos(715) 56(-)
+			Zapdos(659) hit Magneton(204) 60(/)
+			Magneton(144) is burning!!
+			Magneton(130) hit Zapdos(659) 56(-)
+			Zapdos(603) hit Magneton(130) 60(/)
+			Magneton(70) is burning!!
+			Magneton(56) hit Zapdos(603) 56(-)
+			Zapdos(547) hit Magneton(56) 60(/)
+		WinnerP:Zapdos
+	WinnerT:Ash
+
+	Ash vs May: Stadium
+			Gloom(800) hit Magmar(720) 28(/)
+			Magmar(692) is rooted!!
+			Magmar(676) hit Gloom(800) 42(/)
+			Gloom(758) is burning!!!!
+			Gloom(658) hit Magmar(676) 28(/)
+			Magmar(648) is rooted!!
+			Magmar(632) hit Gloom(658) 42(/)
+			Gloom(616) is burning!!!!
+			Gloom(516) hit Magmar(632) 28(/)
+			Magmar(604) is rooted!!
+			Magmar(588) hit Gloom(516) 42(/)
+			Gloom(474) is burning!!!!
+			Gloom(374) hit Magmar(588) 28(/)
+			Magmar(560) is rooted!!
+			Magmar(544) hit Gloom(374) 42(/)
+			Gloom(332) is burning!!!!
+			Gloom(232) hit Magmar(544) 28(/)
+			Magmar(516) is rooted!!
+			Magmar(500) hit Gloom(232) 42(/)
+			Gloom(190) is burning!!!!
+			Gloom(90) hit Magmar(500) 28(/)
+			Magmar(472) is rooted!!
+			Magmar(456) hit Gloom(90) 42(/)
+			Gloom(48) is burning!!!!
+		WinnerP:Magmar
+			Flareon(840) hit Magmar(516) 71(/)
+			Magmar(445) is rooted!!
+			Magmar(431) hit Flareon(840) 64(/)
+			Flareon(776) hit Magmar(431) 71(/)
+			Magmar(360) is rooted!!
+			Magmar(346) hit Flareon(776) 64(/)
+			Flareon(712) hit Magmar(346) 71(/)
+			Magmar(275) is rooted!!
+			Magmar(261) hit Flareon(712) 64(/)
+			Flareon(648) hit Magmar(261) 71(/)
+			Magmar(190) is rooted!!
+			Magmar(176) hit Flareon(648) 64(/)
+			Flareon(584) hit Magmar(176) 71(/)
+			Magmar(105) is rooted!!
+			Magmar(91) hit Flareon(584) 64(/)
+			Flareon(520) hit Magmar(91) 71(/)
+			Magmar(20) is rooted!!
+			Magmar(6) hit Flareon(520) 64(/)
+			Flareon(456) hit Magmar(6) 71(/)
+		WinnerP:Flareon
+			Parasect(800) hit Flareon(516) 25(/)
+			Flareon(491) is rooted!!
+			Flareon(481) hit Parasect(800) 60(/)
+			Parasect(740) is burning!!!!
+			Parasect(640) hit Flareon(481) 25(/)
+			Flareon(456) is rooted!!
+			Flareon(446) hit Parasect(640) 60(/)
+			Parasect(580) is burning!!!!
+			Parasect(480) hit Flareon(446) 25(/)
+			Flareon(421) is rooted!!
+			Flareon(411) hit Parasect(480) 60(/)
+			Parasect(420) is burning!!!!
+			Parasect(320) hit Flareon(411) 25(/)
+			Flareon(386) is rooted!!
+			Flareon(376) hit Parasect(320) 60(/)
+			Parasect(260) is burning!!!!
+			Parasect(160) hit Flareon(376) 25(/)
+			Flareon(351) is rooted!!
+			Flareon(341) hit Parasect(160) 60(/)
+			Parasect(100) is burning!!!!
+		WinnerP:Flareon
+			Magneton(600) hit Flareon(401) 68(/)
+			Flareon(333) is electrified!!
+			Flareon(295) is rooted!!
+			Flareon(287) hit Magneton(600) 96(/)
+			Magneton(504) is burning!!
+			Magneton(490) hit Flareon(287) 68(/)
+			Flareon(219) is electrified!!
+			Flareon(181) is rooted!!
+			Flareon(173) hit Magneton(490) 96(/)
+			Magneton(394) is burning!!
+			Magneton(380) hit Flareon(173) 68(/)
+			Flareon(105) is electrified!!
+			Flareon(67) is rooted!!
+			Flareon(59) hit Magneton(380) 96(/)
+			Magneton(284) is burning!!
+			Magneton(270) hit Flareon(59) 68(/)
+		WinnerP:Magneton
+			Zapdos(780) hit Magneton(320) 65(/)
+			Magneton(255) is burning!!
+			Magneton(244) hit Zapdos(780) 70(/)
+			Zapdos(710) hit Magneton(244) 65(/)
+			Magneton(179) is burning!!
+			Magneton(168) hit Zapdos(710) 70(/)
+			Zapdos(640) hit Magneton(168) 65(/)
+			Magneton(103) is burning!!
+			Magneton(92) hit Zapdos(640) 70(/)
+			Zapdos(570) hit Magneton(92) 65(/)
+			Magneton(27) is burning!!
+			Magneton(16) hit Zapdos(570) 70(/)
+			Zapdos(500) hit Magneton(16) 65(/)
+		WinnerP:Zapdos
+	WinnerT:Ash
+
+Round Winner: Ash!
+Started Round: 3 vs 12
+	Ash vs Max: Ocean
+			Kabuto(800) hit Kingler(800) 40(+)
+			Kingler(760) hit Kabuto(800) 40(+)
+			Kabuto(760) hit Kingler(760) 40(+)
+			Kingler(720) hit Kabuto(760) 40(+)
+			Kabuto(720) hit Kingler(720) 40(+)
+			Kingler(680) hit Kabuto(720) 40(+)
+			Kabuto(680) hit Kingler(680) 40(+)
+			Kingler(640) hit Kabuto(680) 40(+)
+			Kabuto(640) hit Kingler(640) 40(+)
+			Kingler(600) hit Kabuto(640) 40(+)
+			Kabuto(600) hit Kingler(600) 40(+)
+			Kingler(560) hit Kabuto(600) 40(+)
+			Kabuto(560) hit Kingler(560) 40(+)
+			Kingler(520) hit Kabuto(560) 40(+)
+			Kabuto(520) hit Kingler(520) 40(+)
+			Kingler(480) hit Kabuto(520) 40(+)
+			Kabuto(480) hit Kingler(480) 40(+)
+			Kingler(440) hit Kabuto(480) 40(+)
+			Kabuto(440) hit Kingler(440) 40(+)
+			Kingler(400) hit Kabuto(440) 40(+)
+			Kabuto(400) hit Kingler(400) 40(+)
+			Kingler(360) hit Kabuto(400) 40(+)
+			Kabuto(360) hit Kingler(360) 40(+)
+			Kingler(320) hit Kabuto(360) 40(+)
+			Kabuto(320) hit Kingler(320) 40(+)
+			Kingler(280) hit Kabuto(320) 40(+)
+			Kabuto(280) hit Kingler(280) 40(+)
+			Kingler(240) hit Kabuto(280) 40(+)
+			Kabuto(240) hit Kingler(240) 40(+)
+			Kingler(200) hit Kabuto(240) 40(+)
+			Kabuto(200) hit Kingler(200) 40(+)
+			Kingler(160) hit Kabuto(200) 40(+)
+			Kabuto(160) hit Kingler(160) 40(+)
+			Kingler(120) hit Kabuto(160) 40(+)
+			Kabuto(120) hit Kingler(120) 40(+)
+			Kingler(80) hit Kabuto(120) 40(+)
+			Kabuto(80) hit Kingler(80) 40(+)
+			Kingler(40) hit Kabuto(80) 40(+)
+			Kabuto(40) hit Kingler(40) 40(+)
+		WinnerP:Kabuto
+			Voltorb(500) hit Kabuto(110) 48(/)
+			Kabuto(62) is electrified!!!!
+		WinnerP:Voltorb
+			Venusaur(800) hit Voltorb(550) 40(/)
+			Voltorb(510) is rooted!!!!
+			Voltorb(463) hit Venusaur(800) 47(/)
+			Venusaur(753) is electrified!!
+			Venusaur(683) hit Voltorb(463) 40(/)
+			Voltorb(423) is rooted!!!!
+			Voltorb(376) hit Venusaur(683) 47(/)
+			Venusaur(636) is electrified!!
+			Venusaur(566) hit Voltorb(376) 40(/)
+			Voltorb(336) is rooted!!!!
+			Voltorb(289) hit Venusaur(566) 47(/)
+			Venusaur(519) is electrified!!
+			Venusaur(449) hit Voltorb(289) 40(/)
+			Voltorb(249) is rooted!!!!
+			Voltorb(202) hit Venusaur(449) 47(/)
+			Venusaur(402) is electrified!!
+			Venusaur(332) hit Voltorb(202) 40(/)
+			Voltorb(162) is rooted!!!!
+			Voltorb(115) hit Venusaur(332) 47(/)
+			Venusaur(285) is electrified!!
+			Venusaur(215) hit Voltorb(115) 40(/)
+			Voltorb(75) is rooted!!!!
+			Voltorb(28) hit Venusaur(215) 47(/)
+			Venusaur(168) is electrified!!
+			Venusaur(98) hit Voltorb(28) 40(/)
+		WinnerP:Venusaur
+			Voltorb(500) hit Venusaur(178) 37(/)
+			Venusaur(141) is electrified!!
+			Venusaur(71) hit Voltorb(500) 44(/)
+			Voltorb(456) is rooted!!!!
+			Voltorb(406) hit Venusaur(71) 37(/)
+			Venusaur(34) is electrified!!
+		WinnerP:Voltorb
+			Magnemite(500) hit Voltorb(456) 70(/)
+			Voltorb(386) is rooted!!!!
+			Voltorb(339) hit Magnemite(500) 77(/)
+			Magnemite(423) hit Voltorb(339) 70(/)
+			Voltorb(269) is rooted!!!!
+			Voltorb(222) hit Magnemite(423) 77(/)
+			Magnemite(346) hit Voltorb(222) 70(/)
+			Voltorb(152) is rooted!!!!
+			Voltorb(105) hit Magnemite(346) 77(/)
+			Magnemite(269) hit Voltorb(105) 70(/)
+			Voltorb(35) is rooted!!!!
+		WinnerP:Magnemite
+	WinnerT:Ash
+
+	Max vs Ash: Ocean
+			Kingler(800) hit Kabuto(870) 38(+)
+			Kabuto(832) hit Kingler(800) 45(+)
+			Kingler(755) hit Kabuto(832) 38(+)
+			Kabuto(794) hit Kingler(755) 45(+)
+			Kingler(710) hit Kabuto(794) 38(+)
+			Kabuto(756) hit Kingler(710) 45(+)
+			Kingler(665) hit Kabuto(756) 38(+)
+			Kabuto(718) hit Kingler(665) 45(+)
+			Kingler(620) hit Kabuto(718) 38(+)
+			Kabuto(680) hit Kingler(620) 45(+)
+			Kingler(575) hit Kabuto(680) 38(+)
+			Kabuto(642) hit Kingler(575) 45(+)
+			Kingler(530) hit Kabuto(642) 38(+)
+			Kabuto(604) hit Kingler(530) 45(+)
+			Kingler(485) hit Kabuto(604) 38(+)
+			Kabuto(566) hit Kingler(485) 45(+)
+			Kingler(440) hit Kabuto(566) 38(+)
+			Kabuto(528) hit Kingler(440) 45(+)
+			Kingler(395) hit Kabuto(528) 38(+)
+			Kabuto(490) hit Kingler(395) 45(+)
+			Kingler(350) hit Kabuto(490) 38(+)
+			Kabuto(452) hit Kingler(350) 45(+)
+			Kingler(305) hit Kabuto(452) 38(+)
+			Kabuto(414) hit Kingler(305) 45(+)
+			Kingler(260) hit Kabuto(414) 38(+)
+			Kabuto(376) hit Kingler(260) 45(+)
+			Kingler(215) hit Kabuto(376) 38(+)
+			Kabuto(338) hit Kingler(215) 45(+)
+			Kingler(170) hit Kabuto(338) 38(+)
+			Kabuto(300) hit Kingler(170) 45(+)
+			Kingler(125) hit Kabuto(300) 38(+)
+			Kabuto(262) hit Kingler(125) 45(+)
+			Kingler(80) hit Kabuto(262) 38(+)
+			Kabuto(224) hit Kingler(80) 45(+)
+			Kingler(35) hit Kabuto(224) 38(+)
+			Kabuto(186) hit Kingler(35) 45(+)
+		WinnerP:Kabuto
+			Voltorb(550) hit Kabuto(256) 53(/)
+			Kabuto(203) is electrified!!!!
+			Kabuto(75) hit Voltorb(550) 70(+)
+			Voltorb(480) is drowning!!
+			Voltorb(453) hit Kabuto(75) 53(/)
+			Kabuto(22) is electrified!!!!
+		WinnerP:Voltorb
+			Venusaur(880) hit Voltorb(503) 44(/)
+			Voltorb(459) is drowning!!
+			Voltorb(435) is rooted!!!!
+			Voltorb(391) hit Venusaur(880) 51(/)
+			Venusaur(829) is electrified!!
+			Venusaur(759) hit Voltorb(391) 44(/)
+			Voltorb(347) is drowning!!
+			Voltorb(323) is rooted!!!!
+			Voltorb(279) hit Venusaur(759) 51(/)
+			Venusaur(708) is electrified!!
+			Venusaur(638) hit Voltorb(279) 44(/)
+			Voltorb(235) is drowning!!
+			Voltorb(211) is rooted!!!!
+			Voltorb(167) hit Venusaur(638) 51(/)
+			Venusaur(587) is electrified!!
+			Venusaur(517) hit Voltorb(167) 44(/)
+			Voltorb(123) is drowning!!
+			Voltorb(99) is rooted!!!!
+			Voltorb(55) hit Venusaur(517) 51(/)
+			Venusaur(466) is electrified!!
+			Venusaur(396) hit Voltorb(55) 44(/)
+			Voltorb(11) is drowning!!
+		WinnerP:Venusaur
+			Voltorb(550) hit Venusaur(476) 41(/)
+			Venusaur(435) is electrified!!
+			Venusaur(365) hit Voltorb(550) 48(/)
+			Voltorb(502) is rooted!!!!
+			Voltorb(455) hit Venusaur(365) 41(/)
+			Venusaur(324) is electrified!!
+			Venusaur(254) hit Voltorb(455) 48(/)
+			Voltorb(407) is rooted!!!!
+			Voltorb(360) hit Venusaur(254) 41(/)
+			Venusaur(213) is electrified!!
+			Venusaur(143) hit Voltorb(360) 48(/)
+			Voltorb(312) is rooted!!!!
+			Voltorb(265) hit Venusaur(143) 41(/)
+			Venusaur(102) is electrified!!
+			Venusaur(32) hit Voltorb(265) 48(/)
+			Voltorb(217) is rooted!!!!
+			Voltorb(170) hit Venusaur(32) 41(/)
+		WinnerP:Voltorb
+			Magnemite(550) hit Voltorb(220) 77(/)
+			Voltorb(143) is rooted!!!!
+			Voltorb(99) hit Magnemite(550) 84(/)
+			Magnemite(466) hit Voltorb(99) 77(/)
+			Voltorb(22) is rooted!!!!
+		WinnerP:Magnemite
+	WinnerT:Ash
+
+	Ash vs Max: Stadium
+			Kabuto(840) hit Kingler(700) 40(/)
+			Kingler(660) hit Kabuto(840) 26(/)
+			Kabuto(814) hit Kingler(660) 40(/)
+			Kingler(620) hit Kabuto(814) 26(/)
+			Kabuto(788) hit Kingler(620) 40(/)
+			Kingler(580) hit Kabuto(788) 26(/)
+			Kabuto(762) hit Kingler(580) 40(/)
+			Kingler(540) hit Kabuto(762) 26(/)
+			Kabuto(736) hit Kingler(540) 40(/)
+			Kingler(500) hit Kabuto(736) 26(/)
+			Kabuto(710) hit Kingler(500) 40(/)
+			Kingler(460) hit Kabuto(710) 26(/)
+			Kabuto(684) hit Kingler(460) 40(/)
+			Kingler(420) hit Kabuto(684) 26(/)
+			Kabuto(658) hit Kingler(420) 40(/)
+			Kingler(380) hit Kabuto(658) 26(/)
+			Kabuto(632) hit Kingler(380) 40(/)
+			Kingler(340) hit Kabuto(632) 26(/)
+			Kabuto(606) hit Kingler(340) 40(/)
+			Kingler(300) hit Kabuto(606) 26(/)
+			Kabuto(580) hit Kingler(300) 40(/)
+			Kingler(260) hit Kabuto(580) 26(/)
+			Kabuto(554) hit Kingler(260) 40(/)
+			Kingler(220) hit Kabuto(554) 26(/)
+			Kabuto(528) hit Kingler(220) 40(/)
+			Kingler(180) hit Kabuto(528) 26(/)
+			Kabuto(502) hit Kingler(180) 40(/)
+			Kingler(140) hit Kabuto(502) 26(/)
+			Kabuto(476) hit Kingler(140) 40(/)
+			Kingler(100) hit Kabuto(476) 26(/)
+			Kabuto(450) hit Kingler(100) 40(/)
+			Kingler(60) hit Kabuto(450) 26(/)
+			Kabuto(424) hit Kingler(60) 40(/)
+			Kingler(20) hit Kabuto(424) 26(/)
+			Kabuto(398) hit Kingler(20) 40(/)
+		WinnerP:Kabuto
+			Voltorb(600) hit Kabuto(468) 58(/)
+			Kabuto(410) is electrified!!!!
+			Kabuto(283) hit Voltorb(600) 65(/)
+			Voltorb(535) is drowning!!
+			Voltorb(511) hit Kabuto(283) 58(/)
+			Kabuto(225) is electrified!!!!
+			Kabuto(98) hit Voltorb(511) 65(/)
+			Voltorb(446) is drowning!!
+			Voltorb(422) hit Kabuto(98) 58(/)
+			Kabuto(40) is electrified!!!!
+		WinnerP:Voltorb
+			Venusaur(960) hit Voltorb(472) 48(/)
+			Voltorb(424) is drowning!!
+			Voltorb(403) is rooted!!!!
+			Voltorb(362) hit Venusaur(960) 55(/)
+			Venusaur(905) is electrified!!
+			Venusaur(835) hit Voltorb(362) 48(/)
+			Voltorb(314) is drowning!!
+			Voltorb(293) is rooted!!!!
+			Voltorb(252) hit Venusaur(835) 55(/)
+			Venusaur(780) is electrified!!
+			Venusaur(710) hit Voltorb(252) 48(/)
+			Voltorb(204) is drowning!!
+			Voltorb(183) is rooted!!!!
+			Voltorb(142) hit Venusaur(710) 55(/)
+			Venusaur(655) is electrified!!
+			Venusaur(585) hit Voltorb(142) 48(/)
+			Voltorb(94) is drowning!!
+			Voltorb(73) is rooted!!!!
+			Voltorb(32) hit Venusaur(585) 55(/)
+			Venusaur(530) is electrified!!
+			Venusaur(460) hit Voltorb(32) 48(/)
+		WinnerP:Venusaur
+			Voltorb(600) hit Venusaur(540) 45(/)
+			Venusaur(495) is electrified!!
+			Venusaur(425) hit Voltorb(600) 52(/)
+			Voltorb(548) is rooted!!!!
+			Voltorb(504) hit Venusaur(425) 45(/)
+			Venusaur(380) is electrified!!
+			Venusaur(310) hit Voltorb(504) 52(/)
+			Voltorb(452) is rooted!!!!
+			Voltorb(408) hit Venusaur(310) 45(/)
+			Venusaur(265) is electrified!!
+			Venusaur(195) hit Voltorb(408) 52(/)
+			Voltorb(356) is rooted!!!!
+			Voltorb(312) hit Venusaur(195) 45(/)
+			Venusaur(150) is electrified!!
+			Venusaur(80) hit Voltorb(312) 52(/)
+			Voltorb(260) is rooted!!!!
+			Voltorb(216) hit Venusaur(80) 45(/)
+			Venusaur(35) is electrified!!
+		WinnerP:Voltorb
+			Magnemite(600) hit Voltorb(266) 84(/)
+			Voltorb(182) is rooted!!!!
+			Voltorb(141) hit Magnemite(600) 91(/)
+			Magnemite(509) hit Voltorb(141) 84(/)
+			Voltorb(57) is rooted!!!!
+			Voltorb(16) hit Magnemite(509) 91(/)
+			Magnemite(418) hit Voltorb(16) 84(/)
+		WinnerP:Magnemite
+	WinnerT:Ash
+
+Round Winner: Ash!
+Started Round: 4 vs 11
+	Tracey vs Max: Ocean
+			Raichu(500) hit Kingler(800) 50(/)
+			Kingler(750) is electrified!!!!
+			Kingler(620) hit Raichu(500) 60(+)
+			Raichu(440) is drowning!!
+			Raichu(410) hit Kingler(620) 50(/)
+			Kingler(570) is electrified!!!!
+			Kingler(440) hit Raichu(410) 60(+)
+			Raichu(350) is drowning!!
+			Raichu(320) hit Kingler(440) 50(/)
+			Kingler(390) is electrified!!!!
+			Kingler(260) hit Raichu(320) 60(+)
+			Raichu(260) is drowning!!
+			Raichu(230) hit Kingler(260) 50(/)
+			Kingler(210) is electrified!!!!
+			Kingler(80) hit Raichu(230) 60(+)
+			Raichu(170) is drowning!!
+			Raichu(140) hit Kingler(80) 50(/)
+			Kingler(30) is electrified!!!!
+		WinnerP:Raichu
+			Pikachu(500) hit Raichu(190) 70(/)
+			Raichu(120) is drowning!!
+			Raichu(93) hit Pikachu(500) 77(/)
+			Pikachu(423) hit Raichu(93) 70(/)
+			Raichu(23) is drowning!!
+		WinnerP:Pikachu
+			Pikachu(500) hit Pikachu(473) 70(/)
+			Pikachu(403) hit Pikachu(500) 77(/)
+			Pikachu(423) hit Pikachu(403) 70(/)
+			Pikachu(333) hit Pikachu(423) 77(/)
+			Pikachu(346) hit Pikachu(333) 70(/)
+			Pikachu(263) hit Pikachu(346) 77(/)
+			Pikachu(269) hit Pikachu(263) 70(/)
+			Pikachu(193) hit Pikachu(269) 77(/)
+			Pikachu(192) hit Pikachu(193) 70(/)
+			Pikachu(123) hit Pikachu(192) 77(/)
+			Pikachu(115) hit Pikachu(123) 70(/)
+			Pikachu(53) hit Pikachu(115) 77(/)
+			Pikachu(38) hit Pikachu(53) 70(/)
+		WinnerP:Pikachu
+			Venusaur(800) hit Pikachu(88) 40(/)
+			Pikachu(48) is rooted!!!!
+			Pikachu(1) hit Venusaur(800) 47(/)
+			Venusaur(753) is electrified!!
+			Venusaur(683) hit Pikachu(1) 40(/)
+		WinnerP:Venusaur
+			Articuno(550) hit Venusaur(763) 12(-)
+			Venusaur(751) is electrified!!
+			Venusaur(681) hit Articuno(550) 29(/)
+			Articuno(521) hit Venusaur(681) 12(-)
+			Venusaur(669) is electrified!!
+			Venusaur(599) hit Articuno(521) 29(/)
+			Articuno(492) hit Venusaur(599) 12(-)
+			Venusaur(587) is electrified!!
+			Venusaur(517) hit Articuno(492) 29(/)
+			Articuno(463) hit Venusaur(517) 12(-)
+			Venusaur(505) is electrified!!
+			Venusaur(435) hit Articuno(463) 29(/)
+			Articuno(434) hit Venusaur(435) 12(-)
+			Venusaur(423) is electrified!!
+			Venusaur(353) hit Articuno(434) 29(/)
+			Articuno(405) hit Venusaur(353) 12(-)
+			Venusaur(341) is electrified!!
+			Venusaur(271) hit Articuno(405) 29(/)
+			Articuno(376) hit Venusaur(271) 12(-)
+			Venusaur(259) is electrified!!
+			Venusaur(189) hit Articuno(376) 29(/)
+			Articuno(347) hit Venusaur(189) 12(-)
+			Venusaur(177) is electrified!!
+			Venusaur(107) hit Articuno(347) 29(/)
+			Articuno(318) hit Venusaur(107) 12(-)
+			Venusaur(95) is electrified!!
+			Venusaur(25) hit Articuno(318) 29(/)
+			Articuno(289) hit Venusaur(25) 12(-)
+			Venusaur(13) is electrified!!
+		WinnerP:Articuno
+	WinnerT:Tracey
+
+	Max vs Tracey: Magma
+			Kingler(700) hit Raichu(450) 50(/)
+			Raichu(400) is drowning!!
+			Raichu(373) hit Kingler(700) 47(-)
+			Kingler(653) is electrified!!!!
+			Kingler(523) hit Raichu(373) 50(/)
+			Raichu(323) is drowning!!
+			Raichu(296) hit Kingler(523) 47(-)
+			Kingler(476) is electrified!!!!
+			Kingler(346) hit Raichu(296) 50(/)
+			Raichu(246) is drowning!!
+			Raichu(219) hit Kingler(346) 47(-)
+			Kingler(299) is electrified!!!!
+			Kingler(169) hit Raichu(219) 50(/)
+			Raichu(169) is drowning!!
+			Raichu(142) hit Kingler(169) 47(-)
+			Kingler(122) is electrified!!!!
+		WinnerP:Raichu
+			Pikachu(450) hit Raichu(192) 67(-)
+			Raichu(125) is drowning!!
+			Raichu(101) hit Pikachu(450) 74(-)
+			Pikachu(376) hit Raichu(101) 67(-)
+			Raichu(34) is drowning!!
+			Raichu(10) hit Pikachu(376) 74(-)
+			Pikachu(302) hit Raichu(10) 67(-)
+		WinnerP:Pikachu
+			Pikachu(450) hit Pikachu(352) 67(-)
+			Pikachu(285) hit Pikachu(450) 74(-)
+			Pikachu(376) hit Pikachu(285) 67(-)
+			Pikachu(218) hit Pikachu(376) 74(-)
+			Pikachu(302) hit Pikachu(218) 67(-)
+			Pikachu(151) hit Pikachu(302) 74(-)
+			Pikachu(228) hit Pikachu(151) 67(-)
+			Pikachu(84) hit Pikachu(228) 74(-)
+			Pikachu(154) hit Pikachu(84) 67(-)
+			Pikachu(17) hit Pikachu(154) 74(-)
+			Pikachu(80) hit Pikachu(17) 67(-)
+		WinnerP:Pikachu
+			Venusaur(780) hit Pikachu(130) 34(-)
+			Pikachu(96) is rooted!!!!
+			Pikachu(52) hit Venusaur(780) 41(-)
+			Venusaur(739) is electrified!!
+			Venusaur(669) hit Pikachu(52) 34(-)
+			Pikachu(18) is rooted!!!!
+		WinnerP:Venusaur
+			Articuno(715) hit Venusaur(749) 24(/)
+			Venusaur(725) is electrified!!
+			Venusaur(655) hit Articuno(715) 20(-)
+			Articuno(695) hit Venusaur(655) 24(/)
+			Venusaur(631) is electrified!!
+			Venusaur(561) hit Articuno(695) 20(-)
+			Articuno(675) hit Venusaur(561) 24(/)
+			Venusaur(537) is electrified!!
+			Venusaur(467) hit Articuno(675) 20(-)
+			Articuno(655) hit Venusaur(467) 24(/)
+			Venusaur(443) is electrified!!
+			Venusaur(373) hit Articuno(655) 20(-)
+			Articuno(635) hit Venusaur(373) 24(/)
+			Venusaur(349) is electrified!!
+			Venusaur(279) hit Articuno(635) 20(-)
+			Articuno(615) hit Venusaur(279) 24(/)
+			Venusaur(255) is electrified!!
+			Venusaur(185) hit Articuno(615) 20(-)
+			Articuno(595) hit Venusaur(185) 24(/)
+			Venusaur(161) is electrified!!
+			Venusaur(91) hit Articuno(595) 20(-)
+			Articuno(575) hit Venusaur(91) 24(/)
+			Venusaur(67) is electrified!!
+		WinnerP:Articuno
+	WinnerT:Tracey
+
+	Tracey vs Max: Stadium
+			Raichu(600) hit Kingler(700) 64(/)
+			Kingler(636) is electrified!!!!
+			Kingler(506) hit Raichu(600) 50(/)
+			Raichu(550) is drowning!!
+			Raichu(526) hit Kingler(506) 64(/)
+			Kingler(442) is electrified!!!!
+			Kingler(312) hit Raichu(526) 50(/)
+			Raichu(476) is drowning!!
+			Raichu(452) hit Kingler(312) 64(/)
+			Kingler(248) is electrified!!!!
+			Kingler(118) hit Raichu(452) 50(/)
+			Raichu(402) is drowning!!
+			Raichu(378) hit Kingler(118) 64(/)
+			Kingler(54) is electrified!!!!
+		WinnerP:Raichu
+			Pikachu(600) hit Raichu(428) 84(/)
+			Raichu(344) is drowning!!
+			Raichu(323) hit Pikachu(600) 91(/)
+			Pikachu(509) hit Raichu(323) 84(/)
+			Raichu(239) is drowning!!
+			Raichu(218) hit Pikachu(509) 91(/)
+			Pikachu(418) hit Raichu(218) 84(/)
+			Raichu(134) is drowning!!
+			Raichu(113) hit Pikachu(418) 91(/)
+			Pikachu(327) hit Raichu(113) 84(/)
+			Raichu(29) is drowning!!
+			Raichu(8) hit Pikachu(327) 91(/)
+			Pikachu(236) hit Raichu(8) 84(/)
+		WinnerP:Pikachu
+			Pikachu(600) hit Pikachu(286) 84(/)
+			Pikachu(202) hit Pikachu(600) 91(/)
+			Pikachu(509) hit Pikachu(202) 84(/)
+			Pikachu(118) hit Pikachu(509) 91(/)
+			Pikachu(418) hit Pikachu(118) 84(/)
+			Pikachu(34) hit Pikachu(418) 91(/)
+			Pikachu(327) hit Pikachu(34) 84(/)
+		WinnerP:Pikachu
+			Venusaur(960) hit Pikachu(377) 48(/)
+			Pikachu(329) is rooted!!!!
+			Pikachu(288) hit Venusaur(960) 55(/)
+			Venusaur(905) is electrified!!
+			Venusaur(835) hit Pikachu(288) 48(/)
+			Pikachu(240) is rooted!!!!
+			Pikachu(199) hit Venusaur(835) 55(/)
+			Venusaur(780) is electrified!!
+			Venusaur(710) hit Pikachu(199) 48(/)
+			Pikachu(151) is rooted!!!!
+			Pikachu(110) hit Venusaur(710) 55(/)
+			Venusaur(655) is electrified!!
+			Venusaur(585) hit Pikachu(110) 48(/)
+			Pikachu(62) is rooted!!!!
+			Pikachu(21) hit Venusaur(585) 55(/)
+			Venusaur(530) is electrified!!
+			Venusaur(460) hit Pikachu(21) 48(/)
+		WinnerP:Venusaur
+			Articuno(780) hit Venusaur(540) 26(/)
+			Venusaur(514) is electrified!!
+			Venusaur(444) hit Articuno(780) 31(/)
+			Articuno(749) hit Venusaur(444) 26(/)
+			Venusaur(418) is electrified!!
+			Venusaur(348) hit Articuno(749) 31(/)
+			Articuno(718) hit Venusaur(348) 26(/)
+			Venusaur(322) is electrified!!
+			Venusaur(252) hit Articuno(718) 31(/)
+			Articuno(687) hit Venusaur(252) 26(/)
+			Venusaur(226) is electrified!!
+			Venusaur(156) hit Articuno(687) 31(/)
+			Articuno(656) hit Venusaur(156) 26(/)
+			Venusaur(130) is electrified!!
+			Venusaur(60) hit Articuno(656) 31(/)
+			Articuno(625) hit Venusaur(60) 26(/)
+			Venusaur(34) is electrified!!
+		WinnerP:Articuno
+	WinnerT:Tracey
+
+Round Winner: Tracey!
+Started Round: 5 vs 10
+	May vs Iris: Forest
+			Magmar(600) hit Electrode(400) 60(/)
+			Electrode(340) is burning!!
+			Electrode(320) hit Magmar(600) 50(-)
+			Magmar(550) is electrified!!
+			Magmar(500) hit Electrode(320) 60(/)
+			Electrode(260) is burning!!
+			Electrode(240) hit Magmar(500) 50(-)
+			Magmar(450) is electrified!!
+			Magmar(400) hit Electrode(240) 60(/)
+			Electrode(180) is burning!!
+			Electrode(160) hit Magmar(400) 50(-)
+			Magmar(350) is electrified!!
+			Magmar(300) hit Electrode(160) 60(/)
+			Electrode(100) is burning!!
+			Electrode(80) hit Magmar(300) 50(-)
+			Magmar(250) is electrified!!
+			Magmar(200) hit Electrode(80) 60(/)
+			Electrode(20) is burning!!
+		WinnerP:Magmar
+			Pidgeot(650) hit Magmar(260) 44(/)
+			Magmar(216) is electrified!!
+			Magmar(168) hit Pidgeot(650) 51(/)
+			Pidgeot(599) hit Magmar(168) 44(/)
+			Magmar(124) is electrified!!
+			Magmar(76) hit Pidgeot(599) 51(/)
+			Pidgeot(548) hit Magmar(76) 44(/)
+			Magmar(32) is electrified!!
+		WinnerP:Pidgeot
+			Seadra(600) hit Pidgeot(613) 22(-)
+			Pidgeot(591) hit Seadra(600) 40(/)
+			Seadra(560) hit Pidgeot(591) 22(-)
+			Pidgeot(569) hit Seadra(560) 40(/)
+			Seadra(520) hit Pidgeot(569) 22(-)
+			Pidgeot(547) hit Seadra(520) 40(/)
+			Seadra(480) hit Pidgeot(547) 22(-)
+			Pidgeot(525) hit Seadra(480) 40(/)
+			Seadra(440) hit Pidgeot(525) 22(-)
+			Pidgeot(503) hit Seadra(440) 40(/)
+			Seadra(400) hit Pidgeot(503) 22(-)
+			Pidgeot(481) hit Seadra(400) 40(/)
+			Seadra(360) hit Pidgeot(481) 22(-)
+			Pidgeot(459) hit Seadra(360) 40(/)
+			Seadra(320) hit Pidgeot(459) 22(-)
+			Pidgeot(437) hit Seadra(320) 40(/)
+			Seadra(280) hit Pidgeot(437) 22(-)
+			Pidgeot(415) hit Seadra(280) 40(/)
+			Seadra(240) hit Pidgeot(415) 22(-)
+			Pidgeot(393) hit Seadra(240) 40(/)
+			Seadra(200) hit Pidgeot(393) 22(-)
+			Pidgeot(371) hit Seadra(200) 40(/)
+			Seadra(160) hit Pidgeot(371) 22(-)
+			Pidgeot(349) hit Seadra(160) 40(/)
+			Seadra(120) hit Pidgeot(349) 22(-)
+			Pidgeot(327) hit Seadra(120) 40(/)
+			Seadra(80) hit Pidgeot(327) 22(-)
+			Pidgeot(305) hit Seadra(80) 40(/)
+			Seadra(40) hit Pidgeot(305) 22(-)
+			Pidgeot(283) hit Seadra(40) 40(/)
+		WinnerP:Pidgeot
+			Shellder(600) hit Pidgeot(348) 19(-)
+			Pidgeot(329) hit Shellder(600) 45(/)
+			Shellder(555) hit Pidgeot(329) 19(-)
+			Pidgeot(310) hit Shellder(555) 45(/)
+			Shellder(510) hit Pidgeot(310) 19(-)
+			Pidgeot(291) hit Shellder(510) 45(/)
+			Shellder(465) hit Pidgeot(291) 19(-)
+			Pidgeot(272) hit Shellder(465) 45(/)
+			Shellder(420) hit Pidgeot(272) 19(-)
+			Pidgeot(253) hit Shellder(420) 45(/)
+			Shellder(375) hit Pidgeot(253) 19(-)
+			Pidgeot(234) hit Shellder(375) 45(/)
+			Shellder(330) hit Pidgeot(234) 19(-)
+			Pidgeot(215) hit Shellder(330) 45(/)
+			Shellder(285) hit Pidgeot(215) 19(-)
+			Pidgeot(196) hit Shellder(285) 45(/)
+			Shellder(240) hit Pidgeot(196) 19(-)
+			Pidgeot(177) hit Shellder(240) 45(/)
+			Shellder(195) hit Pidgeot(177) 19(-)
+			Pidgeot(158) hit Shellder(195) 45(/)
+			Shellder(150) hit Pidgeot(158) 19(-)
+			Pidgeot(139) hit Shellder(150) 45(/)
+			Shellder(105) hit Pidgeot(139) 19(-)
+			Pidgeot(120) hit Shellder(105) 45(/)
+			Shellder(60) hit Pidgeot(120) 19(-)
+			Pidgeot(101) hit Shellder(60) 45(/)
+			Shellder(15) hit Pidgeot(101) 19(-)
+			Pidgeot(82) hit Shellder(15) 45(/)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+	Iris vs May: Sky
+			Electrode(500) hit Magmar(560) 59(/)
+			Magmar(501) is electrified!!
+			Magmar(453) hit Electrode(500) 56(-)
+			Electrode(444) is burning!!
+			Electrode(424) hit Magmar(453) 59(/)
+			Magmar(394) is electrified!!
+			Magmar(346) hit Electrode(424) 56(-)
+			Electrode(368) is burning!!
+			Electrode(348) hit Magmar(346) 59(/)
+			Magmar(287) is electrified!!
+			Magmar(239) hit Electrode(348) 56(-)
+			Electrode(292) is burning!!
+			Electrode(272) hit Magmar(239) 59(/)
+			Magmar(180) is electrified!!
+			Magmar(132) hit Electrode(272) 56(-)
+			Electrode(216) is burning!!
+			Electrode(196) hit Magmar(132) 59(/)
+			Magmar(73) is electrified!!
+			Magmar(25) hit Electrode(196) 56(-)
+			Electrode(140) is burning!!
+			Electrode(120) hit Magmar(25) 59(/)
+		WinnerP:Electrode
+			Seadra(700) hit Electrode(170) 50(/)
+			Electrode(120) is burning!!
+			Electrode(103) is drowning!!
+			Electrode(76) hit Seadra(700) 57(/)
+			Seadra(643) is electrified!!!!
+			Seadra(513) hit Electrode(76) 50(/)
+			Electrode(26) is burning!!
+			Electrode(9) is drowning!!
+		WinnerP:Seadra
+			Pidgeot(945) hit Seadra(583) 58(+)
+			Seadra(525) is electrified!!!!
+			Seadra(396) hit Pidgeot(945) 31(/)
+			Pidgeot(914) hit Seadra(396) 58(+)
+			Seadra(338) is electrified!!!!
+			Seadra(209) hit Pidgeot(914) 31(/)
+			Pidgeot(883) hit Seadra(209) 58(+)
+			Seadra(151) is electrified!!!!
+			Seadra(22) hit Pidgeot(883) 31(/)
+			Pidgeot(852) hit Seadra(22) 58(+)
+		WinnerP:Pidgeot
+			Shellder(700) hit Pidgeot(917) 23(/)
+			Pidgeot(894) hit Shellder(700) 65(+)
+			Shellder(635) hit Pidgeot(894) 23(/)
+			Pidgeot(871) hit Shellder(635) 65(+)
+			Shellder(570) hit Pidgeot(871) 23(/)
+			Pidgeot(848) hit Shellder(570) 65(+)
+			Shellder(505) hit Pidgeot(848) 23(/)
+			Pidgeot(825) hit Shellder(505) 65(+)
+			Shellder(440) hit Pidgeot(825) 23(/)
+			Pidgeot(802) hit Shellder(440) 65(+)
+			Shellder(375) hit Pidgeot(802) 23(/)
+			Pidgeot(779) hit Shellder(375) 65(+)
+			Shellder(310) hit Pidgeot(779) 23(/)
+			Pidgeot(756) hit Shellder(310) 65(+)
+			Shellder(245) hit Pidgeot(756) 23(/)
+			Pidgeot(733) hit Shellder(245) 65(+)
+			Shellder(180) hit Pidgeot(733) 23(/)
+			Pidgeot(710) hit Shellder(180) 65(+)
+			Shellder(115) hit Pidgeot(710) 23(/)
+			Pidgeot(687) hit Shellder(115) 65(+)
+			Shellder(50) hit Pidgeot(687) 23(/)
+			Pidgeot(664) hit Shellder(50) 65(+)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+	May vs Iris: Stadium
+			Magmar(660) hit Electrode(550) 66(/)
+			Electrode(484) is burning!!
+			Electrode(467) hit Magmar(660) 66(/)
+			Magmar(594) is electrified!!
+			Magmar(546) hit Electrode(467) 66(/)
+			Electrode(401) is burning!!
+			Electrode(384) hit Magmar(546) 66(/)
+			Magmar(480) is electrified!!
+			Magmar(432) hit Electrode(384) 66(/)
+			Electrode(318) is burning!!
+			Electrode(301) hit Magmar(432) 66(/)
+			Magmar(366) is electrified!!
+			Magmar(318) hit Electrode(301) 66(/)
+			Electrode(235) is burning!!
+			Electrode(218) hit Magmar(318) 66(/)
+			Magmar(252) is electrified!!
+			Magmar(204) hit Electrode(218) 66(/)
+			Electrode(152) is burning!!
+			Electrode(135) hit Magmar(204) 66(/)
+			Magmar(138) is electrified!!
+			Magmar(90) hit Electrode(135) 66(/)
+			Electrode(69) is burning!!
+			Electrode(52) hit Magmar(90) 66(/)
+			Magmar(24) is electrified!!
+		WinnerP:Electrode
+			Seadra(770) hit Electrode(102) 55(/)
+			Electrode(47) is burning!!
+			Electrode(33) is drowning!!
+			Electrode(9) hit Seadra(770) 62(/)
+			Seadra(708) is electrified!!!!
+			Seadra(579) hit Electrode(9) 55(/)
+		WinnerP:Seadra
+			Pidgeot(975) hit Seadra(649) 56(/)
+			Seadra(593) is electrified!!!!
+			Seadra(465) hit Pidgeot(975) 30(/)
+			Pidgeot(945) hit Seadra(465) 56(/)
+			Seadra(409) is electrified!!!!
+			Seadra(281) hit Pidgeot(945) 30(/)
+			Pidgeot(915) hit Seadra(281) 56(/)
+			Seadra(225) is electrified!!!!
+			Seadra(97) hit Pidgeot(915) 30(/)
+			Pidgeot(885) hit Seadra(97) 56(/)
+			Seadra(41) is electrified!!!!
+		WinnerP:Pidgeot
+			Shellder(700) hit Pidgeot(950) 17(/)
+			Pidgeot(933) hit Shellder(700) 65(/)
+			Shellder(635) hit Pidgeot(933) 17(/)
+			Pidgeot(916) hit Shellder(635) 65(/)
+			Shellder(570) hit Pidgeot(916) 17(/)
+			Pidgeot(899) hit Shellder(570) 65(/)
+			Shellder(505) hit Pidgeot(899) 17(/)
+			Pidgeot(882) hit Shellder(505) 65(/)
+			Shellder(440) hit Pidgeot(882) 17(/)
+			Pidgeot(865) hit Shellder(440) 65(/)
+			Shellder(375) hit Pidgeot(865) 17(/)
+			Pidgeot(848) hit Shellder(375) 65(/)
+			Shellder(310) hit Pidgeot(848) 17(/)
+			Pidgeot(831) hit Shellder(310) 65(/)
+			Shellder(245) hit Pidgeot(831) 17(/)
+			Pidgeot(814) hit Shellder(245) 65(/)
+			Shellder(180) hit Pidgeot(814) 17(/)
+			Pidgeot(797) hit Shellder(180) 65(/)
+			Shellder(115) hit Pidgeot(797) 17(/)
+			Pidgeot(780) hit Shellder(115) 65(/)
+			Shellder(50) hit Pidgeot(780) 17(/)
+			Pidgeot(763) hit Shellder(50) 65(/)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+Round Winner: Iris!
+Started Round: 6 vs 9
+	Misty vs Bonnie: Magma
+			Voltorb(400) hit Weepinbell(700) 30(-)
+			Weepinbell(670) is electrified!!
+			Weepinbell(600) hit Voltorb(400) 30(-)
+			Voltorb(370) is rooted!!!!
+			Voltorb(320) hit Weepinbell(600) 30(-)
+			Weepinbell(570) is electrified!!
+			Weepinbell(500) hit Voltorb(320) 30(-)
+			Voltorb(290) is rooted!!!!
+			Voltorb(240) hit Weepinbell(500) 30(-)
+			Weepinbell(470) is electrified!!
+			Weepinbell(400) hit Voltorb(240) 30(-)
+			Voltorb(210) is rooted!!!!
+			Voltorb(160) hit Weepinbell(400) 30(-)
+			Weepinbell(370) is electrified!!
+			Weepinbell(300) hit Voltorb(160) 30(-)
+			Voltorb(130) is rooted!!!!
+			Voltorb(80) hit Weepinbell(300) 30(-)
+			Weepinbell(270) is electrified!!
+			Weepinbell(200) hit Voltorb(80) 30(-)
+			Voltorb(50) is rooted!!!!
+		WinnerP:Weepinbell
+			Oddish(700) hit Weepinbell(280) 1(-)
+			Weepinbell(279) is electrified!!
+			Weepinbell(209) hit Oddish(700) 4(-)
+			Oddish(696) hit Weepinbell(209) 1(-)
+			Weepinbell(208) is electrified!!
+			Weepinbell(138) hit Oddish(696) 4(-)
+			Oddish(692) hit Weepinbell(138) 1(-)
+			Weepinbell(137) is electrified!!
+			Weepinbell(67) hit Oddish(692) 4(-)
+			Oddish(688) hit Weepinbell(67) 1(-)
+			Weepinbell(66) is electrified!!
+		WinnerP:Oddish
+			Psyduck(700) hit Oddish(768) 17(/)
+			Oddish(751) is drowning!!
+			Oddish(691) hit Psyduck(700) 14(-)
+			Psyduck(686) is rooted!!
+			Psyduck(656) hit Oddish(691) 17(/)
+			Oddish(674) is drowning!!
+			Oddish(614) hit Psyduck(656) 14(-)
+			Psyduck(642) is rooted!!
+			Psyduck(612) hit Oddish(614) 17(/)
+			Oddish(597) is drowning!!
+			Oddish(537) hit Psyduck(612) 14(-)
+			Psyduck(598) is rooted!!
+			Psyduck(568) hit Oddish(537) 17(/)
+			Oddish(520) is drowning!!
+			Oddish(460) hit Psyduck(568) 14(-)
+			Psyduck(554) is rooted!!
+			Psyduck(524) hit Oddish(460) 17(/)
+			Oddish(443) is drowning!!
+			Oddish(383) hit Psyduck(524) 14(-)
+			Psyduck(510) is rooted!!
+			Psyduck(480) hit Oddish(383) 17(/)
+			Oddish(366) is drowning!!
+			Oddish(306) hit Psyduck(480) 14(-)
+			Psyduck(466) is rooted!!
+			Psyduck(436) hit Oddish(306) 17(/)
+			Oddish(289) is drowning!!
+			Oddish(229) hit Psyduck(436) 14(-)
+			Psyduck(422) is rooted!!
+			Psyduck(392) hit Oddish(229) 17(/)
+			Oddish(212) is drowning!!
+			Oddish(152) hit Psyduck(392) 14(-)
+			Psyduck(378) is rooted!!
+			Psyduck(348) hit Oddish(152) 17(/)
+			Oddish(135) is drowning!!
+			Oddish(75) hit Psyduck(348) 14(-)
+			Psyduck(334) is rooted!!
+			Psyduck(304) hit Oddish(75) 17(/)
+			Oddish(58) is drowning!!
+		WinnerP:Psyduck
+			Electrode(400) hit Psyduck(374) 38(-)
+			Psyduck(336) is electrified!!!!
+			Psyduck(207) is rooted!!
+			Psyduck(178) hit Electrode(400) 55(/)
+			Electrode(345) is drowning!!
+			Electrode(315) hit Psyduck(178) 38(-)
+			Psyduck(140) is electrified!!!!
+			Psyduck(11) is rooted!!
+		WinnerP:Electrode
+			Pidgey(650) hit Electrode(365) 55(/)
+			Electrode(310) is drowning!!
+			Electrode(283) hit Pidgey(650) 52(-)
+			Pidgey(598) hit Electrode(283) 55(/)
+			Electrode(228) is drowning!!
+			Electrode(201) hit Pidgey(598) 52(-)
+			Pidgey(546) hit Electrode(201) 55(/)
+			Electrode(146) is drowning!!
+			Electrode(119) hit Pidgey(546) 52(-)
+			Pidgey(494) hit Electrode(119) 55(/)
+			Electrode(64) is drowning!!
+			Electrode(37) hit Pidgey(494) 52(-)
+			Pidgey(442) hit Electrode(37) 55(/)
+		WinnerP:Pidgey
+	WinnerT:Bonnie
+
+	Bonnie vs Misty: Magma
+			Weepinbell(780) hit Voltorb(400) 34(-)
+			Voltorb(366) is rooted!!!!
+			Voltorb(316) hit Weepinbell(780) 27(-)
+			Weepinbell(753) is electrified!!
+			Weepinbell(683) hit Voltorb(316) 34(-)
+			Voltorb(282) is rooted!!!!
+			Voltorb(232) hit Weepinbell(683) 27(-)
+			Weepinbell(656) is electrified!!
+			Weepinbell(586) hit Voltorb(232) 34(-)
+			Voltorb(198) is rooted!!!!
+			Voltorb(148) hit Weepinbell(586) 27(-)
+			Weepinbell(559) is electrified!!
+			Weepinbell(489) hit Voltorb(148) 34(-)
+			Voltorb(114) is rooted!!!!
+			Voltorb(64) hit Weepinbell(489) 27(-)
+			Weepinbell(462) is electrified!!
+			Weepinbell(392) hit Voltorb(64) 34(-)
+			Voltorb(30) is rooted!!!!
+		WinnerP:Weepinbell
+			Oddish(780) hit Weepinbell(472) 1(-)
+			Weepinbell(471) is electrified!!
+			Weepinbell(401) hit Oddish(780) 5(-)
+			Oddish(775) hit Weepinbell(401) 1(-)
+			Weepinbell(400) is electrified!!
+			Weepinbell(330) hit Oddish(775) 5(-)
+			Oddish(770) hit Weepinbell(330) 1(-)
+			Weepinbell(329) is electrified!!
+			Weepinbell(259) hit Oddish(770) 5(-)
+			Oddish(765) hit Weepinbell(259) 1(-)
+			Weepinbell(258) is electrified!!
+			Weepinbell(188) hit Oddish(765) 5(-)
+			Oddish(760) hit Weepinbell(188) 1(-)
+			Weepinbell(187) is electrified!!
+			Weepinbell(117) hit Oddish(760) 5(-)
+			Oddish(755) hit Weepinbell(117) 1(-)
+			Weepinbell(116) is electrified!!
+			Weepinbell(46) hit Oddish(755) 5(-)
+			Oddish(750) hit Weepinbell(46) 1(-)
+			Weepinbell(45) is electrified!!
+		WinnerP:Oddish
+			Psyduck(770) hit Oddish(830) 19(/)
+			Oddish(811) is drowning!!
+			Oddish(751) hit Psyduck(770) 16(-)
+			Psyduck(754) is rooted!!
+			Psyduck(725) hit Oddish(751) 19(/)
+			Oddish(732) is drowning!!
+			Oddish(672) hit Psyduck(725) 16(-)
+			Psyduck(709) is rooted!!
+			Psyduck(680) hit Oddish(672) 19(/)
+			Oddish(653) is drowning!!
+			Oddish(593) hit Psyduck(680) 16(-)
+			Psyduck(664) is rooted!!
+			Psyduck(635) hit Oddish(593) 19(/)
+			Oddish(574) is drowning!!
+			Oddish(514) hit Psyduck(635) 16(-)
+			Psyduck(619) is rooted!!
+			Psyduck(590) hit Oddish(514) 19(/)
+			Oddish(495) is drowning!!
+			Oddish(435) hit Psyduck(590) 16(-)
+			Psyduck(574) is rooted!!
+			Psyduck(545) hit Oddish(435) 19(/)
+			Oddish(416) is drowning!!
+			Oddish(356) hit Psyduck(545) 16(-)
+			Psyduck(529) is rooted!!
+			Psyduck(500) hit Oddish(356) 19(/)
+			Oddish(337) is drowning!!
+			Oddish(277) hit Psyduck(500) 16(-)
+			Psyduck(484) is rooted!!
+			Psyduck(455) hit Oddish(277) 19(/)
+			Oddish(258) is drowning!!
+			Oddish(198) hit Psyduck(455) 16(-)
+			Psyduck(439) is rooted!!
+			Psyduck(410) hit Oddish(198) 19(/)
+			Oddish(179) is drowning!!
+			Oddish(119) hit Psyduck(410) 16(-)
+			Psyduck(394) is rooted!!
+			Psyduck(365) hit Oddish(119) 19(/)
+			Oddish(100) is drowning!!
+			Oddish(40) hit Psyduck(365) 16(-)
+			Psyduck(349) is rooted!!
+			Psyduck(320) hit Oddish(40) 19(/)
+			Oddish(21) is drowning!!
+		WinnerP:Psyduck
+			Electrode(450) hit Psyduck(390) 43(-)
+			Psyduck(347) is electrified!!!!
+			Psyduck(219) is rooted!!
+			Psyduck(191) hit Electrode(450) 60(/)
+			Electrode(390) is drowning!!
+			Electrode(363) hit Psyduck(191) 43(-)
+			Psyduck(148) is electrified!!!!
+			Psyduck(20) is rooted!!
+		WinnerP:Electrode
+			Pidgey(715) hit Electrode(413) 60(/)
+			Electrode(353) is drowning!!
+			Electrode(329) hit Pidgey(715) 56(-)
+			Pidgey(659) hit Electrode(329) 60(/)
+			Electrode(269) is drowning!!
+			Electrode(245) hit Pidgey(659) 56(-)
+			Pidgey(603) hit Electrode(245) 60(/)
+			Electrode(185) is drowning!!
+			Electrode(161) hit Pidgey(603) 56(-)
+			Pidgey(547) hit Electrode(161) 60(/)
+			Electrode(101) is drowning!!
+			Electrode(77) hit Pidgey(547) 56(-)
+			Pidgey(491) hit Electrode(77) 60(/)
+			Electrode(17) is drowning!!
+		WinnerP:Pidgey
+	WinnerT:Bonnie
+
+	Misty vs Bonnie: Stadium
+			Voltorb(500) hit Weepinbell(960) 34(/)
+			Weepinbell(926) is electrified!!
+			Weepinbell(856) hit Voltorb(500) 48(/)
+			Voltorb(452) is rooted!!!!
+			Voltorb(402) hit Weepinbell(856) 34(/)
+			Weepinbell(822) is electrified!!
+			Weepinbell(752) hit Voltorb(402) 48(/)
+			Voltorb(354) is rooted!!!!
+			Voltorb(304) hit Weepinbell(752) 34(/)
+			Weepinbell(718) is electrified!!
+			Weepinbell(648) hit Voltorb(304) 48(/)
+			Voltorb(256) is rooted!!!!
+			Voltorb(206) hit Weepinbell(648) 34(/)
+			Weepinbell(614) is electrified!!
+			Weepinbell(544) hit Voltorb(206) 48(/)
+			Voltorb(158) is rooted!!!!
+			Voltorb(108) hit Weepinbell(544) 34(/)
+			Weepinbell(510) is electrified!!
+			Weepinbell(440) hit Voltorb(108) 48(/)
+			Voltorb(60) is rooted!!!!
+			Voltorb(10) hit Weepinbell(440) 34(/)
+			Weepinbell(406) is electrified!!
+			Weepinbell(336) hit Voltorb(10) 48(/)
+		WinnerP:Weepinbell
+			Oddish(960) hit Weepinbell(416) 9(/)
+			Weepinbell(407) is electrified!!
+			Weepinbell(337) hit Oddish(960) 16(/)
+			Oddish(944) hit Weepinbell(337) 9(/)
+			Weepinbell(328) is electrified!!
+			Weepinbell(258) hit Oddish(944) 16(/)
+			Oddish(928) hit Weepinbell(258) 9(/)
+			Weepinbell(249) is electrified!!
+			Weepinbell(179) hit Oddish(928) 16(/)
+			Oddish(912) hit Weepinbell(179) 9(/)
+			Weepinbell(170) is electrified!!
+			Weepinbell(100) hit Oddish(912) 16(/)
+			Oddish(896) hit Weepinbell(100) 9(/)
+			Weepinbell(91) is electrified!!
+			Weepinbell(21) hit Oddish(896) 16(/)
+			Oddish(880) hit Weepinbell(21) 9(/)
+			Weepinbell(12) is electrified!!
+		WinnerP:Oddish
+			Psyduck(840) hit Oddish(960) 21(/)
+			Oddish(939) is drowning!!
+			Oddish(879) hit Psyduck(840) 28(/)
+			Psyduck(812) is rooted!!
+			Psyduck(784) hit Oddish(879) 21(/)
+			Oddish(858) is drowning!!
+			Oddish(798) hit Psyduck(784) 28(/)
+			Psyduck(756) is rooted!!
+			Psyduck(728) hit Oddish(798) 21(/)
+			Oddish(777) is drowning!!
+			Oddish(717) hit Psyduck(728) 28(/)
+			Psyduck(700) is rooted!!
+			Psyduck(672) hit Oddish(717) 21(/)
+			Oddish(696) is drowning!!
+			Oddish(636) hit Psyduck(672) 28(/)
+			Psyduck(644) is rooted!!
+			Psyduck(616) hit Oddish(636) 21(/)
+			Oddish(615) is drowning!!
+			Oddish(555) hit Psyduck(616) 28(/)
+			Psyduck(588) is rooted!!
+			Psyduck(560) hit Oddish(555) 21(/)
+			Oddish(534) is drowning!!
+			Oddish(474) hit Psyduck(560) 28(/)
+			Psyduck(532) is rooted!!
+			Psyduck(504) hit Oddish(474) 21(/)
+			Oddish(453) is drowning!!
+			Oddish(393) hit Psyduck(504) 28(/)
+			Psyduck(476) is rooted!!
+			Psyduck(448) hit Oddish(393) 21(/)
+			Oddish(372) is drowning!!
+			Oddish(312) hit Psyduck(448) 28(/)
+			Psyduck(420) is rooted!!
+			Psyduck(392) hit Oddish(312) 21(/)
+			Oddish(291) is drowning!!
+			Oddish(231) hit Psyduck(392) 28(/)
+			Psyduck(364) is rooted!!
+			Psyduck(336) hit Oddish(231) 21(/)
+			Oddish(210) is drowning!!
+			Oddish(150) hit Psyduck(336) 28(/)
+			Psyduck(308) is rooted!!
+			Psyduck(280) hit Oddish(150) 21(/)
+			Oddish(129) is drowning!!
+			Oddish(69) hit Psyduck(280) 28(/)
+			Psyduck(252) is rooted!!
+			Psyduck(224) hit Oddish(69) 21(/)
+			Oddish(48) is drowning!!
+		WinnerP:Psyduck
+			Electrode(600) hit Psyduck(294) 58(/)
+			Psyduck(236) is electrified!!!!
+			Psyduck(109) is rooted!!
+			Psyduck(82) hit Electrode(600) 65(/)
+			Electrode(535) is drowning!!
+			Electrode(511) hit Psyduck(82) 58(/)
+			Psyduck(24) is electrified!!!!
+		WinnerP:Electrode
+			Pidgey(780) hit Electrode(561) 65(/)
+			Electrode(496) is drowning!!
+			Electrode(475) hit Pidgey(780) 70(/)
+			Pidgey(710) hit Electrode(475) 65(/)
+			Electrode(410) is drowning!!
+			Electrode(389) hit Pidgey(710) 70(/)
+			Pidgey(640) hit Electrode(389) 65(/)
+			Electrode(324) is drowning!!
+			Electrode(303) hit Pidgey(640) 70(/)
+			Pidgey(570) hit Electrode(303) 65(/)
+			Electrode(238) is drowning!!
+			Electrode(217) hit Pidgey(570) 70(/)
+			Pidgey(500) hit Electrode(217) 65(/)
+			Electrode(152) is drowning!!
+			Electrode(131) hit Pidgey(500) 70(/)
+			Pidgey(430) hit Electrode(131) 65(/)
+			Electrode(66) is drowning!!
+			Electrode(45) hit Pidgey(430) 70(/)
+			Pidgey(360) hit Electrode(45) 65(/)
+		WinnerP:Pidgey
+	WinnerT:Bonnie
+
+Round Winner: Bonnie!
+Started Round: 7 vs 8
+	Misty vs Ash: Ocean
+			Voltorb(500) hit Gloom(800) 40(/)
+			Gloom(760) is electrified!!
+			Gloom(690) hit Voltorb(500) 40(/)
+			Voltorb(460) is rooted!!!!
+			Voltorb(410) hit Gloom(690) 40(/)
+			Gloom(650) is electrified!!
+			Gloom(580) hit Voltorb(410) 40(/)
+			Voltorb(370) is rooted!!!!
+			Voltorb(320) hit Gloom(580) 40(/)
+			Gloom(540) is electrified!!
+			Gloom(470) hit Voltorb(320) 40(/)
+			Voltorb(280) is rooted!!!!
+			Voltorb(230) hit Gloom(470) 40(/)
+			Gloom(430) is electrified!!
+			Gloom(360) hit Voltorb(230) 40(/)
+			Voltorb(190) is rooted!!!!
+			Voltorb(140) hit Gloom(360) 40(/)
+			Gloom(320) is electrified!!
+			Gloom(250) hit Voltorb(140) 40(/)
+			Voltorb(100) is rooted!!!!
+			Voltorb(50) hit Gloom(250) 40(/)
+			Gloom(210) is electrified!!
+			Gloom(140) hit Voltorb(50) 40(/)
+			Voltorb(10) is rooted!!!!
+		WinnerP:Gloom
+			Scyther(550) hit Gloom(220) 12(-)
+			Gloom(208) is electrified!!
+			Gloom(138) hit Scyther(550) 29(/)
+			Scyther(521) hit Gloom(138) 12(-)
+			Gloom(126) is electrified!!
+			Gloom(56) hit Scyther(521) 29(/)
+			Scyther(492) hit Gloom(56) 12(-)
+			Gloom(44) is electrified!!
+		WinnerP:Scyther
+			Pidgeot(550) hit Scyther(557) 27(-)
+			Scyther(530) hit Pidgeot(550) 35(-)
+			Pidgeot(515) hit Scyther(530) 27(-)
+			Scyther(503) hit Pidgeot(515) 35(-)
+			Pidgeot(480) hit Scyther(503) 27(-)
+			Scyther(476) hit Pidgeot(480) 35(-)
+			Pidgeot(445) hit Scyther(476) 27(-)
+			Scyther(449) hit Pidgeot(445) 35(-)
+			Pidgeot(410) hit Scyther(449) 27(-)
+			Scyther(422) hit Pidgeot(410) 35(-)
+			Pidgeot(375) hit Scyther(422) 27(-)
+			Scyther(395) hit Pidgeot(375) 35(-)
+			Pidgeot(340) hit Scyther(395) 27(-)
+			Scyther(368) hit Pidgeot(340) 35(-)
+			Pidgeot(305) hit Scyther(368) 27(-)
+			Scyther(341) hit Pidgeot(305) 35(-)
+			Pidgeot(270) hit Scyther(341) 27(-)
+			Scyther(314) hit Pidgeot(270) 35(-)
+			Pidgeot(235) hit Scyther(314) 27(-)
+			Scyther(287) hit Pidgeot(235) 35(-)
+			Pidgeot(200) hit Scyther(287) 27(-)
+			Scyther(260) hit Pidgeot(200) 35(-)
+			Pidgeot(165) hit Scyther(260) 27(-)
+			Scyther(233) hit Pidgeot(165) 35(-)
+			Pidgeot(130) hit Scyther(233) 27(-)
+			Scyther(206) hit Pidgeot(130) 35(-)
+			Pidgeot(95) hit Scyther(206) 27(-)
+			Scyther(179) hit Pidgeot(95) 35(-)
+			Pidgeot(60) hit Scyther(179) 27(-)
+			Scyther(152) hit Pidgeot(60) 35(-)
+			Pidgeot(25) hit Scyther(152) 27(-)
+			Scyther(125) hit Pidgeot(25) 35(-)
+		WinnerP:Scyther
+			Jolteon(500) hit Scyther(190) 49(/)
+			Scyther(141) hit Jolteon(500) 55(-)
+			Jolteon(445) hit Scyther(141) 49(/)
+			Scyther(92) hit Jolteon(445) 55(-)
+			Jolteon(390) hit Scyther(92) 49(/)
+			Scyther(43) hit Jolteon(390) 55(-)
+			Jolteon(335) hit Scyther(43) 49(/)
+		WinnerP:Jolteon
+			Magnemite(500) hit Jolteon(385) 70(/)
+			Jolteon(315) hit Magnemite(500) 77(/)
+			Magnemite(423) hit Jolteon(315) 70(/)
+			Jolteon(245) hit Magnemite(423) 77(/)
+			Magnemite(346) hit Jolteon(245) 70(/)
+			Jolteon(175) hit Magnemite(346) 77(/)
+			Magnemite(269) hit Jolteon(175) 70(/)
+			Jolteon(105) hit Magnemite(269) 77(/)
+			Magnemite(192) hit Jolteon(105) 70(/)
+			Jolteon(35) hit Magnemite(192) 77(/)
+			Magnemite(115) hit Jolteon(35) 70(/)
+		WinnerP:Magnemite
+	WinnerT:Misty
+
+	Ash vs Misty: Magma
+			Gloom(780) hit Voltorb(400) 34(-)
+			Voltorb(366) is rooted!!!!
+			Voltorb(316) hit Gloom(780) 27(-)
+			Gloom(753) is electrified!!
+			Gloom(683) hit Voltorb(316) 34(-)
+			Voltorb(282) is rooted!!!!
+			Voltorb(232) hit Gloom(683) 27(-)
+			Gloom(656) is electrified!!
+			Gloom(586) hit Voltorb(232) 34(-)
+			Voltorb(198) is rooted!!!!
+			Voltorb(148) hit Gloom(586) 27(-)
+			Gloom(559) is electrified!!
+			Gloom(489) hit Voltorb(148) 34(-)
+			Voltorb(114) is rooted!!!!
+			Voltorb(64) hit Gloom(489) 27(-)
+			Gloom(462) is electrified!!
+			Gloom(392) hit Voltorb(64) 34(-)
+			Voltorb(30) is rooted!!!!
+		WinnerP:Gloom
+			Scyther(780) hit Gloom(472) 29(/)
+			Gloom(443) is electrified!!
+			Gloom(373) hit Scyther(780) 17(-)
+			Scyther(763) hit Gloom(373) 29(/)
+			Gloom(344) is electrified!!
+			Gloom(274) hit Scyther(763) 17(-)
+			Scyther(746) hit Gloom(274) 29(/)
+			Gloom(245) is electrified!!
+			Gloom(175) hit Scyther(746) 17(-)
+			Scyther(729) hit Gloom(175) 29(/)
+			Gloom(146) is electrified!!
+			Gloom(76) hit Scyther(729) 17(-)
+			Scyther(712) hit Gloom(76) 29(/)
+			Gloom(47) is electrified!!
+		WinnerP:Scyther
+			Pidgeot(650) hit Scyther(777) 31(/)
+			Scyther(746) hit Pidgeot(650) 55(/)
+			Pidgeot(595) hit Scyther(746) 31(/)
+			Scyther(715) hit Pidgeot(595) 55(/)
+			Pidgeot(540) hit Scyther(715) 31(/)
+			Scyther(684) hit Pidgeot(540) 55(/)
+			Pidgeot(485) hit Scyther(684) 31(/)
+			Scyther(653) hit Pidgeot(485) 55(/)
+			Pidgeot(430) hit Scyther(653) 31(/)
+			Scyther(622) hit Pidgeot(430) 55(/)
+			Pidgeot(375) hit Scyther(622) 31(/)
+			Scyther(591) hit Pidgeot(375) 55(/)
+			Pidgeot(320) hit Scyther(591) 31(/)
+			Scyther(560) hit Pidgeot(320) 55(/)
+			Pidgeot(265) hit Scyther(560) 31(/)
+			Scyther(529) hit Pidgeot(265) 55(/)
+			Pidgeot(210) hit Scyther(529) 31(/)
+			Scyther(498) hit Pidgeot(210) 55(/)
+			Pidgeot(155) hit Scyther(498) 31(/)
+			Scyther(467) hit Pidgeot(155) 55(/)
+			Pidgeot(100) hit Scyther(467) 31(/)
+			Scyther(436) hit Pidgeot(100) 55(/)
+			Pidgeot(45) hit Scyther(436) 31(/)
+			Scyther(405) hit Pidgeot(45) 55(/)
+		WinnerP:Scyther
+			Jolteon(450) hit Scyther(470) 40(-)
+			Scyther(430) hit Jolteon(450) 75(/)
+			Jolteon(375) hit Scyther(430) 40(-)
+			Scyther(390) hit Jolteon(375) 75(/)
+			Jolteon(300) hit Scyther(390) 40(-)
+			Scyther(350) hit Jolteon(300) 75(/)
+			Jolteon(225) hit Scyther(350) 40(-)
+			Scyther(310) hit Jolteon(225) 75(/)
+			Jolteon(150) hit Scyther(310) 40(-)
+			Scyther(270) hit Jolteon(150) 75(/)
+			Jolteon(75) hit Scyther(270) 40(-)
+			Scyther(230) hit Jolteon(75) 75(/)
+		WinnerP:Scyther
+	WinnerT:Misty
+
+	Misty vs Ash: Stadium
+			Voltorb(500) hit Gloom(960) 34(/)
+			Gloom(926) is electrified!!
+			Gloom(856) hit Voltorb(500) 48(/)
+			Voltorb(452) is rooted!!!!
+			Voltorb(402) hit Gloom(856) 34(/)
+			Gloom(822) is electrified!!
+			Gloom(752) hit Voltorb(402) 48(/)
+			Voltorb(354) is rooted!!!!
+			Voltorb(304) hit Gloom(752) 34(/)
+			Gloom(718) is electrified!!
+			Gloom(648) hit Voltorb(304) 48(/)
+			Voltorb(256) is rooted!!!!
+			Voltorb(206) hit Gloom(648) 34(/)
+			Gloom(614) is electrified!!
+			Gloom(544) hit Voltorb(206) 48(/)
+			Voltorb(158) is rooted!!!!
+			Voltorb(108) hit Gloom(544) 34(/)
+			Gloom(510) is electrified!!
+			Gloom(440) hit Voltorb(108) 48(/)
+			Voltorb(60) is rooted!!!!
+			Voltorb(10) hit Gloom(440) 34(/)
+			Gloom(406) is electrified!!
+			Gloom(336) hit Voltorb(10) 48(/)
+		WinnerP:Gloom
+			Scyther(975) hit Gloom(416) 41(/)
+			Gloom(375) is electrified!!
+			Gloom(305) hit Scyther(975) 22(/)
+			Scyther(953) hit Gloom(305) 41(/)
+			Gloom(264) is electrified!!
+			Gloom(194) hit Scyther(953) 22(/)
+			Scyther(931) hit Gloom(194) 41(/)
+			Gloom(153) is electrified!!
+			Gloom(83) hit Scyther(931) 22(/)
+			Scyther(909) hit Gloom(83) 41(/)
+			Gloom(42) is electrified!!
+		WinnerP:Scyther
+			Pidgeot(650) hit Scyther(974) 22(/)
+			Scyther(952) hit Pidgeot(650) 70(/)
+			Pidgeot(580) hit Scyther(952) 22(/)
+			Scyther(930) hit Pidgeot(580) 70(/)
+			Pidgeot(510) hit Scyther(930) 22(/)
+			Scyther(908) hit Pidgeot(510) 70(/)
+			Pidgeot(440) hit Scyther(908) 22(/)
+			Scyther(886) hit Pidgeot(440) 70(/)
+			Pidgeot(370) hit Scyther(886) 22(/)
+			Scyther(864) hit Pidgeot(370) 70(/)
+			Pidgeot(300) hit Scyther(864) 22(/)
+			Scyther(842) hit Pidgeot(300) 70(/)
+			Pidgeot(230) hit Scyther(842) 22(/)
+			Scyther(820) hit Pidgeot(230) 70(/)
+			Pidgeot(160) hit Scyther(820) 22(/)
+			Scyther(798) hit Pidgeot(160) 70(/)
+			Pidgeot(90) hit Scyther(798) 22(/)
+			Scyther(776) hit Pidgeot(90) 70(/)
+			Pidgeot(20) hit Scyther(776) 22(/)
+			Scyther(754) hit Pidgeot(20) 70(/)
+		WinnerP:Scyther
+			Jolteon(550) hit Scyther(819) 41(/)
+			Scyther(778) hit Jolteon(550) 90(/)
+			Jolteon(460) hit Scyther(778) 41(/)
+			Scyther(737) hit Jolteon(460) 90(/)
+			Jolteon(370) hit Scyther(737) 41(/)
+			Scyther(696) hit Jolteon(370) 90(/)
+			Jolteon(280) hit Scyther(696) 41(/)
+			Scyther(655) hit Jolteon(280) 90(/)
+			Jolteon(190) hit Scyther(655) 41(/)
+			Scyther(614) hit Jolteon(190) 90(/)
+			Jolteon(100) hit Scyther(614) 41(/)
+			Scyther(573) hit Jolteon(100) 90(/)
+			Jolteon(10) hit Scyther(573) 41(/)
+			Scyther(532) hit Jolteon(10) 90(/)
+		WinnerP:Scyther
+	WinnerT:Misty
+
+Round Winner: Misty!
+Started Round: 0 vs 7
+	Gary vs Misty: ElectriCity
+			Dewgong(600) hit Voltorb(600) 40(-)
+			Voltorb(560) is drowning!!
+			Voltorb(530) hit Dewgong(600) 60(+)
+			Dewgong(540) is electrified!!!!
+			Dewgong(410) hit Voltorb(530) 40(-)
+			Voltorb(490) is drowning!!
+			Voltorb(460) hit Dewgong(410) 60(+)
+			Dewgong(350) is electrified!!!!
+			Dewgong(220) hit Voltorb(460) 40(-)
+			Voltorb(420) is drowning!!
+			Voltorb(390) hit Dewgong(220) 60(+)
+			Dewgong(160) is electrified!!!!
+			Dewgong(30) hit Voltorb(390) 40(-)
+			Voltorb(350) is drowning!!
+			Voltorb(320) hit Dewgong(30) 60(+)
+		WinnerP:Voltorb
+			Magnemite(900) hit Voltorb(370) 122(+)
+			Voltorb(248) is drowning!!
+			Voltorb(221) hit Magnemite(900) 87(+)
+			Magnemite(813) hit Voltorb(221) 122(+)
+			Voltorb(99) is drowning!!
+			Voltorb(72) hit Magnemite(813) 87(+)
+			Magnemite(726) hit Voltorb(72) 122(+)
+		WinnerP:Magnemite
+			Scyther(1070) hit Magnemite(776) 85(-)
+			Magnemite(691) hit Scyther(1070) 90(+)
+			Scyther(980) hit Magnemite(691) 85(-)
+			Magnemite(606) hit Scyther(980) 90(+)
+			Scyther(890) hit Magnemite(606) 85(-)
+			Magnemite(521) hit Scyther(890) 90(+)
+			Scyther(800) hit Magnemite(521) 85(-)
+			Magnemite(436) hit Scyther(800) 90(+)
+			Scyther(710) hit Magnemite(436) 85(-)
+			Magnemite(351) hit Scyther(710) 90(+)
+			Scyther(620) hit Magnemite(351) 85(-)
+			Magnemite(266) hit Scyther(620) 90(+)
+			Scyther(530) hit Magnemite(266) 85(-)
+			Magnemite(181) hit Scyther(530) 90(+)
+			Scyther(440) hit Magnemite(181) 85(-)
+			Magnemite(96) hit Scyther(440) 90(+)
+			Scyther(350) hit Magnemite(96) 85(-)
+			Magnemite(11) hit Scyther(350) 90(+)
+			Scyther(260) hit Magnemite(11) 85(-)
+		WinnerP:Scyther
+			Growlithe(780) hit Scyther(325) 36(/)
+			Scyther(289) hit Growlithe(780) 77(-)
+			Growlithe(703) hit Scyther(289) 36(/)
+			Scyther(253) hit Growlithe(703) 77(-)
+			Growlithe(626) hit Scyther(253) 36(/)
+			Scyther(217) hit Growlithe(626) 77(-)
+			Growlithe(549) hit Scyther(217) 36(/)
+			Scyther(181) hit Growlithe(549) 77(-)
+			Growlithe(472) hit Scyther(181) 36(/)
+			Scyther(145) hit Growlithe(472) 77(-)
+			Growlithe(395) hit Scyther(145) 36(/)
+			Scyther(109) hit Growlithe(395) 77(-)
+			Growlithe(318) hit Scyther(109) 36(/)
+			Scyther(73) hit Growlithe(318) 77(-)
+			Growlithe(241) hit Scyther(73) 36(/)
+			Scyther(37) hit Growlithe(241) 77(-)
+			Growlithe(164) hit Scyther(37) 36(/)
+			Scyther(1) hit Growlithe(164) 77(-)
+			Growlithe(87) hit Scyther(1) 36(/)
+		WinnerP:Growlithe
+			Magnemite(650) hit Growlithe(147) 73(+)
+			Growlithe(74) is electrified!!
+			Growlithe(32) hit Magnemite(650) 84(/)
+			Magnemite(566) is burning!!
+			Magnemite(549) hit Growlithe(32) 73(+)
+		WinnerP:Magnemite
+	WinnerT:Misty
+
+	Misty vs Gary: Ocean
+			Voltorb(550) hit Dewgong(800) 57(/)
+			Dewgong(743) is electrified!!!!
+			Dewgong(613) hit Voltorb(550) 60(+)
+			Voltorb(490) is drowning!!
+			Voltorb(463) hit Dewgong(613) 57(/)
+			Dewgong(556) is electrified!!!!
+			Dewgong(426) hit Voltorb(463) 60(+)
+			Voltorb(403) is drowning!!
+			Voltorb(376) hit Dewgong(426) 57(/)
+			Dewgong(369) is electrified!!!!
+			Dewgong(239) hit Voltorb(376) 60(+)
+			Voltorb(316) is drowning!!
+			Voltorb(289) hit Dewgong(239) 57(/)
+			Dewgong(182) is electrified!!!!
+			Dewgong(52) hit Voltorb(289) 60(+)
+			Voltorb(229) is drowning!!
+			Voltorb(202) hit Dewgong(52) 57(/)
+		WinnerP:Voltorb
+			Magnemite(850) hit Voltorb(252) 119(/)
+			Voltorb(133) is drowning!!
+			Voltorb(109) hit Magnemite(850) 84(/)
+			Magnemite(766) hit Voltorb(109) 119(/)
+		WinnerP:Magnemite
+			Scyther(1135) hit Magnemite(816) 90(-)
+			Magnemite(726) hit Scyther(1135) 84(/)
+			Scyther(1051) hit Magnemite(726) 90(-)
+			Magnemite(636) hit Scyther(1051) 84(/)
+			Scyther(967) hit Magnemite(636) 90(-)
+			Magnemite(546) hit Scyther(967) 84(/)
+			Scyther(883) hit Magnemite(546) 90(-)
+			Magnemite(456) hit Scyther(883) 84(/)
+			Scyther(799) hit Magnemite(456) 90(-)
+			Magnemite(366) hit Scyther(799) 84(/)
+			Scyther(715) hit Magnemite(366) 90(-)
+			Magnemite(276) hit Scyther(715) 84(/)
+			Scyther(631) hit Magnemite(276) 90(-)
+			Magnemite(186) hit Scyther(631) 84(/)
+			Scyther(547) hit Magnemite(186) 90(-)
+			Magnemite(96) hit Scyther(547) 84(/)
+			Scyther(463) hit Magnemite(96) 90(-)
+			Magnemite(6) hit Scyther(463) 84(/)
+			Scyther(379) hit Magnemite(6) 90(-)
+		WinnerP:Scyther
+			Growlithe(740) hit Scyther(444) 29(-)
+			Scyther(415) hit Growlithe(740) 81(-)
+			Growlithe(659) hit Scyther(415) 29(-)
+			Scyther(386) hit Growlithe(659) 81(-)
+			Growlithe(578) hit Scyther(386) 29(-)
+			Scyther(357) hit Growlithe(578) 81(-)
+			Growlithe(497) hit Scyther(357) 29(-)
+			Scyther(328) hit Growlithe(497) 81(-)
+			Growlithe(416) hit Scyther(328) 29(-)
+			Scyther(299) hit Growlithe(416) 81(-)
+			Growlithe(335) hit Scyther(299) 29(-)
+			Scyther(270) hit Growlithe(335) 81(-)
+			Growlithe(254) hit Scyther(270) 29(-)
+			Scyther(241) hit Growlithe(254) 81(-)
+			Growlithe(173) hit Scyther(241) 29(-)
+			Scyther(212) hit Growlithe(173) 81(-)
+			Growlithe(92) hit Scyther(212) 29(-)
+			Scyther(183) hit Growlithe(92) 81(-)
+			Growlithe(11) hit Scyther(183) 29(-)
+			Scyther(154) hit Growlithe(11) 81(-)
+		WinnerP:Scyther
+	WinnerT:Misty
+
+	Gary vs Misty: Stadium
+			Dewgong(700) hit Voltorb(600) 50(/)
+			Voltorb(550) is drowning!!
+			Voltorb(526) hit Dewgong(700) 64(/)
+			Dewgong(636) is electrified!!!!
+			Dewgong(506) hit Voltorb(526) 50(/)
+			Voltorb(476) is drowning!!
+			Voltorb(452) hit Dewgong(506) 64(/)
+			Dewgong(442) is electrified!!!!
+			Dewgong(312) hit Voltorb(452) 50(/)
+			Voltorb(402) is drowning!!
+			Voltorb(378) hit Dewgong(312) 64(/)
+			Dewgong(248) is electrified!!!!
+			Dewgong(118) hit Voltorb(378) 50(/)
+			Voltorb(328) is drowning!!
+			Voltorb(304) hit Dewgong(118) 64(/)
+			Dewgong(54) is electrified!!!!
+		WinnerP:Voltorb
+			Magnemite(900) hit Voltorb(354) 126(/)
+			Voltorb(228) is drowning!!
+			Voltorb(207) hit Magnemite(900) 91(/)
+			Magnemite(809) hit Voltorb(207) 126(/)
+			Voltorb(81) is drowning!!
+			Voltorb(60) hit Magnemite(809) 91(/)
+			Magnemite(718) hit Voltorb(60) 126(/)
+		WinnerP:Magnemite
+			Scyther(1365) hit Magnemite(768) 110(/)
+			Magnemite(658) hit Scyther(1365) 85(/)
+			Scyther(1280) hit Magnemite(658) 110(/)
+			Magnemite(548) hit Scyther(1280) 85(/)
+			Scyther(1195) hit Magnemite(548) 110(/)
+			Magnemite(438) hit Scyther(1195) 85(/)
+			Scyther(1110) hit Magnemite(438) 110(/)
+			Magnemite(328) hit Scyther(1110) 85(/)
+			Scyther(1025) hit Magnemite(328) 110(/)
+			Magnemite(218) hit Scyther(1025) 85(/)
+			Scyther(940) hit Magnemite(218) 110(/)
+			Magnemite(108) hit Scyther(940) 85(/)
+			Scyther(855) hit Magnemite(108) 110(/)
+		WinnerP:Scyther
+			Growlithe(840) hit Scyther(920) 33(/)
+			Scyther(887) hit Growlithe(840) 101(/)
+			Growlithe(739) hit Scyther(887) 33(/)
+			Scyther(854) hit Growlithe(739) 101(/)
+			Growlithe(638) hit Scyther(854) 33(/)
+			Scyther(821) hit Growlithe(638) 101(/)
+			Growlithe(537) hit Scyther(821) 33(/)
+			Scyther(788) hit Growlithe(537) 101(/)
+			Growlithe(436) hit Scyther(788) 33(/)
+			Scyther(755) hit Growlithe(436) 101(/)
+			Growlithe(335) hit Scyther(755) 33(/)
+			Scyther(722) hit Growlithe(335) 101(/)
+			Growlithe(234) hit Scyther(722) 33(/)
+			Scyther(689) hit Growlithe(234) 101(/)
+			Growlithe(133) hit Scyther(689) 33(/)
+			Scyther(656) hit Growlithe(133) 101(/)
+			Growlithe(32) hit Scyther(656) 33(/)
+			Scyther(623) hit Growlithe(32) 101(/)
+		WinnerP:Scyther
+	WinnerT:Misty
+
+Round Winner: Misty!
+Started Round: 1 vs 6
+	James vs Bonnie: Ocean
+			Electabuzz(650) hit Weepinbell(1040) 52(/)
+			Weepinbell(988) is electrified!!
+			Weepinbell(918) hit Electabuzz(650) 52(/)
+			Electabuzz(598) is rooted!!!!
+			Electabuzz(557) hit Weepinbell(918) 52(/)
+			Weepinbell(866) is electrified!!
+			Weepinbell(796) hit Electabuzz(557) 52(/)
+			Electabuzz(505) is rooted!!!!
+			Electabuzz(464) hit Weepinbell(796) 52(/)
+			Weepinbell(744) is electrified!!
+			Weepinbell(674) hit Electabuzz(464) 52(/)
+			Electabuzz(412) is rooted!!!!
+			Electabuzz(371) hit Weepinbell(674) 52(/)
+			Weepinbell(622) is electrified!!
+			Weepinbell(552) hit Electabuzz(371) 52(/)
+			Electabuzz(319) is rooted!!!!
+			Electabuzz(278) hit Weepinbell(552) 52(/)
+			Weepinbell(500) is electrified!!
+			Weepinbell(430) hit Electabuzz(278) 52(/)
+			Electabuzz(226) is rooted!!!!
+			Electabuzz(185) hit Weepinbell(430) 52(/)
+			Weepinbell(378) is electrified!!
+			Weepinbell(308) hit Electabuzz(185) 52(/)
+			Electabuzz(133) is rooted!!!!
+			Electabuzz(92) hit Weepinbell(308) 52(/)
+			Weepinbell(256) is electrified!!
+			Weepinbell(186) hit Electabuzz(92) 52(/)
+			Electabuzz(40) is rooted!!!!
+		WinnerP:Weepinbell
+			Electabuzz(800) hit Weepinbell(266) 70(/)
+			Weepinbell(196) is electrified!!
+			Weepinbell(126) hit Electabuzz(800) 56(/)
+			Electabuzz(744) is rooted!!!!
+			Electabuzz(712) hit Weepinbell(126) 70(/)
+			Weepinbell(56) is electrified!!
+		WinnerP:Electabuzz
+			Psyduck(1010) hit Electabuzz(762) 75(+)
+			Electabuzz(687) is drowning!!
+			Electabuzz(678) is rooted!!!!
+			Electabuzz(649) hit Psyduck(1010) 93(/)
+			Psyduck(917) is electrified!!!!
+			Psyduck(790) hit Electabuzz(649) 75(+)
+			Electabuzz(574) is drowning!!
+			Electabuzz(565) is rooted!!!!
+			Electabuzz(536) hit Psyduck(790) 93(/)
+			Psyduck(697) is electrified!!!!
+			Psyduck(570) hit Electabuzz(536) 75(+)
+			Electabuzz(461) is drowning!!
+			Electabuzz(452) is rooted!!!!
+			Electabuzz(423) hit Psyduck(570) 93(/)
+			Psyduck(477) is electrified!!!!
+			Psyduck(350) hit Electabuzz(423) 75(+)
+			Electabuzz(348) is drowning!!
+			Electabuzz(339) is rooted!!!!
+			Electabuzz(310) hit Psyduck(350) 93(/)
+			Psyduck(257) is electrified!!!!
+			Psyduck(130) hit Electabuzz(310) 75(+)
+			Electabuzz(235) is drowning!!
+			Electabuzz(226) is rooted!!!!
+			Electabuzz(197) hit Psyduck(130) 93(/)
+			Psyduck(37) is electrified!!!!
+		WinnerP:Electabuzz
+			Pidgey(745) hit Electabuzz(247) 60(-)
+			Electabuzz(187) is drowning!!
+			Electabuzz(181) is rooted!!!!
+			Electabuzz(155) hit Pidgey(745) 102(/)
+			Pidgey(643) hit Electabuzz(155) 60(-)
+			Electabuzz(95) is drowning!!
+			Electabuzz(89) is rooted!!!!
+			Electabuzz(63) hit Pidgey(643) 102(/)
+			Pidgey(541) hit Electabuzz(63) 60(-)
+			Electabuzz(3) is drowning!!
+		WinnerP:Pidgey
+			Scyther(550) hit Pidgey(606) 18(-)
+			Pidgey(588) hit Scyther(550) 50(-)
+			Scyther(500) hit Pidgey(588) 18(-)
+			Pidgey(570) hit Scyther(500) 50(-)
+			Scyther(450) hit Pidgey(570) 18(-)
+			Pidgey(552) hit Scyther(450) 50(-)
+			Scyther(400) hit Pidgey(552) 18(-)
+			Pidgey(534) hit Scyther(400) 50(-)
+			Scyther(350) hit Pidgey(534) 18(-)
+			Pidgey(516) hit Scyther(350) 50(-)
+			Scyther(300) hit Pidgey(516) 18(-)
+			Pidgey(498) hit Scyther(300) 50(-)
+			Scyther(250) hit Pidgey(498) 18(-)
+			Pidgey(480) hit Scyther(250) 50(-)
+			Scyther(200) hit Pidgey(480) 18(-)
+			Pidgey(462) hit Scyther(200) 50(-)
+			Scyther(150) hit Pidgey(462) 18(-)
+			Pidgey(444) hit Scyther(150) 50(-)
+			Scyther(100) hit Pidgey(444) 18(-)
+			Pidgey(426) hit Scyther(100) 50(-)
+			Scyther(50) hit Pidgey(426) 18(-)
+			Pidgey(408) hit Scyther(50) 50(-)
+		WinnerP:Pidgey
+	WinnerT:Bonnie
+
+	Bonnie vs James: Magma
+			Weepinbell(1020) hit Electabuzz(550) 46(-)
+			Electabuzz(504) is rooted!!!!
+			Electabuzz(463) hit Weepinbell(1020) 39(-)
+			Weepinbell(981) is electrified!!
+			Weepinbell(911) hit Electabuzz(463) 46(-)
+			Electabuzz(417) is rooted!!!!
+			Electabuzz(376) hit Weepinbell(911) 39(-)
+			Weepinbell(872) is electrified!!
+			Weepinbell(802) hit Electabuzz(376) 46(-)
+			Electabuzz(330) is rooted!!!!
+			Electabuzz(289) hit Weepinbell(802) 39(-)
+			Weepinbell(763) is electrified!!
+			Weepinbell(693) hit Electabuzz(289) 46(-)
+			Electabuzz(243) is rooted!!!!
+			Electabuzz(202) hit Weepinbell(693) 39(-)
+			Weepinbell(654) is electrified!!
+			Weepinbell(584) hit Electabuzz(202) 46(-)
+			Electabuzz(156) is rooted!!!!
+			Electabuzz(115) hit Weepinbell(584) 39(-)
+			Weepinbell(545) is electrified!!
+			Weepinbell(475) hit Electabuzz(115) 46(-)
+			Electabuzz(69) is rooted!!!!
+			Electabuzz(28) hit Weepinbell(475) 39(-)
+			Weepinbell(436) is electrified!!
+			Weepinbell(366) hit Electabuzz(28) 46(-)
+		WinnerP:Weepinbell
+			Electabuzz(800) hit Weepinbell(446) 71(-)
+			Weepinbell(375) is electrified!!
+			Weepinbell(305) hit Electabuzz(800) 50(-)
+			Electabuzz(750) is rooted!!!!
+			Electabuzz(724) hit Weepinbell(305) 71(-)
+			Weepinbell(234) is electrified!!
+			Weepinbell(164) hit Electabuzz(724) 50(-)
+			Electabuzz(674) is rooted!!!!
+			Electabuzz(648) hit Weepinbell(164) 71(-)
+			Weepinbell(93) is electrified!!
+			Weepinbell(23) hit Electabuzz(648) 50(-)
+			Electabuzz(598) is rooted!!!!
+			Electabuzz(572) hit Weepinbell(23) 71(-)
+		WinnerP:Electabuzz
+			Psyduck(910) hit Electabuzz(622) 65(/)
+			Electabuzz(557) is drowning!!
+			Electabuzz(554) is rooted!!!!
+			Electabuzz(531) hit Psyduck(910) 97(-)
+			Psyduck(813) is electrified!!!!
+			Psyduck(686) hit Electabuzz(531) 65(/)
+			Electabuzz(466) is drowning!!
+			Electabuzz(463) is rooted!!!!
+			Electabuzz(440) hit Psyduck(686) 97(-)
+			Psyduck(589) is electrified!!!!
+			Psyduck(462) hit Electabuzz(440) 65(/)
+			Electabuzz(375) is drowning!!
+			Electabuzz(372) is rooted!!!!
+			Electabuzz(349) hit Psyduck(462) 97(-)
+			Psyduck(365) is electrified!!!!
+			Psyduck(238) hit Electabuzz(349) 65(/)
+			Electabuzz(284) is drowning!!
+			Electabuzz(281) is rooted!!!!
+			Electabuzz(258) hit Psyduck(238) 97(-)
+			Psyduck(141) is electrified!!!!
+			Psyduck(14) hit Electabuzz(258) 65(/)
+			Electabuzz(193) is drowning!!
+			Electabuzz(190) is rooted!!!!
+			Electabuzz(167) hit Psyduck(14) 97(-)
+		WinnerP:Electabuzz
+			Pidgey(975) hit Electabuzz(217) 80(/)
+			Electabuzz(137) is drowning!!
+			Electabuzz(137) is rooted!!!!
+			Electabuzz(117) hit Pidgey(975) 100(-)
+			Pidgey(875) hit Electabuzz(117) 80(/)
+			Electabuzz(37) is drowning!!
+			Electabuzz(37) is rooted!!!!
+			Electabuzz(17) hit Pidgey(875) 100(-)
+			Pidgey(775) hit Electabuzz(17) 80(/)
+		WinnerP:Pidgey
+			Scyther(650) hit Pidgey(840) 22(/)
+			Pidgey(818) hit Scyther(650) 70(/)
+			Scyther(580) hit Pidgey(818) 22(/)
+			Pidgey(796) hit Scyther(580) 70(/)
+			Scyther(510) hit Pidgey(796) 22(/)
+			Pidgey(774) hit Scyther(510) 70(/)
+			Scyther(440) hit Pidgey(774) 22(/)
+			Pidgey(752) hit Scyther(440) 70(/)
+			Scyther(370) hit Pidgey(752) 22(/)
+			Pidgey(730) hit Scyther(370) 70(/)
+			Scyther(300) hit Pidgey(730) 22(/)
+			Pidgey(708) hit Scyther(300) 70(/)
+			Scyther(230) hit Pidgey(708) 22(/)
+			Pidgey(686) hit Scyther(230) 70(/)
+			Scyther(160) hit Pidgey(686) 22(/)
+			Pidgey(664) hit Scyther(160) 70(/)
+			Scyther(90) hit Pidgey(664) 22(/)
+			Pidgey(642) hit Scyther(90) 70(/)
+			Scyther(20) hit Pidgey(642) 22(/)
+			Pidgey(620) hit Scyther(20) 70(/)
+		WinnerP:Pidgey
+	WinnerT:Bonnie
+
+	James vs Bonnie: Stadium
+			Electabuzz(650) hit Weepinbell(1200) 46(/)
+			Weepinbell(1154) is electrified!!
+			Weepinbell(1084) hit Electabuzz(650) 60(/)
+			Electabuzz(590) is rooted!!!!
+			Electabuzz(549) hit Weepinbell(1084) 46(/)
+			Weepinbell(1038) is electrified!!
+			Weepinbell(968) hit Electabuzz(549) 60(/)
+			Electabuzz(489) is rooted!!!!
+			Electabuzz(448) hit Weepinbell(968) 46(/)
+			Weepinbell(922) is electrified!!
+			Weepinbell(852) hit Electabuzz(448) 60(/)
+			Electabuzz(388) is rooted!!!!
+			Electabuzz(347) hit Weepinbell(852) 46(/)
+			Weepinbell(806) is electrified!!
+			Weepinbell(736) hit Electabuzz(347) 60(/)
+			Electabuzz(287) is rooted!!!!
+			Electabuzz(246) hit Weepinbell(736) 46(/)
+			Weepinbell(690) is electrified!!
+			Weepinbell(620) hit Electabuzz(246) 60(/)
+			Electabuzz(186) is rooted!!!!
+			Electabuzz(145) hit Weepinbell(620) 46(/)
+			Weepinbell(574) is electrified!!
+			Weepinbell(504) hit Electabuzz(145) 60(/)
+			Electabuzz(85) is rooted!!!!
+			Electabuzz(44) hit Weepinbell(504) 46(/)
+			Weepinbell(458) is electrified!!
+			Weepinbell(388) hit Electabuzz(44) 60(/)
+		WinnerP:Weepinbell
+			Electabuzz(1000) hit Weepinbell(468) 92(/)
+			Weepinbell(376) is electrified!!
+			Weepinbell(306) hit Electabuzz(1000) 64(/)
+			Electabuzz(936) is rooted!!!!
+			Electabuzz(916) hit Weepinbell(306) 92(/)
+			Weepinbell(214) is electrified!!
+			Weepinbell(144) hit Electabuzz(916) 64(/)
+			Electabuzz(852) is rooted!!!!
+			Electabuzz(832) hit Weepinbell(144) 92(/)
+			Weepinbell(52) is electrified!!
+		WinnerP:Electabuzz
+			Psyduck(910) hit Electabuzz(882) 65(/)
+			Electabuzz(817) is drowning!!
+			Electabuzz(817) is rooted!!!!
+			Electabuzz(800) hit Psyduck(910) 121(/)
+			Psyduck(789) is electrified!!!!
+			Psyduck(662) hit Electabuzz(800) 65(/)
+			Electabuzz(735) is drowning!!
+			Electabuzz(735) is rooted!!!!
+			Electabuzz(718) hit Psyduck(662) 121(/)
+			Psyduck(541) is electrified!!!!
+			Psyduck(414) hit Electabuzz(718) 65(/)
+			Electabuzz(653) is drowning!!
+			Electabuzz(653) is rooted!!!!
+			Electabuzz(636) hit Psyduck(414) 121(/)
+			Psyduck(293) is electrified!!!!
+			Psyduck(166) hit Electabuzz(636) 65(/)
+			Electabuzz(571) is drowning!!
+			Electabuzz(571) is rooted!!!!
+			Electabuzz(554) hit Psyduck(166) 121(/)
+			Psyduck(45) is electrified!!!!
+		WinnerP:Electabuzz
+			Pidgey(1105) hit Electabuzz(604) 90(/)
+			Electabuzz(514) is drowning!!
+			Electabuzz(514) is rooted!!!!
+			Electabuzz(500) hit Pidgey(1105) 118(/)
+			Pidgey(987) hit Electabuzz(500) 90(/)
+			Electabuzz(410) is drowning!!
+			Electabuzz(410) is rooted!!!!
+			Electabuzz(396) hit Pidgey(987) 118(/)
+			Pidgey(869) hit Electabuzz(396) 90(/)
+			Electabuzz(306) is drowning!!
+			Electabuzz(306) is rooted!!!!
+			Electabuzz(292) hit Pidgey(869) 118(/)
+			Pidgey(751) hit Electabuzz(292) 90(/)
+			Electabuzz(202) is drowning!!
+			Electabuzz(202) is rooted!!!!
+			Electabuzz(188) hit Pidgey(751) 118(/)
+			Pidgey(633) hit Electabuzz(188) 90(/)
+			Electabuzz(98) is drowning!!
+			Electabuzz(98) is rooted!!!!
+			Electabuzz(84) hit Pidgey(633) 118(/)
+			Pidgey(515) hit Electabuzz(84) 90(/)
+		WinnerP:Pidgey
+			Scyther(650) hit Pidgey(580) 16(/)
+			Pidgey(564) hit Scyther(650) 80(/)
+			Scyther(570) hit Pidgey(564) 16(/)
+			Pidgey(548) hit Scyther(570) 80(/)
+			Scyther(490) hit Pidgey(548) 16(/)
+			Pidgey(532) hit Scyther(490) 80(/)
+			Scyther(410) hit Pidgey(532) 16(/)
+			Pidgey(516) hit Scyther(410) 80(/)
+			Scyther(330) hit Pidgey(516) 16(/)
+			Pidgey(500) hit Scyther(330) 80(/)
+			Scyther(250) hit Pidgey(500) 16(/)
+			Pidgey(484) hit Scyther(250) 80(/)
+			Scyther(170) hit Pidgey(484) 16(/)
+			Pidgey(468) hit Scyther(170) 80(/)
+			Scyther(90) hit Pidgey(468) 16(/)
+			Pidgey(452) hit Scyther(90) 80(/)
+			Scyther(10) hit Pidgey(452) 16(/)
+			Pidgey(436) hit Scyther(10) 80(/)
+		WinnerP:Pidgey
+	WinnerT:Bonnie
+
+Round Winner: Bonnie!
+Started Round: 2 vs 5
+	Ash vs Iris: Forest
+			Gloom(900) hit Electrode(500) 50(+)
+			Electrode(450) is rooted!!!!
+			Electrode(406) hit Gloom(900) 44(-)
+			Gloom(856) is electrified!!
+			Gloom(786) hit Electrode(406) 50(+)
+			Electrode(356) is rooted!!!!
+			Electrode(312) hit Gloom(786) 44(-)
+			Gloom(742) is electrified!!
+			Gloom(672) hit Electrode(312) 50(+)
+			Electrode(262) is rooted!!!!
+			Electrode(218) hit Gloom(672) 44(-)
+			Gloom(628) is electrified!!
+			Gloom(558) hit Electrode(218) 50(+)
+			Electrode(168) is rooted!!!!
+			Electrode(124) hit Gloom(558) 44(-)
+			Gloom(514) is electrified!!
+			Gloom(444) hit Electrode(124) 50(+)
+			Electrode(74) is rooted!!!!
+			Electrode(30) hit Gloom(444) 44(-)
+			Gloom(400) is electrified!!
+			Gloom(330) hit Electrode(30) 50(+)
+		WinnerP:Gloom
+			Pidgeot(1105) hit Gloom(410) 57(/)
+			Gloom(353) is electrified!!
+			Gloom(283) hit Pidgeot(1105) 18(+)
+			Pidgeot(1087) hit Gloom(283) 57(/)
+			Gloom(226) is electrified!!
+			Gloom(156) hit Pidgeot(1087) 18(+)
+			Pidgeot(1069) hit Gloom(156) 57(/)
+			Gloom(99) is electrified!!
+			Gloom(29) hit Pidgeot(1069) 18(+)
+			Pidgeot(1051) hit Gloom(29) 57(/)
+		WinnerP:Pidgeot
+			Flareon(960) hit Pidgeot(1116) 57(/)
+			Pidgeot(1059) hit Flareon(960) 79(/)
+			Flareon(881) hit Pidgeot(1059) 57(/)
+			Pidgeot(1002) hit Flareon(881) 79(/)
+			Flareon(802) hit Pidgeot(1002) 57(/)
+			Pidgeot(945) hit Flareon(802) 79(/)
+			Flareon(723) hit Pidgeot(945) 57(/)
+			Pidgeot(888) hit Flareon(723) 79(/)
+			Flareon(644) hit Pidgeot(888) 57(/)
+			Pidgeot(831) hit Flareon(644) 79(/)
+			Flareon(565) hit Pidgeot(831) 57(/)
+			Pidgeot(774) hit Flareon(565) 79(/)
+			Flareon(486) hit Pidgeot(774) 57(/)
+			Pidgeot(717) hit Flareon(486) 79(/)
+			Flareon(407) hit Pidgeot(717) 57(/)
+			Pidgeot(660) hit Flareon(407) 79(/)
+			Flareon(328) hit Pidgeot(660) 57(/)
+			Pidgeot(603) hit Flareon(328) 79(/)
+			Flareon(249) hit Pidgeot(603) 57(/)
+			Pidgeot(546) hit Flareon(249) 79(/)
+			Flareon(170) hit Pidgeot(546) 57(/)
+			Pidgeot(489) hit Flareon(170) 79(/)
+			Flareon(91) hit Pidgeot(489) 57(/)
+			Pidgeot(432) hit Flareon(91) 79(/)
+			Flareon(12) hit Pidgeot(432) 57(/)
+			Pidgeot(375) hit Flareon(12) 79(/)
+		WinnerP:Pidgeot
+			Zapdos(845) hit Pidgeot(440) 28(/)
+			Pidgeot(412) hit Zapdos(845) 76(/)
+			Zapdos(769) hit Pidgeot(412) 28(/)
+			Pidgeot(384) hit Zapdos(769) 76(/)
+			Zapdos(693) hit Pidgeot(384) 28(/)
+			Pidgeot(356) hit Zapdos(693) 76(/)
+			Zapdos(617) hit Pidgeot(356) 28(/)
+			Pidgeot(328) hit Zapdos(617) 76(/)
+			Zapdos(541) hit Pidgeot(328) 28(/)
+			Pidgeot(300) hit Zapdos(541) 76(/)
+			Zapdos(465) hit Pidgeot(300) 28(/)
+			Pidgeot(272) hit Zapdos(465) 76(/)
+			Zapdos(389) hit Pidgeot(272) 28(/)
+			Pidgeot(244) hit Zapdos(389) 76(/)
+			Zapdos(313) hit Pidgeot(244) 28(/)
+			Pidgeot(216) hit Zapdos(313) 76(/)
+			Zapdos(237) hit Pidgeot(216) 28(/)
+			Pidgeot(188) hit Zapdos(237) 76(/)
+			Zapdos(161) hit Pidgeot(188) 28(/)
+			Pidgeot(160) hit Zapdos(161) 76(/)
+			Zapdos(85) hit Pidgeot(160) 28(/)
+			Pidgeot(132) hit Zapdos(85) 76(/)
+			Zapdos(9) hit Pidgeot(132) 28(/)
+			Pidgeot(104) hit Zapdos(9) 76(/)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+	Iris vs Ash: Sky
+			Electrode(600) hit Gloom(780) 51(/)
+			Gloom(729) is electrified!!
+			Gloom(659) hit Electrode(600) 34(-)
+			Electrode(566) is rooted!!!!
+			Electrode(522) hit Gloom(659) 51(/)
+			Gloom(608) is electrified!!
+			Gloom(538) hit Electrode(522) 34(-)
+			Electrode(488) is rooted!!!!
+			Electrode(444) hit Gloom(538) 51(/)
+			Gloom(487) is electrified!!
+			Gloom(417) hit Electrode(444) 34(-)
+			Electrode(410) is rooted!!!!
+			Electrode(366) hit Gloom(417) 51(/)
+			Gloom(366) is electrified!!
+			Gloom(296) hit Electrode(366) 34(-)
+			Electrode(332) is rooted!!!!
+			Electrode(288) hit Gloom(296) 51(/)
+			Gloom(245) is electrified!!
+			Gloom(175) hit Electrode(288) 34(-)
+			Electrode(254) is rooted!!!!
+			Electrode(210) hit Gloom(175) 51(/)
+			Gloom(124) is electrified!!
+			Gloom(54) hit Electrode(210) 34(-)
+			Electrode(176) is rooted!!!!
+			Electrode(132) hit Gloom(54) 51(/)
+			Gloom(3) is electrified!!
+		WinnerP:Electrode
+			Flareon(860) hit Electrode(182) 86(-)
+			Electrode(96) is burning!!
+			Electrode(85) is rooted!!!!
+			Electrode(44) hit Flareon(860) 75(/)
+			Flareon(785) is electrified!!
+			Flareon(747) hit Electrode(44) 86(-)
+		WinnerP:Flareon
+			Pidgeot(1400) hit Flareon(807) 98(+)
+			Flareon(709) is electrified!!
+			Flareon(673) hit Pidgeot(1400) 47(-)
+			Pidgeot(1353) hit Flareon(673) 98(+)
+			Flareon(575) is electrified!!
+			Flareon(539) hit Pidgeot(1353) 47(-)
+			Pidgeot(1306) hit Flareon(539) 98(+)
+			Flareon(441) is electrified!!
+			Flareon(405) hit Pidgeot(1306) 47(-)
+			Pidgeot(1259) hit Flareon(405) 98(+)
+			Flareon(307) is electrified!!
+			Flareon(271) hit Pidgeot(1259) 47(-)
+			Pidgeot(1212) hit Flareon(271) 98(+)
+			Flareon(173) is electrified!!
+			Flareon(137) hit Pidgeot(1212) 47(-)
+			Pidgeot(1165) hit Flareon(137) 98(+)
+			Flareon(39) is electrified!!
+			Flareon(3) hit Pidgeot(1165) 47(-)
+			Pidgeot(1118) hit Flareon(3) 98(+)
+		WinnerP:Pidgeot
+			Zapdos(945) hit Pidgeot(1183) 32(+)
+			Pidgeot(1151) hit Zapdos(945) 96(+)
+			Zapdos(849) hit Pidgeot(1151) 32(+)
+			Pidgeot(1119) hit Zapdos(849) 96(+)
+			Zapdos(753) hit Pidgeot(1119) 32(+)
+			Pidgeot(1087) hit Zapdos(753) 96(+)
+			Zapdos(657) hit Pidgeot(1087) 32(+)
+			Pidgeot(1055) hit Zapdos(657) 96(+)
+			Zapdos(561) hit Pidgeot(1055) 32(+)
+			Pidgeot(1023) hit Zapdos(561) 96(+)
+			Zapdos(465) hit Pidgeot(1023) 32(+)
+			Pidgeot(991) hit Zapdos(465) 96(+)
+			Zapdos(369) hit Pidgeot(991) 32(+)
+			Pidgeot(959) hit Zapdos(369) 96(+)
+			Zapdos(273) hit Pidgeot(959) 32(+)
+			Pidgeot(927) hit Zapdos(273) 96(+)
+			Zapdos(177) hit Pidgeot(927) 32(+)
+			Pidgeot(895) hit Zapdos(177) 96(+)
+			Zapdos(81) hit Pidgeot(895) 32(+)
+			Pidgeot(863) hit Zapdos(81) 96(+)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+	Ash vs Iris: Stadium
+			Gloom(880) hit Electrode(650) 44(/)
+			Electrode(606) is rooted!!!!
+			Electrode(565) hit Gloom(880) 58(/)
+			Gloom(822) is electrified!!
+			Gloom(752) hit Electrode(565) 44(/)
+			Electrode(521) is rooted!!!!
+			Electrode(480) hit Gloom(752) 58(/)
+			Gloom(694) is electrified!!
+			Gloom(624) hit Electrode(480) 44(/)
+			Electrode(436) is rooted!!!!
+			Electrode(395) hit Gloom(624) 58(/)
+			Gloom(566) is electrified!!
+			Gloom(496) hit Electrode(395) 44(/)
+			Electrode(351) is rooted!!!!
+			Electrode(310) hit Gloom(496) 58(/)
+			Gloom(438) is electrified!!
+			Gloom(368) hit Electrode(310) 44(/)
+			Electrode(266) is rooted!!!!
+			Electrode(225) hit Gloom(368) 58(/)
+			Gloom(310) is electrified!!
+			Gloom(240) hit Electrode(225) 44(/)
+			Electrode(181) is rooted!!!!
+			Electrode(140) hit Gloom(240) 58(/)
+			Gloom(182) is electrified!!
+			Gloom(112) hit Electrode(140) 44(/)
+			Electrode(96) is rooted!!!!
+			Electrode(55) hit Gloom(112) 58(/)
+			Gloom(54) is electrified!!
+		WinnerP:Electrode
+			Flareon(1020) hit Electrode(105) 102(/)
+			Electrode(3) is burning!!
+		WinnerP:Flareon
+			Pidgeot(1430) hit Flareon(1080) 97(/)
+			Flareon(983) hit Pidgeot(1430) 57(/)
+			Pidgeot(1373) hit Flareon(983) 97(/)
+			Flareon(886) hit Pidgeot(1373) 57(/)
+			Pidgeot(1316) hit Flareon(886) 97(/)
+			Flareon(789) hit Pidgeot(1316) 57(/)
+			Pidgeot(1259) hit Flareon(789) 97(/)
+			Flareon(692) hit Pidgeot(1259) 57(/)
+			Pidgeot(1202) hit Flareon(692) 97(/)
+			Flareon(595) hit Pidgeot(1202) 57(/)
+			Pidgeot(1145) hit Flareon(595) 97(/)
+			Flareon(498) hit Pidgeot(1145) 57(/)
+			Pidgeot(1088) hit Flareon(498) 97(/)
+			Flareon(401) hit Pidgeot(1088) 57(/)
+			Pidgeot(1031) hit Flareon(401) 97(/)
+			Flareon(304) hit Pidgeot(1031) 57(/)
+			Pidgeot(974) hit Flareon(304) 97(/)
+			Flareon(207) hit Pidgeot(974) 57(/)
+			Pidgeot(917) hit Flareon(207) 97(/)
+			Flareon(110) hit Pidgeot(917) 57(/)
+			Pidgeot(860) hit Flareon(110) 97(/)
+			Flareon(13) hit Pidgeot(860) 57(/)
+			Pidgeot(803) hit Flareon(13) 97(/)
+		WinnerP:Pidgeot
+			Zapdos(845) hit Pidgeot(868) 16(/)
+			Pidgeot(852) hit Zapdos(845) 96(/)
+			Zapdos(749) hit Pidgeot(852) 16(/)
+			Pidgeot(836) hit Zapdos(749) 96(/)
+			Zapdos(653) hit Pidgeot(836) 16(/)
+			Pidgeot(820) hit Zapdos(653) 96(/)
+			Zapdos(557) hit Pidgeot(820) 16(/)
+			Pidgeot(804) hit Zapdos(557) 96(/)
+			Zapdos(461) hit Pidgeot(804) 16(/)
+			Pidgeot(788) hit Zapdos(461) 96(/)
+			Zapdos(365) hit Pidgeot(788) 16(/)
+			Pidgeot(772) hit Zapdos(365) 96(/)
+			Zapdos(269) hit Pidgeot(772) 16(/)
+			Pidgeot(756) hit Zapdos(269) 96(/)
+			Zapdos(173) hit Pidgeot(756) 16(/)
+			Pidgeot(740) hit Zapdos(173) 96(/)
+			Zapdos(77) hit Pidgeot(740) 16(/)
+			Pidgeot(724) hit Zapdos(77) 96(/)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+Round Winner: Iris!
+Started Round: 3 vs 4
+	Ash vs Tracey: Ocean
+			Kabuto(1010) hit Raichu(650) 75(+)
+			Raichu(575) is drowning!!
+			Raichu(554) hit Kabuto(1010) 65(/)
+			Kabuto(945) is electrified!!!!
+			Kabuto(818) hit Raichu(554) 75(+)
+			Raichu(479) is drowning!!
+			Raichu(458) hit Kabuto(818) 65(/)
+			Kabuto(753) is electrified!!!!
+			Kabuto(626) hit Raichu(458) 75(+)
+			Raichu(383) is drowning!!
+			Raichu(362) hit Kabuto(626) 65(/)
+			Kabuto(561) is electrified!!!!
+			Kabuto(434) hit Raichu(362) 75(+)
+			Raichu(287) is drowning!!
+			Raichu(266) hit Kabuto(434) 65(/)
+			Kabuto(369) is electrified!!!!
+			Kabuto(242) hit Raichu(266) 75(+)
+			Raichu(191) is drowning!!
+			Raichu(170) hit Kabuto(242) 65(/)
+			Kabuto(177) is electrified!!!!
+			Kabuto(50) hit Raichu(170) 75(+)
+			Raichu(95) is drowning!!
+			Raichu(74) hit Kabuto(50) 65(/)
+		WinnerP:Raichu
+			Venusaur(1040) hit Raichu(124) 52(/)
+			Raichu(72) is drowning!!
+			Raichu(54) is rooted!!!!
+			Raichu(16) hit Venusaur(1040) 59(/)
+			Venusaur(981) is electrified!!
+			Venusaur(911) hit Raichu(16) 52(/)
+		WinnerP:Venusaur
+			Pikachu(650) hit Venusaur(991) 49(/)
+			Venusaur(942) is electrified!!
+			Venusaur(872) hit Pikachu(650) 56(/)
+			Pikachu(594) is rooted!!!!
+			Pikachu(553) hit Venusaur(872) 49(/)
+			Venusaur(823) is electrified!!
+			Venusaur(753) hit Pikachu(553) 56(/)
+			Pikachu(497) is rooted!!!!
+			Pikachu(456) hit Venusaur(753) 49(/)
+			Venusaur(704) is electrified!!
+			Venusaur(634) hit Pikachu(456) 56(/)
+			Pikachu(400) is rooted!!!!
+			Pikachu(359) hit Venusaur(634) 49(/)
+			Venusaur(585) is electrified!!
+			Venusaur(515) hit Pikachu(359) 56(/)
+			Pikachu(303) is rooted!!!!
+			Pikachu(262) hit Venusaur(515) 49(/)
+			Venusaur(466) is electrified!!
+			Venusaur(396) hit Pikachu(262) 56(/)
+			Pikachu(206) is rooted!!!!
+			Pikachu(165) hit Venusaur(396) 49(/)
+			Venusaur(347) is electrified!!
+			Venusaur(277) hit Pikachu(165) 56(/)
+			Pikachu(109) is rooted!!!!
+			Pikachu(68) hit Venusaur(277) 49(/)
+			Venusaur(228) is electrified!!
+			Venusaur(158) hit Pikachu(68) 56(/)
+			Pikachu(12) is rooted!!!!
+		WinnerP:Venusaur
+			Articuno(745) hit Venusaur(238) 15(-)
+			Venusaur(223) is electrified!!
+			Venusaur(153) hit Articuno(745) 36(/)
+			Articuno(709) hit Venusaur(153) 15(-)
+			Venusaur(138) is electrified!!
+			Venusaur(68) hit Articuno(709) 36(/)
+			Articuno(673) hit Venusaur(68) 15(-)
+			Venusaur(53) is electrified!!
+		WinnerP:Articuno
+			Magnemite(650) hit Articuno(738) 64(/)
+			Articuno(674) hit Magnemite(650) 65(-)
+			Magnemite(585) hit Articuno(674) 64(/)
+			Articuno(610) hit Magnemite(585) 65(-)
+			Magnemite(520) hit Articuno(610) 64(/)
+			Articuno(546) hit Magnemite(520) 65(-)
+			Magnemite(455) hit Articuno(546) 64(/)
+			Articuno(482) hit Magnemite(455) 65(-)
+			Magnemite(390) hit Articuno(482) 64(/)
+			Articuno(418) hit Magnemite(390) 65(-)
+			Magnemite(325) hit Articuno(418) 64(/)
+			Articuno(354) hit Magnemite(325) 65(-)
+			Magnemite(260) hit Articuno(354) 64(/)
+			Articuno(290) hit Magnemite(260) 65(-)
+			Magnemite(195) hit Articuno(290) 64(/)
+			Articuno(226) hit Magnemite(195) 65(-)
+			Magnemite(130) hit Articuno(226) 64(/)
+			Articuno(162) hit Magnemite(130) 65(-)
+			Magnemite(65) hit Articuno(162) 64(/)
+			Articuno(98) hit Magnemite(65) 65(-)
+		WinnerP:Articuno
+	WinnerT:Tracey
+
+	Tracey vs Ash: Ocean
+			Raichu(700) hit Kabuto(1010) 72(/)
+			Kabuto(938) is electrified!!!!
+			Kabuto(811) hit Raichu(700) 75(+)
+			Raichu(625) is drowning!!
+			Raichu(607) hit Kabuto(811) 72(/)
+			Kabuto(739) is electrified!!!!
+			Kabuto(612) hit Raichu(607) 75(+)
+			Raichu(532) is drowning!!
+			Raichu(514) hit Kabuto(612) 72(/)
+			Kabuto(540) is electrified!!!!
+			Kabuto(413) hit Raichu(514) 75(+)
+			Raichu(439) is drowning!!
+			Raichu(421) hit Kabuto(413) 72(/)
+			Kabuto(341) is electrified!!!!
+			Kabuto(214) hit Raichu(421) 75(+)
+			Raichu(346) is drowning!!
+			Raichu(328) hit Kabuto(214) 72(/)
+			Kabuto(142) is electrified!!!!
+			Kabuto(15) hit Raichu(328) 75(+)
+			Raichu(253) is drowning!!
+			Raichu(235) hit Kabuto(15) 72(/)
+		WinnerP:Raichu
+			Venusaur(1200) hit Raichu(285) 60(/)
+			Raichu(225) is drowning!!
+			Raichu(210) is rooted!!!!
+			Raichu(175) hit Venusaur(1200) 60(/)
+			Venusaur(1140) is electrified!!
+			Venusaur(1070) hit Raichu(175) 60(/)
+			Raichu(115) is drowning!!
+			Raichu(100) is rooted!!!!
+			Raichu(65) hit Venusaur(1070) 60(/)
+			Venusaur(1010) is electrified!!
+			Venusaur(940) hit Raichu(65) 60(/)
+			Raichu(5) is drowning!!
+		WinnerP:Venusaur
+			Pikachu(650) hit Venusaur(1020) 43(/)
+			Venusaur(977) is electrified!!
+			Venusaur(907) hit Pikachu(650) 64(/)
+			Pikachu(586) is rooted!!!!
+			Pikachu(545) hit Venusaur(907) 43(/)
+			Venusaur(864) is electrified!!
+			Venusaur(794) hit Pikachu(545) 64(/)
+			Pikachu(481) is rooted!!!!
+			Pikachu(440) hit Venusaur(794) 43(/)
+			Venusaur(751) is electrified!!
+			Venusaur(681) hit Pikachu(440) 64(/)
+			Pikachu(376) is rooted!!!!
+			Pikachu(335) hit Venusaur(681) 43(/)
+			Venusaur(638) is electrified!!
+			Venusaur(568) hit Pikachu(335) 64(/)
+			Pikachu(271) is rooted!!!!
+			Pikachu(230) hit Venusaur(568) 43(/)
+			Venusaur(525) is electrified!!
+			Venusaur(455) hit Pikachu(230) 64(/)
+			Pikachu(166) is rooted!!!!
+			Pikachu(125) hit Venusaur(455) 43(/)
+			Venusaur(412) is electrified!!
+			Venusaur(342) hit Pikachu(125) 64(/)
+			Pikachu(61) is rooted!!!!
+			Pikachu(20) hit Venusaur(342) 43(/)
+			Venusaur(299) is electrified!!
+			Venusaur(229) hit Pikachu(20) 64(/)
+		WinnerP:Venusaur
+			Articuno(875) hit Venusaur(309) 19(-)
+			Venusaur(290) is electrified!!
+			Venusaur(220) hit Articuno(875) 38(/)
+			Articuno(837) hit Venusaur(220) 19(-)
+			Venusaur(201) is electrified!!
+			Venusaur(131) hit Articuno(837) 38(/)
+			Articuno(799) hit Venusaur(131) 19(-)
+			Venusaur(112) is electrified!!
+			Venusaur(42) hit Articuno(799) 38(/)
+			Articuno(761) hit Venusaur(42) 19(-)
+			Venusaur(23) is electrified!!
+		WinnerP:Articuno
+			Magnemite(650) hit Articuno(826) 58(/)
+			Articuno(768) hit Magnemite(650) 75(-)
+			Magnemite(575) hit Articuno(768) 58(/)
+			Articuno(710) hit Magnemite(575) 75(-)
+			Magnemite(500) hit Articuno(710) 58(/)
+			Articuno(652) hit Magnemite(500) 75(-)
+			Magnemite(425) hit Articuno(652) 58(/)
+			Articuno(594) hit Magnemite(425) 75(-)
+			Magnemite(350) hit Articuno(594) 58(/)
+			Articuno(536) hit Magnemite(350) 75(-)
+			Magnemite(275) hit Articuno(536) 58(/)
+			Articuno(478) hit Magnemite(275) 75(-)
+			Magnemite(200) hit Articuno(478) 58(/)
+			Articuno(420) hit Magnemite(200) 75(-)
+			Magnemite(125) hit Articuno(420) 58(/)
+			Articuno(362) hit Magnemite(125) 75(-)
+			Magnemite(50) hit Articuno(362) 58(/)
+			Articuno(304) hit Magnemite(50) 75(-)
+		WinnerP:Articuno
+	WinnerT:Tracey
+
+	Ash vs Tracey: Stadium
+			Kabuto(910) hit Raichu(750) 65(/)
+			Raichu(685) is drowning!!
+			Raichu(670) hit Kabuto(910) 79(/)
+			Kabuto(831) is electrified!!!!
+			Kabuto(704) hit Raichu(670) 65(/)
+			Raichu(605) is drowning!!
+			Raichu(590) hit Kabuto(704) 79(/)
+			Kabuto(625) is electrified!!!!
+			Kabuto(498) hit Raichu(590) 65(/)
+			Raichu(525) is drowning!!
+			Raichu(510) hit Kabuto(498) 79(/)
+			Kabuto(419) is electrified!!!!
+			Kabuto(292) hit Raichu(510) 65(/)
+			Raichu(445) is drowning!!
+			Raichu(430) hit Kabuto(292) 79(/)
+			Kabuto(213) is electrified!!!!
+			Kabuto(86) hit Raichu(430) 65(/)
+			Raichu(365) is drowning!!
+			Raichu(350) hit Kabuto(86) 79(/)
+			Kabuto(7) is electrified!!!!
+		WinnerP:Raichu
+			Venusaur(1360) hit Raichu(400) 68(/)
+			Raichu(332) is drowning!!
+			Raichu(320) is rooted!!!!
+			Raichu(288) hit Venusaur(1360) 61(/)
+			Venusaur(1299) is electrified!!
+			Venusaur(1229) hit Raichu(288) 68(/)
+			Raichu(220) is drowning!!
+			Raichu(208) is rooted!!!!
+			Raichu(176) hit Venusaur(1229) 61(/)
+			Venusaur(1168) is electrified!!
+			Venusaur(1098) hit Raichu(176) 68(/)
+			Raichu(108) is drowning!!
+			Raichu(96) is rooted!!!!
+			Raichu(64) hit Venusaur(1098) 61(/)
+			Venusaur(1037) is electrified!!
+			Venusaur(967) hit Raichu(64) 68(/)
+		WinnerP:Venusaur
+			Pikachu(650) hit Venusaur(1047) 37(/)
+			Venusaur(1010) is electrified!!
+			Venusaur(940) hit Pikachu(650) 72(/)
+			Pikachu(578) is rooted!!!!
+			Pikachu(537) hit Venusaur(940) 37(/)
+			Venusaur(903) is electrified!!
+			Venusaur(833) hit Pikachu(537) 72(/)
+			Pikachu(465) is rooted!!!!
+			Pikachu(424) hit Venusaur(833) 37(/)
+			Venusaur(796) is electrified!!
+			Venusaur(726) hit Pikachu(424) 72(/)
+			Pikachu(352) is rooted!!!!
+			Pikachu(311) hit Venusaur(726) 37(/)
+			Venusaur(689) is electrified!!
+			Venusaur(619) hit Pikachu(311) 72(/)
+			Pikachu(239) is rooted!!!!
+			Pikachu(198) hit Venusaur(619) 37(/)
+			Venusaur(582) is electrified!!
+			Venusaur(512) hit Pikachu(198) 72(/)
+			Pikachu(126) is rooted!!!!
+			Pikachu(85) hit Venusaur(512) 37(/)
+			Venusaur(475) is electrified!!
+			Venusaur(405) hit Pikachu(85) 72(/)
+			Pikachu(13) is rooted!!!!
+		WinnerP:Venusaur
+			Articuno(1105) hit Venusaur(485) 33(/)
+			Venusaur(452) is electrified!!
+			Venusaur(382) hit Articuno(1105) 40(/)
+			Articuno(1065) hit Venusaur(382) 33(/)
+			Venusaur(349) is electrified!!
+			Venusaur(279) hit Articuno(1065) 40(/)
+			Articuno(1025) hit Venusaur(279) 33(/)
+			Venusaur(246) is electrified!!
+			Venusaur(176) hit Articuno(1025) 40(/)
+			Articuno(985) hit Venusaur(176) 33(/)
+			Venusaur(143) is electrified!!
+			Venusaur(73) hit Articuno(985) 40(/)
+			Articuno(945) hit Venusaur(73) 33(/)
+			Venusaur(40) is electrified!!
+		WinnerP:Articuno
+			Magnemite(650) hit Articuno(1010) 52(/)
+			Articuno(958) hit Magnemite(650) 95(/)
+			Magnemite(555) hit Articuno(958) 52(/)
+			Articuno(906) hit Magnemite(555) 95(/)
+			Magnemite(460) hit Articuno(906) 52(/)
+			Articuno(854) hit Magnemite(460) 95(/)
+			Magnemite(365) hit Articuno(854) 52(/)
+			Articuno(802) hit Magnemite(365) 95(/)
+			Magnemite(270) hit Articuno(802) 52(/)
+			Articuno(750) hit Magnemite(270) 95(/)
+			Magnemite(175) hit Articuno(750) 52(/)
+			Articuno(698) hit Magnemite(175) 95(/)
+			Magnemite(80) hit Articuno(698) 52(/)
+			Articuno(646) hit Magnemite(80) 95(/)
+		WinnerP:Articuno
+	WinnerT:Tracey
+
+Round Winner: Tracey!
+Started Round: 0 vs 3
+	Misty vs Tracey: Ocean
+			Voltorb(650) hit Raichu(800) 91(/)
+			Raichu(709) hit Voltorb(650) 112(/)
+			Voltorb(538) hit Raichu(709) 91(/)
+			Raichu(618) hit Voltorb(538) 112(/)
+			Voltorb(426) hit Raichu(618) 91(/)
+			Raichu(527) hit Voltorb(426) 112(/)
+			Voltorb(314) hit Raichu(527) 91(/)
+			Raichu(436) hit Voltorb(314) 112(/)
+			Voltorb(202) hit Raichu(436) 91(/)
+			Raichu(345) hit Voltorb(202) 112(/)
+			Voltorb(90) hit Raichu(345) 91(/)
+			Raichu(254) hit Voltorb(90) 112(/)
+		WinnerP:Raichu
+			Scyther(1395) hit Raichu(304) 110(-)
+			Raichu(194) hit Scyther(1395) 65(/)
+			Scyther(1330) hit Raichu(194) 110(-)
+			Raichu(84) hit Scyther(1330) 65(/)
+			Scyther(1265) hit Raichu(84) 110(-)
+		WinnerP:Scyther
+			Pikachu(650) hit Scyther(1330) 34(/)
+			Scyther(1296) hit Pikachu(650) 115(-)
+			Pikachu(535) hit Scyther(1296) 34(/)
+			Scyther(1262) hit Pikachu(535) 115(-)
+			Pikachu(420) hit Scyther(1262) 34(/)
+			Scyther(1228) hit Pikachu(420) 115(-)
+			Pikachu(305) hit Scyther(1228) 34(/)
+			Scyther(1194) hit Pikachu(305) 115(-)
+			Pikachu(190) hit Scyther(1194) 34(/)
+			Scyther(1160) hit Pikachu(190) 115(-)
+			Pikachu(75) hit Scyther(1160) 34(/)
+			Scyther(1126) hit Pikachu(75) 115(-)
+		WinnerP:Scyther
+			Articuno(1135) hit Scyther(1191) 30(-)
+			Scyther(1161) hit Articuno(1135) 78(-)
+			Articuno(1057) hit Scyther(1161) 30(-)
+			Scyther(1131) hit Articuno(1057) 78(-)
+			Articuno(979) hit Scyther(1131) 30(-)
+			Scyther(1101) hit Articuno(979) 78(-)
+			Articuno(901) hit Scyther(1101) 30(-)
+			Scyther(1071) hit Articuno(901) 78(-)
+			Articuno(823) hit Scyther(1071) 30(-)
+			Scyther(1041) hit Articuno(823) 78(-)
+			Articuno(745) hit Scyther(1041) 30(-)
+			Scyther(1011) hit Articuno(745) 78(-)
+			Articuno(667) hit Scyther(1011) 30(-)
+			Scyther(981) hit Articuno(667) 78(-)
+			Articuno(589) hit Scyther(981) 30(-)
+			Scyther(951) hit Articuno(589) 78(-)
+			Articuno(511) hit Scyther(951) 30(-)
+			Scyther(921) hit Articuno(511) 78(-)
+			Articuno(433) hit Scyther(921) 30(-)
+			Scyther(891) hit Articuno(433) 78(-)
+			Articuno(355) hit Scyther(891) 30(-)
+			Scyther(861) hit Articuno(355) 78(-)
+			Articuno(277) hit Scyther(861) 30(-)
+			Scyther(831) hit Articuno(277) 78(-)
+			Articuno(199) hit Scyther(831) 30(-)
+			Scyther(801) hit Articuno(199) 78(-)
+			Articuno(121) hit Scyther(801) 30(-)
+			Scyther(771) hit Articuno(121) 78(-)
+			Articuno(43) hit Scyther(771) 30(-)
+			Scyther(741) hit Articuno(43) 78(-)
+		WinnerP:Scyther
+	WinnerT:Misty
+
+	Tracey vs Misty: Ocean
+			Raichu(850) hit Voltorb(650) 119(/)
+			Voltorb(531) hit Raichu(850) 91(/)
+			Raichu(759) hit Voltorb(531) 119(/)
+			Voltorb(412) hit Raichu(759) 91(/)
+			Raichu(668) hit Voltorb(412) 119(/)
+			Voltorb(293) hit Raichu(668) 91(/)
+			Raichu(577) hit Voltorb(293) 119(/)
+			Voltorb(174) hit Raichu(577) 91(/)
+			Raichu(486) hit Voltorb(174) 119(/)
+			Voltorb(55) hit Raichu(486) 91(/)
+			Raichu(395) hit Voltorb(55) 119(/)
+		WinnerP:Raichu
+			Scyther(1590) hit Raichu(445) 125(-)
+			Raichu(320) hit Scyther(1590) 63(/)
+			Scyther(1527) hit Raichu(320) 125(-)
+			Raichu(195) hit Scyther(1527) 63(/)
+			Scyther(1464) hit Raichu(195) 125(-)
+			Raichu(70) hit Scyther(1464) 63(/)
+			Scyther(1401) hit Raichu(70) 125(-)
+		WinnerP:Scyther
+			Pikachu(650) hit Scyther(1466) 25(/)
+			Scyther(1441) hit Pikachu(650) 130(-)
+			Pikachu(520) hit Scyther(1441) 25(/)
+			Scyther(1416) hit Pikachu(520) 130(-)
+			Pikachu(390) hit Scyther(1416) 25(/)
+			Scyther(1391) hit Pikachu(390) 130(-)
+			Pikachu(260) hit Scyther(1391) 25(/)
+			Scyther(1366) hit Pikachu(260) 130(-)
+			Pikachu(130) hit Scyther(1366) 25(/)
+			Scyther(1341) hit Pikachu(130) 130(-)
+		WinnerP:Scyther
+			Articuno(1135) hit Scyther(1406) 21(-)
+			Scyther(1385) hit Articuno(1135) 93(-)
+			Articuno(1042) hit Scyther(1385) 21(-)
+			Scyther(1364) hit Articuno(1042) 93(-)
+			Articuno(949) hit Scyther(1364) 21(-)
+			Scyther(1343) hit Articuno(949) 93(-)
+			Articuno(856) hit Scyther(1343) 21(-)
+			Scyther(1322) hit Articuno(856) 93(-)
+			Articuno(763) hit Scyther(1322) 21(-)
+			Scyther(1301) hit Articuno(763) 93(-)
+			Articuno(670) hit Scyther(1301) 21(-)
+			Scyther(1280) hit Articuno(670) 93(-)
+			Articuno(577) hit Scyther(1280) 21(-)
+			Scyther(1259) hit Articuno(577) 93(-)
+			Articuno(484) hit Scyther(1259) 21(-)
+			Scyther(1238) hit Articuno(484) 93(-)
+			Articuno(391) hit Scyther(1238) 21(-)
+			Scyther(1217) hit Articuno(391) 93(-)
+			Articuno(298) hit Scyther(1217) 21(-)
+			Scyther(1196) hit Articuno(298) 93(-)
+			Articuno(205) hit Scyther(1196) 21(-)
+			Scyther(1175) hit Articuno(205) 93(-)
+			Articuno(112) hit Scyther(1175) 21(-)
+			Scyther(1154) hit Articuno(112) 93(-)
+			Articuno(19) hit Scyther(1154) 21(-)
+			Scyther(1133) hit Articuno(19) 93(-)
+		WinnerP:Scyther
+	WinnerT:Misty
+
+	Misty vs Tracey: Stadium
+			Voltorb(650) hit Raichu(900) 91(/)
+			Raichu(809) hit Voltorb(650) 126(/)
+			Voltorb(524) hit Raichu(809) 91(/)
+			Raichu(718) hit Voltorb(524) 126(/)
+			Voltorb(398) hit Raichu(718) 91(/)
+			Raichu(627) hit Voltorb(398) 126(/)
+			Voltorb(272) hit Raichu(627) 91(/)
+			Raichu(536) hit Voltorb(272) 126(/)
+			Voltorb(146) hit Raichu(536) 91(/)
+			Raichu(445) hit Voltorb(146) 126(/)
+			Voltorb(20) hit Raichu(445) 91(/)
+			Raichu(354) hit Voltorb(20) 126(/)
+		WinnerP:Raichu
+			Scyther(1885) hit Raichu(404) 150(/)
+			Raichu(254) hit Scyther(1885) 61(/)
+			Scyther(1824) hit Raichu(254) 150(/)
+			Raichu(104) hit Scyther(1824) 61(/)
+			Scyther(1763) hit Raichu(104) 150(/)
+		WinnerP:Scyther
+			Pikachu(650) hit Scyther(1828) 16(/)
+			Scyther(1812) hit Pikachu(650) 155(/)
+			Pikachu(495) hit Scyther(1812) 16(/)
+			Scyther(1796) hit Pikachu(495) 155(/)
+			Pikachu(340) hit Scyther(1796) 16(/)
+			Scyther(1780) hit Pikachu(340) 155(/)
+			Pikachu(185) hit Scyther(1780) 16(/)
+			Scyther(1764) hit Pikachu(185) 155(/)
+			Pikachu(30) hit Scyther(1764) 16(/)
+			Scyther(1748) hit Pikachu(30) 155(/)
+		WinnerP:Scyther
+			Articuno(1235) hit Scyther(1813) 22(/)
+			Scyther(1791) hit Articuno(1235) 118(/)
+			Articuno(1117) hit Scyther(1791) 22(/)
+			Scyther(1769) hit Articuno(1117) 118(/)
+			Articuno(999) hit Scyther(1769) 22(/)
+			Scyther(1747) hit Articuno(999) 118(/)
+			Articuno(881) hit Scyther(1747) 22(/)
+			Scyther(1725) hit Articuno(881) 118(/)
+			Articuno(763) hit Scyther(1725) 22(/)
+			Scyther(1703) hit Articuno(763) 118(/)
+			Articuno(645) hit Scyther(1703) 22(/)
+			Scyther(1681) hit Articuno(645) 118(/)
+			Articuno(527) hit Scyther(1681) 22(/)
+			Scyther(1659) hit Articuno(527) 118(/)
+			Articuno(409) hit Scyther(1659) 22(/)
+			Scyther(1637) hit Articuno(409) 118(/)
+			Articuno(291) hit Scyther(1637) 22(/)
+			Scyther(1615) hit Articuno(291) 118(/)
+			Articuno(173) hit Scyther(1615) 22(/)
+			Scyther(1593) hit Articuno(173) 118(/)
+			Articuno(55) hit Scyther(1593) 22(/)
+			Scyther(1571) hit Articuno(55) 118(/)
+		WinnerP:Scyther
+	WinnerT:Misty
+
+Round Winner: Misty!
+Started Round: 1 vs 2
+	Bonnie vs Iris: Magma
+			Weepinbell(1180) hit Electrode(600) 54(-)
+			Electrode(546) is rooted!!!!
+			Electrode(508) hit Weepinbell(1180) 40(-)
+			Weepinbell(1140) is electrified!!
+			Weepinbell(1070) hit Electrode(508) 54(-)
+			Electrode(454) is rooted!!!!
+			Electrode(416) hit Weepinbell(1070) 40(-)
+			Weepinbell(1030) is electrified!!
+			Weepinbell(960) hit Electrode(416) 54(-)
+			Electrode(362) is rooted!!!!
+			Electrode(324) hit Weepinbell(960) 40(-)
+			Weepinbell(920) is electrified!!
+			Weepinbell(850) hit Electrode(324) 54(-)
+			Electrode(270) is rooted!!!!
+			Electrode(232) hit Weepinbell(850) 40(-)
+			Weepinbell(810) is electrified!!
+			Weepinbell(740) hit Electrode(232) 54(-)
+			Electrode(178) is rooted!!!!
+			Electrode(140) hit Weepinbell(740) 40(-)
+			Weepinbell(700) is electrified!!
+			Weepinbell(630) hit Electrode(140) 54(-)
+			Electrode(86) is rooted!!!!
+			Electrode(48) hit Weepinbell(630) 40(-)
+			Weepinbell(590) is electrified!!
+			Weepinbell(520) hit Electrode(48) 54(-)
+		WinnerP:Weepinbell
+			Pidgeot(1560) hit Weepinbell(600) 74(/)
+			Weepinbell(526) is electrified!!
+			Weepinbell(456) hit Pidgeot(1560) 1(-)
+			Pidgeot(1559) hit Weepinbell(456) 74(/)
+			Weepinbell(382) is electrified!!
+			Weepinbell(312) hit Pidgeot(1559) 1(-)
+			Pidgeot(1558) hit Weepinbell(312) 74(/)
+			Weepinbell(238) is electrified!!
+			Weepinbell(168) hit Pidgeot(1558) 1(-)
+			Pidgeot(1557) hit Weepinbell(168) 74(/)
+			Weepinbell(94) is electrified!!
+			Weepinbell(24) hit Pidgeot(1557) 1(-)
+			Pidgeot(1556) hit Weepinbell(24) 74(/)
+		WinnerP:Pidgeot
+			Psyduck(910) hit Pidgeot(1621) 5(/)
+			Pidgeot(1616) hit Psyduck(910) 104(/)
+			Psyduck(806) hit Pidgeot(1616) 5(/)
+			Pidgeot(1611) hit Psyduck(806) 104(/)
+			Psyduck(702) hit Pidgeot(1611) 5(/)
+			Pidgeot(1606) hit Psyduck(702) 104(/)
+			Psyduck(598) hit Pidgeot(1606) 5(/)
+			Pidgeot(1601) hit Psyduck(598) 104(/)
+			Psyduck(494) hit Pidgeot(1601) 5(/)
+			Pidgeot(1596) hit Psyduck(494) 104(/)
+			Psyduck(390) hit Pidgeot(1596) 5(/)
+			Pidgeot(1591) hit Psyduck(390) 104(/)
+			Psyduck(286) hit Pidgeot(1591) 5(/)
+			Pidgeot(1586) hit Psyduck(286) 104(/)
+			Psyduck(182) hit Pidgeot(1586) 5(/)
+			Pidgeot(1581) hit Psyduck(182) 104(/)
+			Psyduck(78) hit Pidgeot(1581) 5(/)
+			Pidgeot(1576) hit Psyduck(78) 104(/)
+		WinnerP:Pidgeot
+			Pidgey(1235) hit Pidgeot(1641) 37(/)
+			Pidgeot(1604) hit Pidgey(1235) 93(/)
+			Pidgey(1142) hit Pidgeot(1604) 37(/)
+			Pidgeot(1567) hit Pidgey(1142) 93(/)
+			Pidgey(1049) hit Pidgeot(1567) 37(/)
+			Pidgeot(1530) hit Pidgey(1049) 93(/)
+			Pidgey(956) hit Pidgeot(1530) 37(/)
+			Pidgeot(1493) hit Pidgey(956) 93(/)
+			Pidgey(863) hit Pidgeot(1493) 37(/)
+			Pidgeot(1456) hit Pidgey(863) 93(/)
+			Pidgey(770) hit Pidgeot(1456) 37(/)
+			Pidgeot(1419) hit Pidgey(770) 93(/)
+			Pidgey(677) hit Pidgeot(1419) 37(/)
+			Pidgeot(1382) hit Pidgey(677) 93(/)
+			Pidgey(584) hit Pidgeot(1382) 37(/)
+			Pidgeot(1345) hit Pidgey(584) 93(/)
+			Pidgey(491) hit Pidgeot(1345) 37(/)
+			Pidgeot(1308) hit Pidgey(491) 93(/)
+			Pidgey(398) hit Pidgeot(1308) 37(/)
+			Pidgeot(1271) hit Pidgey(398) 93(/)
+			Pidgey(305) hit Pidgeot(1271) 37(/)
+			Pidgeot(1234) hit Pidgey(305) 93(/)
+			Pidgey(212) hit Pidgeot(1234) 37(/)
+			Pidgeot(1197) hit Pidgey(212) 93(/)
+			Pidgey(119) hit Pidgeot(1197) 37(/)
+			Pidgeot(1160) hit Pidgey(119) 93(/)
+			Pidgey(26) hit Pidgeot(1160) 37(/)
+			Pidgeot(1123) hit Pidgey(26) 93(/)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+	Iris vs Bonnie: Sky
+			Electrode(700) hit Weepinbell(1260) 47(/)
+			Weepinbell(1213) is electrified!!
+			Weepinbell(1143) hit Electrode(700) 58(-)
+			Electrode(642) is rooted!!!!
+			Electrode(604) hit Weepinbell(1143) 47(/)
+			Weepinbell(1096) is electrified!!
+			Weepinbell(1026) hit Electrode(604) 58(-)
+			Electrode(546) is rooted!!!!
+			Electrode(508) hit Weepinbell(1026) 47(/)
+			Weepinbell(979) is electrified!!
+			Weepinbell(909) hit Electrode(508) 58(-)
+			Electrode(450) is rooted!!!!
+			Electrode(412) hit Weepinbell(909) 47(/)
+			Weepinbell(862) is electrified!!
+			Weepinbell(792) hit Electrode(412) 58(-)
+			Electrode(354) is rooted!!!!
+			Electrode(316) hit Weepinbell(792) 47(/)
+			Weepinbell(745) is electrified!!
+			Weepinbell(675) hit Electrode(316) 58(-)
+			Electrode(258) is rooted!!!!
+			Electrode(220) hit Weepinbell(675) 47(/)
+			Weepinbell(628) is electrified!!
+			Weepinbell(558) hit Electrode(220) 58(-)
+			Electrode(162) is rooted!!!!
+			Electrode(124) hit Weepinbell(558) 47(/)
+			Weepinbell(511) is electrified!!
+			Weepinbell(441) hit Electrode(124) 58(-)
+			Electrode(66) is rooted!!!!
+			Electrode(28) hit Weepinbell(441) 47(/)
+			Weepinbell(394) is electrified!!
+			Weepinbell(324) hit Electrode(28) 58(-)
+		WinnerP:Weepinbell
+			Pidgeot(1855) hit Weepinbell(404) 96(+)
+			Weepinbell(308) is electrified!!
+			Weepinbell(238) hit Pidgeot(1855) 1(-)
+			Pidgeot(1854) hit Weepinbell(238) 96(+)
+			Weepinbell(142) is electrified!!
+			Weepinbell(72) hit Pidgeot(1854) 1(-)
+			Pidgeot(1853) hit Weepinbell(72) 96(+)
+		WinnerP:Pidgeot
+			Psyduck(910) hit Pidgeot(1918) 1(/)
+			Pidgeot(1917) hit Psyduck(910) 129(+)
+			Psyduck(781) hit Pidgeot(1917) 1(/)
+			Pidgeot(1916) hit Psyduck(781) 129(+)
+			Psyduck(652) hit Pidgeot(1916) 1(/)
+			Pidgeot(1915) hit Psyduck(652) 129(+)
+			Psyduck(523) hit Pidgeot(1915) 1(/)
+			Pidgeot(1914) hit Psyduck(523) 129(+)
+			Psyduck(394) hit Pidgeot(1914) 1(/)
+			Pidgeot(1913) hit Psyduck(394) 129(+)
+			Psyduck(265) hit Pidgeot(1913) 1(/)
+			Pidgeot(1912) hit Psyduck(265) 129(+)
+			Psyduck(136) hit Pidgeot(1912) 1(/)
+			Pidgeot(1911) hit Psyduck(136) 129(+)
+			Psyduck(7) hit Pidgeot(1911) 1(/)
+			Pidgeot(1910) hit Psyduck(7) 129(+)
+		WinnerP:Pidgeot
+			Pidgey(1335) hit Pidgeot(1975) 38(+)
+			Pidgeot(1937) hit Pidgey(1335) 118(+)
+			Pidgey(1217) hit Pidgeot(1937) 38(+)
+			Pidgeot(1899) hit Pidgey(1217) 118(+)
+			Pidgey(1099) hit Pidgeot(1899) 38(+)
+			Pidgeot(1861) hit Pidgey(1099) 118(+)
+			Pidgey(981) hit Pidgeot(1861) 38(+)
+			Pidgeot(1823) hit Pidgey(981) 118(+)
+			Pidgey(863) hit Pidgeot(1823) 38(+)
+			Pidgeot(1785) hit Pidgey(863) 118(+)
+			Pidgey(745) hit Pidgeot(1785) 38(+)
+			Pidgeot(1747) hit Pidgey(745) 118(+)
+			Pidgey(627) hit Pidgeot(1747) 38(+)
+			Pidgeot(1709) hit Pidgey(627) 118(+)
+			Pidgey(509) hit Pidgeot(1709) 38(+)
+			Pidgeot(1671) hit Pidgey(509) 118(+)
+			Pidgey(391) hit Pidgeot(1671) 38(+)
+			Pidgeot(1633) hit Pidgey(391) 118(+)
+			Pidgey(273) hit Pidgeot(1633) 38(+)
+			Pidgeot(1595) hit Pidgey(273) 118(+)
+			Pidgey(155) hit Pidgeot(1595) 38(+)
+			Pidgeot(1557) hit Pidgey(155) 118(+)
+			Pidgey(37) hit Pidgeot(1557) 38(+)
+			Pidgeot(1519) hit Pidgey(37) 118(+)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+	Bonnie vs Iris: Stadium
+			Weepinbell(1440) hit Electrode(700) 72(/)
+			Electrode(628) is rooted!!!!
+			Electrode(590) hit Weepinbell(1440) 44(/)
+			Weepinbell(1396) is electrified!!
+			Weepinbell(1326) hit Electrode(590) 72(/)
+			Electrode(518) is rooted!!!!
+			Electrode(480) hit Weepinbell(1326) 44(/)
+			Weepinbell(1282) is electrified!!
+			Weepinbell(1212) hit Electrode(480) 72(/)
+			Electrode(408) is rooted!!!!
+			Electrode(370) hit Weepinbell(1212) 44(/)
+			Weepinbell(1168) is electrified!!
+			Weepinbell(1098) hit Electrode(370) 72(/)
+			Electrode(298) is rooted!!!!
+			Electrode(260) hit Weepinbell(1098) 44(/)
+			Weepinbell(1054) is electrified!!
+			Weepinbell(984) hit Electrode(260) 72(/)
+			Electrode(188) is rooted!!!!
+			Electrode(150) hit Weepinbell(984) 44(/)
+			Weepinbell(940) is electrified!!
+			Weepinbell(870) hit Electrode(150) 72(/)
+			Electrode(78) is rooted!!!!
+			Electrode(40) hit Weepinbell(870) 44(/)
+			Weepinbell(826) is electrified!!
+			Weepinbell(756) hit Electrode(40) 72(/)
+		WinnerP:Weepinbell
+			Pidgeot(1950) hit Weepinbell(836) 98(/)
+			Weepinbell(738) is electrified!!
+			Weepinbell(668) hit Pidgeot(1950) 1(/)
+			Pidgeot(1949) hit Weepinbell(668) 98(/)
+			Weepinbell(570) is electrified!!
+			Weepinbell(500) hit Pidgeot(1949) 1(/)
+			Pidgeot(1948) hit Weepinbell(500) 98(/)
+			Weepinbell(402) is electrified!!
+			Weepinbell(332) hit Pidgeot(1948) 1(/)
+			Pidgeot(1947) hit Weepinbell(332) 98(/)
+			Weepinbell(234) is electrified!!
+			Weepinbell(164) hit Pidgeot(1947) 1(/)
+			Pidgeot(1946) hit Weepinbell(164) 98(/)
+			Weepinbell(66) is electrified!!
+		WinnerP:Pidgeot
+			Psyduck(910) hit Pidgeot(2011) 1(/)
+			Pidgeot(2010) hit Psyduck(910) 134(/)
+			Psyduck(776) hit Pidgeot(2010) 1(/)
+			Pidgeot(2009) hit Psyduck(776) 134(/)
+			Psyduck(642) hit Pidgeot(2009) 1(/)
+			Pidgeot(2008) hit Psyduck(642) 134(/)
+			Psyduck(508) hit Pidgeot(2008) 1(/)
+			Pidgeot(2007) hit Psyduck(508) 134(/)
+			Psyduck(374) hit Pidgeot(2007) 1(/)
+			Pidgeot(2006) hit Psyduck(374) 134(/)
+			Psyduck(240) hit Pidgeot(2006) 1(/)
+			Pidgeot(2005) hit Psyduck(240) 134(/)
+			Psyduck(106) hit Pidgeot(2005) 1(/)
+			Pidgeot(2004) hit Psyduck(106) 134(/)
+		WinnerP:Pidgeot
+			Pidgey(1235) hit Pidgeot(2069) 19(/)
+			Pidgeot(2050) hit Pidgey(1235) 123(/)
+			Pidgey(1112) hit Pidgeot(2050) 19(/)
+			Pidgeot(2031) hit Pidgey(1112) 123(/)
+			Pidgey(989) hit Pidgeot(2031) 19(/)
+			Pidgeot(2012) hit Pidgey(989) 123(/)
+			Pidgey(866) hit Pidgeot(2012) 19(/)
+			Pidgeot(1993) hit Pidgey(866) 123(/)
+			Pidgey(743) hit Pidgeot(1993) 19(/)
+			Pidgeot(1974) hit Pidgey(743) 123(/)
+			Pidgey(620) hit Pidgeot(1974) 19(/)
+			Pidgeot(1955) hit Pidgey(620) 123(/)
+			Pidgey(497) hit Pidgeot(1955) 19(/)
+			Pidgeot(1936) hit Pidgey(497) 123(/)
+			Pidgey(374) hit Pidgeot(1936) 19(/)
+			Pidgeot(1917) hit Pidgey(374) 123(/)
+			Pidgey(251) hit Pidgeot(1917) 19(/)
+			Pidgeot(1898) hit Pidgey(251) 123(/)
+			Pidgey(128) hit Pidgeot(1898) 19(/)
+			Pidgeot(1879) hit Pidgey(128) 123(/)
+			Pidgey(5) hit Pidgeot(1879) 19(/)
+			Pidgeot(1860) hit Pidgey(5) 123(/)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+Round Winner: Iris!
+Started Round: 0 vs 1
+	Misty vs Iris: Ocean
+			Voltorb(650) hit Electrode(700) 91(/)
+			Electrode(609) hit Voltorb(650) 98(/)
+			Voltorb(552) hit Electrode(609) 91(/)
+			Electrode(518) hit Voltorb(552) 98(/)
+			Voltorb(454) hit Electrode(518) 91(/)
+			Electrode(427) hit Voltorb(454) 98(/)
+			Voltorb(356) hit Electrode(427) 91(/)
+			Electrode(336) hit Voltorb(356) 98(/)
+			Voltorb(258) hit Electrode(336) 91(/)
+			Electrode(245) hit Voltorb(258) 98(/)
+			Voltorb(160) hit Electrode(245) 91(/)
+			Electrode(154) hit Voltorb(160) 98(/)
+			Voltorb(62) hit Electrode(154) 91(/)
+			Electrode(63) hit Voltorb(62) 98(/)
+		WinnerP:Electrode
+			Scyther(1980) hit Electrode(113) 155(-)
+		WinnerP:Scyther
+			Pidgeot(2045) hit Scyther(2045) 76(-)
+			Scyther(1969) hit Pidgeot(2045) 76(-)
+			Pidgeot(1969) hit Scyther(1969) 76(-)
+			Scyther(1893) hit Pidgeot(1969) 76(-)
+			Pidgeot(1893) hit Scyther(1893) 76(-)
+			Scyther(1817) hit Pidgeot(1893) 76(-)
+			Pidgeot(1817) hit Scyther(1817) 76(-)
+			Scyther(1741) hit Pidgeot(1817) 76(-)
+			Pidgeot(1741) hit Scyther(1741) 76(-)
+			Scyther(1665) hit Pidgeot(1741) 76(-)
+			Pidgeot(1665) hit Scyther(1665) 76(-)
+			Scyther(1589) hit Pidgeot(1665) 76(-)
+			Pidgeot(1589) hit Scyther(1589) 76(-)
+			Scyther(1513) hit Pidgeot(1589) 76(-)
+			Pidgeot(1513) hit Scyther(1513) 76(-)
+			Scyther(1437) hit Pidgeot(1513) 76(-)
+			Pidgeot(1437) hit Scyther(1437) 76(-)
+			Scyther(1361) hit Pidgeot(1437) 76(-)
+			Pidgeot(1361) hit Scyther(1361) 76(-)
+			Scyther(1285) hit Pidgeot(1361) 76(-)
+			Pidgeot(1285) hit Scyther(1285) 76(-)
+			Scyther(1209) hit Pidgeot(1285) 76(-)
+			Pidgeot(1209) hit Scyther(1209) 76(-)
+			Scyther(1133) hit Pidgeot(1209) 76(-)
+			Pidgeot(1133) hit Scyther(1133) 76(-)
+			Scyther(1057) hit Pidgeot(1133) 76(-)
+			Pidgeot(1057) hit Scyther(1057) 76(-)
+			Scyther(981) hit Pidgeot(1057) 76(-)
+			Pidgeot(981) hit Scyther(981) 76(-)
+			Scyther(905) hit Pidgeot(981) 76(-)
+			Pidgeot(905) hit Scyther(905) 76(-)
+			Scyther(829) hit Pidgeot(905) 76(-)
+			Pidgeot(829) hit Scyther(829) 76(-)
+			Scyther(753) hit Pidgeot(829) 76(-)
+			Pidgeot(753) hit Scyther(753) 76(-)
+			Scyther(677) hit Pidgeot(753) 76(-)
+			Pidgeot(677) hit Scyther(677) 76(-)
+			Scyther(601) hit Pidgeot(677) 76(-)
+			Pidgeot(601) hit Scyther(601) 76(-)
+			Scyther(525) hit Pidgeot(601) 76(-)
+			Pidgeot(525) hit Scyther(525) 76(-)
+			Scyther(449) hit Pidgeot(525) 76(-)
+			Pidgeot(449) hit Scyther(449) 76(-)
+			Scyther(373) hit Pidgeot(449) 76(-)
+			Pidgeot(373) hit Scyther(373) 76(-)
+			Scyther(297) hit Pidgeot(373) 76(-)
+			Pidgeot(297) hit Scyther(297) 76(-)
+			Scyther(221) hit Pidgeot(297) 76(-)
+			Pidgeot(221) hit Scyther(221) 76(-)
+			Scyther(145) hit Pidgeot(221) 76(-)
+			Pidgeot(145) hit Scyther(145) 76(-)
+			Scyther(69) hit Pidgeot(145) 76(-)
+			Pidgeot(69) hit Scyther(69) 76(-)
+		WinnerP:Pidgeot
+			Magnemite(600) hit Pidgeot(134) 1(/)
+			Pidgeot(133) hit Magnemite(600) 165(-)
+			Magnemite(435) hit Pidgeot(133) 1(/)
+			Pidgeot(132) hit Magnemite(435) 165(-)
+			Magnemite(270) hit Pidgeot(132) 1(/)
+			Pidgeot(131) hit Magnemite(270) 165(-)
+			Magnemite(105) hit Pidgeot(131) 1(/)
+			Pidgeot(130) hit Magnemite(105) 165(-)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+	Iris vs Misty: Sky
+			Electrode(750) hit Voltorb(650) 105(/)
+			Voltorb(545) hit Electrode(750) 91(/)
+			Electrode(659) hit Voltorb(545) 105(/)
+			Voltorb(440) hit Electrode(659) 91(/)
+			Electrode(568) hit Voltorb(440) 105(/)
+			Voltorb(335) hit Electrode(568) 91(/)
+			Electrode(477) hit Voltorb(335) 105(/)
+			Voltorb(230) hit Electrode(477) 91(/)
+			Electrode(386) hit Voltorb(230) 105(/)
+			Voltorb(125) hit Electrode(386) 91(/)
+			Electrode(295) hit Voltorb(125) 105(/)
+			Voltorb(20) hit Electrode(295) 91(/)
+			Electrode(204) hit Voltorb(20) 105(/)
+		WinnerP:Electrode
+			Scyther(2245) hit Electrode(254) 180(+)
+			Electrode(74) hit Scyther(2245) 28(/)
+			Scyther(2217) hit Electrode(74) 180(+)
+		WinnerP:Scyther
+			Pidgeot(2375) hit Scyther(2282) 103(+)
+			Scyther(2179) hit Pidgeot(2375) 95(+)
+			Pidgeot(2280) hit Scyther(2179) 103(+)
+			Scyther(2076) hit Pidgeot(2280) 95(+)
+			Pidgeot(2185) hit Scyther(2076) 103(+)
+			Scyther(1973) hit Pidgeot(2185) 95(+)
+			Pidgeot(2090) hit Scyther(1973) 103(+)
+			Scyther(1870) hit Pidgeot(2090) 95(+)
+			Pidgeot(1995) hit Scyther(1870) 103(+)
+			Scyther(1767) hit Pidgeot(1995) 95(+)
+			Pidgeot(1900) hit Scyther(1767) 103(+)
+			Scyther(1664) hit Pidgeot(1900) 95(+)
+			Pidgeot(1805) hit Scyther(1664) 103(+)
+			Scyther(1561) hit Pidgeot(1805) 95(+)
+			Pidgeot(1710) hit Scyther(1561) 103(+)
+			Scyther(1458) hit Pidgeot(1710) 95(+)
+			Pidgeot(1615) hit Scyther(1458) 103(+)
+			Scyther(1355) hit Pidgeot(1615) 95(+)
+			Pidgeot(1520) hit Scyther(1355) 103(+)
+			Scyther(1252) hit Pidgeot(1520) 95(+)
+			Pidgeot(1425) hit Scyther(1252) 103(+)
+			Scyther(1149) hit Pidgeot(1425) 95(+)
+			Pidgeot(1330) hit Scyther(1149) 103(+)
+			Scyther(1046) hit Pidgeot(1330) 95(+)
+			Pidgeot(1235) hit Scyther(1046) 103(+)
+			Scyther(943) hit Pidgeot(1235) 95(+)
+			Pidgeot(1140) hit Scyther(943) 103(+)
+			Scyther(840) hit Pidgeot(1140) 95(+)
+			Pidgeot(1045) hit Scyther(840) 103(+)
+			Scyther(737) hit Pidgeot(1045) 95(+)
+			Pidgeot(950) hit Scyther(737) 103(+)
+			Scyther(634) hit Pidgeot(950) 95(+)
+			Pidgeot(855) hit Scyther(634) 103(+)
+			Scyther(531) hit Pidgeot(855) 95(+)
+			Pidgeot(760) hit Scyther(531) 103(+)
+			Scyther(428) hit Pidgeot(760) 95(+)
+			Pidgeot(665) hit Scyther(428) 103(+)
+			Scyther(325) hit Pidgeot(665) 95(+)
+			Pidgeot(570) hit Scyther(325) 103(+)
+			Scyther(222) hit Pidgeot(570) 95(+)
+			Pidgeot(475) hit Scyther(222) 103(+)
+			Scyther(119) hit Pidgeot(475) 95(+)
+			Pidgeot(380) hit Scyther(119) 103(+)
+			Scyther(16) hit Pidgeot(380) 95(+)
+			Pidgeot(285) hit Scyther(16) 103(+)
+		WinnerP:Pidgeot
+			Magnemite(600) hit Pidgeot(350) 1(/)
+			Pidgeot(349) hit Magnemite(600) 195(+)
+			Magnemite(405) hit Pidgeot(349) 1(/)
+			Pidgeot(348) hit Magnemite(405) 195(+)
+			Magnemite(210) hit Pidgeot(348) 1(/)
+			Pidgeot(347) hit Magnemite(210) 195(+)
+			Magnemite(15) hit Pidgeot(347) 1(/)
+			Pidgeot(346) hit Magnemite(15) 195(+)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+	Misty vs Iris: Stadium
+			Voltorb(650) hit Electrode(800) 91(/)
+			Electrode(709) hit Voltorb(650) 112(/)
+			Voltorb(538) hit Electrode(709) 91(/)
+			Electrode(618) hit Voltorb(538) 112(/)
+			Voltorb(426) hit Electrode(618) 91(/)
+			Electrode(527) hit Voltorb(426) 112(/)
+			Voltorb(314) hit Electrode(527) 91(/)
+			Electrode(436) hit Voltorb(314) 112(/)
+			Voltorb(202) hit Electrode(436) 91(/)
+			Electrode(345) hit Voltorb(202) 112(/)
+			Voltorb(90) hit Electrode(345) 91(/)
+			Electrode(254) hit Voltorb(90) 112(/)
+		WinnerP:Electrode
+			Scyther(2210) hit Electrode(304) 175(/)
+			Electrode(129) hit Scyther(2210) 32(/)
+			Scyther(2178) hit Electrode(129) 175(/)
+		WinnerP:Scyther
+			Pidgeot(2405) hit Scyther(2243) 100(/)
+			Scyther(2143) hit Pidgeot(2405) 84(/)
+			Pidgeot(2321) hit Scyther(2143) 100(/)
+			Scyther(2043) hit Pidgeot(2321) 84(/)
+			Pidgeot(2237) hit Scyther(2043) 100(/)
+			Scyther(1943) hit Pidgeot(2237) 84(/)
+			Pidgeot(2153) hit Scyther(1943) 100(/)
+			Scyther(1843) hit Pidgeot(2153) 84(/)
+			Pidgeot(2069) hit Scyther(1843) 100(/)
+			Scyther(1743) hit Pidgeot(2069) 84(/)
+			Pidgeot(1985) hit Scyther(1743) 100(/)
+			Scyther(1643) hit Pidgeot(1985) 84(/)
+			Pidgeot(1901) hit Scyther(1643) 100(/)
+			Scyther(1543) hit Pidgeot(1901) 84(/)
+			Pidgeot(1817) hit Scyther(1543) 100(/)
+			Scyther(1443) hit Pidgeot(1817) 84(/)
+			Pidgeot(1733) hit Scyther(1443) 100(/)
+			Scyther(1343) hit Pidgeot(1733) 84(/)
+			Pidgeot(1649) hit Scyther(1343) 100(/)
+			Scyther(1243) hit Pidgeot(1649) 84(/)
+			Pidgeot(1565) hit Scyther(1243) 100(/)
+			Scyther(1143) hit Pidgeot(1565) 84(/)
+			Pidgeot(1481) hit Scyther(1143) 100(/)
+			Scyther(1043) hit Pidgeot(1481) 84(/)
+			Pidgeot(1397) hit Scyther(1043) 100(/)
+			Scyther(943) hit Pidgeot(1397) 84(/)
+			Pidgeot(1313) hit Scyther(943) 100(/)
+			Scyther(843) hit Pidgeot(1313) 84(/)
+			Pidgeot(1229) hit Scyther(843) 100(/)
+			Scyther(743) hit Pidgeot(1229) 84(/)
+			Pidgeot(1145) hit Scyther(743) 100(/)
+			Scyther(643) hit Pidgeot(1145) 84(/)
+			Pidgeot(1061) hit Scyther(643) 100(/)
+			Scyther(543) hit Pidgeot(1061) 84(/)
+			Pidgeot(977) hit Scyther(543) 100(/)
+			Scyther(443) hit Pidgeot(977) 84(/)
+			Pidgeot(893) hit Scyther(443) 100(/)
+			Scyther(343) hit Pidgeot(893) 84(/)
+			Pidgeot(809) hit Scyther(343) 100(/)
+			Scyther(243) hit Pidgeot(809) 84(/)
+			Pidgeot(725) hit Scyther(243) 100(/)
+			Scyther(143) hit Pidgeot(725) 84(/)
+			Pidgeot(641) hit Scyther(143) 100(/)
+			Scyther(43) hit Pidgeot(641) 84(/)
+			Pidgeot(557) hit Scyther(43) 100(/)
+		WinnerP:Pidgeot
+			Magnemite(600) hit Pidgeot(622) 1(/)
+			Pidgeot(621) hit Magnemite(600) 195(/)
+			Magnemite(405) hit Pidgeot(621) 1(/)
+			Pidgeot(620) hit Magnemite(405) 195(/)
+			Magnemite(210) hit Pidgeot(620) 1(/)
+			Pidgeot(619) hit Magnemite(210) 195(/)
+			Magnemite(15) hit Pidgeot(619) 1(/)
+			Pidgeot(618) hit Magnemite(15) 195(/)
+		WinnerP:Pidgeot
+	WinnerT:Iris
+
+Round Winner: Iris!
+MegaTournament has finished! The champion is Iris.
